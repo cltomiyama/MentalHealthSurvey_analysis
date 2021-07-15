@@ -1,4 +1,4 @@
-# Group YYY - {Short snappy Title of your project}
+# Group 37 - {Short snappy Title of your project}
 
 - Your title can change over time.
 
@@ -16,9 +16,9 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- **Carolina:** one sentence about you!
+- **Gale:** Third-year Psychology student who adores dessert and learning :-)
+- **Mohamad** one sentence about you!
 
 ## References
 
