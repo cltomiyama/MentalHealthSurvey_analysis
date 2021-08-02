@@ -16,7 +16,7 @@ We all understand the importance of mental health, but through this analytics pr
 
 - **Carolina:** Third-year Biochemistry student interested in research.
 - **Gale:** Third-year Psychology student who adores dessert and learning :-)
-- **Mohamad** one sentence about you!
+- **Mohamad** Fourth year Mechanical Engineering Student that has an interest in Data Science!
 
 ## References
 
