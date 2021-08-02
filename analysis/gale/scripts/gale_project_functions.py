@@ -21,7 +21,7 @@ def load_and_process(url_or_filepath):
            .replace(['Androgyne', 'Genderqueer', 'fluid', 'male leaning androgynous', 'queer/she/they'], 'F')
           )
 
-    # method chain 2: handling missing data
+    # method chain 3: handling missing data
     
     mh1 = (mh1.dropna(axis=0, how='any')
            .dropna(subset=['work_interfere'], axis=0, how='any').reset_index()
