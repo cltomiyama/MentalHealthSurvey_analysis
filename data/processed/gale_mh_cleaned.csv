@@ -1,0 +1,688 @@
+Gender,treatment,work_interfere,remote_work,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_consequence,phys_health_consequence,supervisor,mental_health_interview,phys_health_interview,mental_vs_physical,obs_consequence
+M,Yes,Sometimes,No,Yes,Yes,No,No,No,Somewhat difficult,Maybe,No,Some of them,No,No,No,No
+M,Yes,Often,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Yes,No,Maybe,No,No
+M,Yes,Rarely,No,Yes,Not sure,Don't know,Yes,Yes,Don't know,No,No,Yes,No,Yes,Don't know,No
+F,Yes,Rarely,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Maybe,Maybe,Yes,No
+M,Yes,Sometimes,Yes,Don't know,Not sure,No,Don't know,Don't know,Somewhat difficult,No,No,No,No,No,No,No
+M,No,Sometimes,No,No,No,No,No,Don't know,Very difficult,Yes,Maybe,No,No,Maybe,No,No
+M,No,Never,Yes,No,No,No,No,Don't know,Don't know,Yes,Yes,Some of them,No,Maybe,No,No
+M,Yes,Sometimes,Yes,Don't know,No,No,No,Yes,Somewhat easy,Maybe,No,Yes,No,Yes,Don't know,No
+M,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Some of them,Maybe,Yes,Don't know,No
+F,Yes,Sometimes,No,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,No,No,Maybe,Yes,No
+M,Yes,Rarely,No,No,Yes,No,No,Don't know,Very easy,No,No,Yes,Maybe,Maybe,Don't know,No
+M,No,Rarely,No,No,No,No,No,Don't know,Very easy,Yes,Maybe,No,No,No,Don't know,No
+M,Yes,Rarely,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,Yes,Sometimes,No,No,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,Yes,No,Yes
+M,Yes,Sometimes,No,No,Yes,No,No,Yes,Very difficult,Maybe,No,No,No,No,Yes,No
+M,No,Often,No,No,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,No,No,No,No
+M,Yes,Sometimes,No,Don't know,No,No,No,Don't know,Don't know,No,No,No,No,Maybe,Don't know,No
+F,Yes,Sometimes,No,Yes,Yes,No,Yes,Yes,Somewhat easy,No,No,Yes,No,No,Yes,No
+M,Yes,Rarely,No,Yes,No,No,Don't know,Don't know,Don't know,Maybe,No,Yes,No,No,Don't know,No
+M,Yes,Often,No,No,Yes,No,No,Yes,Very difficult,Maybe,No,No,No,Maybe,Don't know,No
+M,No,Never,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Yes,No,No,Don't know,No
+M,Yes,Rarely,No,Yes,Yes,No,No,Yes,Don't know,Maybe,No,No,No,No,Don't know,No
+M,Yes,Sometimes,Yes,Don't know,No,No,No,Don't know,Don't know,No,Maybe,Yes,Yes,Yes,No,No
+M,Yes,Often,Yes,Don't know,No,No,No,No,Somewhat difficult,Yes,No,No,No,Maybe,Don't know,No
+F,Yes,Sometimes,Yes,Don't know,Not sure,Yes,Yes,Yes,Very easy,No,No,Yes,Maybe,Yes,Yes,No
+M,No,Never,No,Yes,Not sure,No,Yes,Don't know,Somewhat easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,No,Sometimes,No,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Yes,No,Maybe,Don't know,No
+M,No,Sometimes,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,No,Yes
+F,Yes,Often,Yes,No,Not sure,No,No,Don't know,Very easy,No,No,Yes,No,Maybe,Yes,No
+M,No,Sometimes,Yes,Yes,No,Don't know,Yes,Don't know,Don't know,Maybe,No,Some of them,Maybe,Yes,Yes,No
+M,No,Never,No,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Don't know,No
+M,No,Never,No,Don't know,Not sure,Don't know,Don't know,Don't know,Somewhat easy,No,No,Yes,No,No,Don't know,No
+MTF,No,Rarely,No,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,No,Yes,No,No,No,No
+M,No,Never,No,Don't know,Not sure,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Yes,No
+M,Yes,Sometimes,Yes,No,No,No,No,Don't know,Somewhat difficult,Yes,No,No,No,Yes,No,No
+M,No,Never,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Some of them,Maybe,Yes,Yes,No
+M,No,Sometimes,Yes,Yes,Yes,No,Yes,Don't know,Don't know,No,No,Some of them,Maybe,Maybe,Yes,No
+M,No,Never,No,Yes,Not sure,Yes,Don't know,Don't know,Very easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,No,Never,No,No,No,No,No,Don't know,Don't know,Yes,No,No,No,Maybe,No,No
+F,Yes,Rarely,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Don't know,No
+F,Yes,Sometimes,No,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,No,Yes
+M,No,Never,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Yes,No,No,Yes,No
+M,Yes,Sometimes,No,No,Yes,No,No,Yes,Very difficult,No,No,Yes,Yes,Yes,No,No
+F,Yes,Sometimes,No,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Yes,No,Maybe,Don't know,No
+M,No,Never,No,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Yes,Maybe,Maybe,No,No
+M,No,Rarely,No,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,Maybe,Maybe,No,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,Don't know,No,No,No,Don't know,Don't know,No,No,Yes,Maybe,Yes,No,No
+M,Yes,Sometimes,No,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,No,No,Maybe,No,No
+M,Yes,Often,No,No,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Maybe,Maybe,Yes,No
+F,No,Never,No,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Don't know,No
+M,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,No,Never,No,Yes,Not sure,Yes,Don't know,Don't know,Somewhat easy,No,No,Yes,No,No,Don't know,No
+M,No,Rarely,No,Yes,Not sure,No,No,Yes,Somewhat easy,No,No,Yes,No,No,Don't know,No
+M,Yes,Sometimes,Yes,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,No,Yes,No,Maybe,No,No
+M,Yes,Rarely,No,No,No,No,No,No,Don't know,Maybe,No,Yes,No,No,Don't know,Yes
+M,No,Never,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,No,No,No,No,Don't know,No
+M,Yes,Sometimes,No,Yes,No,Yes,Yes,Yes,Somewhat difficult,Maybe,No,Yes,No,Maybe,Yes,No
+M,Yes,Sometimes,No,Yes,Yes,No,Don't know,Yes,Don't know,Yes,No,No,No,Yes,No,No
+M,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,No,Maybe,Yes,No
+M,Yes,Rarely,Yes,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,No
+M,No,Never,No,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Don't know,No
+M,No,Never,No,Don't know,No,No,Don't know,Don't know,Very easy,No,No,Some of them,No,No,Don't know,Yes
+M,Yes,Rarely,Yes,No,No,No,No,Yes,Very easy,No,No,No,No,No,Don't know,No
+M,No,Never,No,Yes,Yes,No,Yes,Don't know,Don't know,Yes,Yes,No,No,No,Don't know,No
+M,Yes,Sometimes,Yes,Don't know,No,Don't know,Don't know,Yes,Very easy,No,No,Yes,No,Maybe,Yes,No
+M,No,Often,No,Yes,No,No,No,Yes,Don't know,Maybe,No,No,No,No,Don't know,No
+M,No,Never,No,Yes,No,Yes,Yes,Yes,Don't know,Yes,No,No,No,Yes,Don't know,No
+M,Yes,Rarely,No,Yes,Yes,No,Yes,Yes,Don't know,Yes,No,Yes,No,No,Don't know,No
+M,No,Sometimes,No,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,No,No,No,Yes,No
+M,Yes,Sometimes,No,Don't know,No,No,No,Don't know,Somewhat easy,Yes,Yes,No,No,No,Don't know,No
+M,Yes,Sometimes,No,Yes,Yes,No,No,Don't know,Very easy,Maybe,No,Some of them,No,Yes,No,No
+M,No,Rarely,Yes,No,Yes,No,No,Don't know,Very difficult,Maybe,No,Some of them,No,Yes,Don't know,No
+M,No,Never,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Maybe,Maybe,Don't know,No
+M,Yes,Never,No,Don't know,No,No,No,Don't know,Don't know,No,No,Yes,Maybe,Yes,Don't know,No
+M,No,Never,No,Don't know,No,No,No,Yes,Very easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,Yes,Often,No,Yes,Not sure,No,No,Don't know,Somewhat easy,No,No,Yes,No,No,Don't know,No
+M,Yes,Sometimes,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,Yes,No,No,Don't know,No
+M,No,Never,No,No,No,No,No,Yes,Don't know,Maybe,Maybe,Some of them,No,No,Don't know,No
+M,Yes,Rarely,No,No,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,No,No,No,No,No,Yes
+M,No,Never,No,Don't know,Not sure,No,No,Don't know,Very easy,No,No,Some of them,No,Maybe,No,No
+M,No,Rarely,Yes,No,No,No,No,Don't know,Don't know,No,No,Yes,Maybe,Yes,Yes,No
+M,No,Never,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Maybe,Maybe,Don't know,No
+M,Yes,Sometimes,No,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,No,Maybe,Don't know,No
+M,Yes,Rarely,Yes,No,Yes,No,No,Don't know,Somewhat difficult,Maybe,No,Yes,No,No,Don't know,Yes
+M,Yes,Sometimes,No,Don't know,Not sure,No,No,Don't know,Very easy,Maybe,No,No,No,No,Don't know,Yes
+F,Yes,Sometimes,No,Yes,No,No,No,Don't know,Don't know,Yes,Yes,Some of them,No,No,Don't know,No
+M,No,Never,No,Yes,No,No,Yes,Don't know,Don't know,No,No,Some of them,No,No,Don't know,No
+M,No,Rarely,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Yes,No,No,Don't know,No
+M,No,Never,No,No,No,No,No,Don't know,Very easy,Maybe,No,Some of them,No,Maybe,Don't know,No
+M,No,Rarely,No,Don't know,Not sure,Yes,Don't know,Don't know,Very easy,Maybe,Maybe,Some of them,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,Yes,Yes,Don't know,Don't know,Yes,Somewhat easy,No,No,Yes,No,No,Don't know,No
+M,Yes,Never,No,Don't know,Not sure,No,No,Don't know,Very difficult,Yes,Maybe,No,Maybe,Maybe,No,No
+M,No,Never,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Don't know,No
+F,Yes,Often,Yes,Yes,Not sure,Don't know,Don't know,Yes,Very easy,No,No,Yes,No,No,Yes,Yes
+F,Yes,Sometimes,No,Yes,No,No,No,Yes,Somewhat difficult,No,No,Yes,No,No,Yes,No
+M,No,Never,Yes,No,No,No,No,No,Don't know,Maybe,Maybe,Yes,Maybe,Yes,No,No
+F,No,Never,No,Don't know,No,No,Don't know,Yes,Somewhat easy,No,No,Yes,Maybe,Maybe,Don't know,No
+M,Yes,Sometimes,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Yes,Yes,Some of them,No,No,Don't know,No
+M,Yes,Often,Yes,Yes,Not sure,No,Don't know,Don't know,Very difficult,Yes,Maybe,No,No,No,No,No
+M,No,Sometimes,No,Don't know,No,No,Don't know,Don't know,Somewhat easy,Maybe,No,Yes,Maybe,Yes,Yes,No
+F,Yes,Never,No,Yes,Not sure,Don't know,No,Yes,Somewhat easy,Maybe,No,No,No,No,Don't know,No
+M,Yes,Sometimes,No,Yes,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,No,No,Maybe,No,No
+M,No,Sometimes,No,No,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,Maybe,Don't know,No
+M,Yes,Rarely,No,No,No,No,No,Yes,Don't know,No,No,Yes,No,No,Don't know,No
+F,No,Sometimes,No,No,No,No,No,Don't know,Very difficult,Yes,Yes,No,No,No,No,Yes
+F,No,Never,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,Don't know,No
+M,No,Rarely,No,Yes,No,No,No,Yes,Somewhat easy,No,No,Yes,No,Maybe,No,No
+M,Yes,Sometimes,No,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,Maybe,Don't know,No
+F,Yes,Sometimes,No,Yes,No,No,No,Don't know,Very easy,No,No,Some of them,No,No,Yes,No
+M,Yes,Often,Yes,No,Not sure,No,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Maybe,Maybe,Don't know,No
+M,No,Sometimes,No,No,Yes,No,No,Don't know,Very difficult,Yes,No,No,No,Yes,Don't know,No
+M,Yes,Sometimes,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,No,Yes
+M,Yes,Sometimes,Yes,No,Yes,No,No,Don't know,Somewhat difficult,No,No,Some of them,Maybe,Maybe,Yes,No
+M,Yes,Often,No,No,Yes,No,No,Yes,Somewhat easy,Maybe,No,Yes,No,Maybe,Don't know,No
+M,No,Never,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,No,No,Don't know,No
+F,Yes,Sometimes,No,Don't know,No,No,No,No,Don't know,Yes,Maybe,Some of them,No,Maybe,No,Yes
+M,No,Rarely,No,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,No,Yes,No,No,Yes,Very difficult,Yes,No,Some of them,No,No,No,No
+M,No,Never,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Yes,No,Yes,Yes,No
+M,No,Rarely,Yes,No,Yes,No,No,Don't know,Very difficult,No,No,Yes,No,Maybe,Yes,No
+M,No,Never,No,Yes,Not sure,No,Don't know,Don't know,Very easy,Maybe,No,No,Maybe,Maybe,Yes,No
+M,Yes,Sometimes,No,Yes,No,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Don't know,Yes
+M,Yes,Rarely,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,Maybe,No,Maybe,Maybe,No,No
+M,No,Sometimes,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Yes,No,Maybe,No,No
+M,No,Never,No,No,No,No,No,Don't know,Somewhat difficult,Yes,Maybe,No,No,Maybe,No,No
+M,Yes,Often,No,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,Yes,Don't know,No
+M,Yes,Sometimes,No,No,No,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,No,Maybe,No,Yes
+M,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Yes,No,No,Don't know,No
+M,No,Never,Yes,Yes,Yes,Don't know,Don't know,Yes,Somewhat easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Don't know,Yes,Maybe,No,No,Maybe,No,Yes
+M,Yes,Sometimes,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Yes,No,Yes,Don't know,No
+M,Yes,Rarely,Yes,Yes,Yes,Yes,Don't know,Yes,Very easy,No,No,Yes,No,Maybe,Yes,No
+M,No,Sometimes,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Maybe,Maybe,Don't know,No
+M,No,Often,No,No,No,No,No,Don't know,Somewhat difficult,Yes,No,No,No,Maybe,Don't know,No
+F,Yes,Sometimes,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,Maybe,Yes,No
+M,No,Never,Yes,No,Yes,No,Yes,Don't know,Somewhat easy,No,No,Yes,No,No,Yes,No
+M,Yes,Often,No,No,Yes,No,No,No,Very difficult,Yes,Maybe,No,No,Yes,No,Yes
+F,Yes,Rarely,No,Yes,No,No,No,Yes,Don't know,Maybe,Maybe,No,No,Maybe,Don't know,No
+M,No,Sometimes,Yes,No,Yes,No,No,No,Very difficult,Yes,Yes,Some of them,No,Maybe,No,No
+M,Yes,Sometimes,Yes,Yes,Yes,No,Yes,Yes,Don't know,No,No,Yes,Maybe,No,Yes,No
+M,Yes,Rarely,No,No,Yes,No,No,Yes,Very difficult,Maybe,No,Some of them,No,Yes,No,No
+M,Yes,Sometimes,Yes,Yes,Yes,Don't know,No,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,No
+F,Yes,Often,No,Yes,Yes,No,No,Yes,Don't know,Maybe,No,Some of them,No,Yes,Don't know,No
+M,No,Never,Yes,No,No,No,No,Don't know,Very easy,No,No,Yes,No,No,Don't know,No
+M,No,Sometimes,No,No,Yes,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Don't know,No
+M,Yes,Rarely,Yes,Yes,No,No,No,Don't know,Don't know,Yes,No,No,No,Maybe,No,No
+M,No,Sometimes,No,No,Yes,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Don't know,No
+M,No,Sometimes,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,Maybe,No,No
+M,No,Never,No,No,No,No,No,Yes,Don't know,Yes,No,No,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,Don't know,No,No,Don't know,Don't know,Don't know,Yes,No,No,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,Yes,Yes,No,No,Yes,Somewhat difficult,Yes,No,Some of them,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,No,No,No,No,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes,Yes,Yes,No
+F,Yes,Rarely,No,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Don't know,No
+M,No,Never,No,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Some of them,No,Maybe,Yes,No
+F,Yes,Sometimes,No,No,Yes,No,No,Don't know,Don't know,No,Maybe,No,No,No,Don't know,Yes
+F,Yes,Rarely,Yes,Yes,Yes,Yes,Don't know,Don't know,Somewhat easy,Maybe,No,No,No,No,Don't know,No
+M,No,Never,No,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Don't know,No
+M,Yes,Sometimes,No,Yes,Yes,Don't know,Don't know,Yes,Don't know,Maybe,No,Some of them,No,Maybe,Don't know,No
+M,No,Never,No,Yes,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Don't know,No
+M,Yes,Never,No,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,No,Maybe,Some of them,No,Maybe,Don't know,No
+F,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Don't know,Very easy,No,No,Yes,No,Yes,Yes,No
+M,Yes,Sometimes,No,Yes,No,Yes,Yes,Don't know,Don't know,Yes,No,No,No,Maybe,Don't know,No
+M,No,Never,No,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Yes,Maybe,Maybe,Don't know,No
+F,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Some of them,No,No,Yes,No
+F,Yes,Sometimes,No,Yes,Not sure,Don't know,Don't know,Yes,Somewhat easy,No,No,Yes,No,No,Yes,No
+M,No,Rarely,No,Yes,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,No,Maybe,Don't know,No
+F,Yes,Rarely,No,Yes,Yes,Don't know,Yes,Don't know,Somewhat easy,No,No,Yes,No,No,Yes,No
+M,Yes,Often,No,Yes,No,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,Maybe,Maybe,Yes,No
+F,Yes,Rarely,No,Yes,Not sure,No,No,Don't know,Somewhat easy,Maybe,No,Yes,No,No,Don't know,No
+M,No,Sometimes,No,Yes,Not sure,Yes,Yes,Don't know,Don't know,Maybe,No,Yes,No,Maybe,Don't know,No
+M,Yes,Rarely,No,Yes,Not sure,Don't know,Yes,Don't know,Don't know,No,No,Yes,No,No,Don't know,No
+M,Yes,Sometimes,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,No,No
+F,Yes,Often,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,No,No,Yes,Yes
+M,Yes,Rarely,Yes,Yes,Yes,Don't know,Yes,Yes,Somewhat easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,Yes,Sometimes,No,Yes,No,No,Don't know,Don't know,Don't know,Yes,No,Some of them,No,Maybe,No,No
+M,No,Never,No,Yes,Not sure,Don't know,Yes,Yes,Somewhat easy,No,No,Yes,Maybe,Maybe,Yes,No
+F,Yes,Sometimes,No,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,No,No,Maybe,Don't know,No
+M,Yes,Rarely,No,Yes,No,Don't know,No,Don't know,Don't know,Maybe,No,No,No,No,Don't know,No
+F,No,Never,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,No,No,Don't know,No
+M,Yes,Sometimes,No,Don't know,Not sure,Don't know,Yes,Don't know,Don't know,No,No,Yes,No,No,Yes,No
+M,Yes,Sometimes,No,Yes,Yes,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,No,No
+M,No,Never,No,Yes,Not sure,Yes,Don't know,Don't know,Very easy,No,No,Some of them,Maybe,Maybe,Don't know,No
+M,Yes,Sometimes,No,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,Maybe,Don't know,No
+F,No,Sometimes,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,Maybe,Some of them,No,Maybe,No,No
+M,No,Sometimes,No,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,Yes,No,No,No,Maybe,No,No
+M,No,Rarely,Yes,Don't know,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,Maybe,No,No
+F,Yes,Sometimes,No,Yes,Yes,No,No,Yes,Don't know,No,No,Yes,No,No,Don't know,No
+M,Yes,Never,No,Don't know,No,Yes,Yes,Don't know,Don't know,No,No,Yes,No,No,Don't know,No
+M,No,Sometimes,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,No,Maybe,Don't know,No
+NB,Yes,Sometimes,No,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Yes,No
+M,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,No,No,Yes,Yes,No
+M,No,Never,No,No,No,No,Don't know,Don't know,Very easy,No,No,Yes,No,Maybe,Yes,No
+M,Yes,Often,No,Yes,Not sure,Don't know,Yes,Don't know,Don't know,Maybe,No,No,No,No,Don't know,No
+F,No,Sometimes,No,Yes,Yes,Yes,No,Don't know,Somewhat easy,No,No,Yes,No,No,No,No
+M,Yes,Sometimes,No,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Don't know,No
+M,Yes,Sometimes,No,Yes,Yes,Don't know,Yes,Yes,Don't know,Maybe,Maybe,No,No,No,Don't know,No
+M,Yes,Sometimes,Yes,No,No,No,No,Don't know,Somewhat easy,Yes,Yes,Some of them,No,Maybe,Don't know,No
+M,Yes,Often,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,No,No,No,No,No
+M,Yes,Sometimes,No,Don't know,Not sure,No,Don't know,Don't know,Somewhat difficult,Maybe,Maybe,No,No,No,No,No
+M,Yes,Often,No,No,Yes,No,No,Yes,Very easy,No,No,Some of them,No,No,Don't know,No
+M,Yes,Rarely,No,Yes,No,No,Don't know,Yes,Don't know,No,No,Yes,Maybe,Maybe,Don't know,No
+M,Yes,Often,No,Yes,No,Yes,Yes,Don't know,Somewhat difficult,Maybe,No,Some of them,No,Maybe,No,Yes
+M,Yes,Rarely,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,No,No,Yes,No
+F,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Yes,No,Maybe,Yes,No
+F,Yes,Rarely,No,Don't know,Not sure,Don't know,No,Don't know,Somewhat easy,Yes,No,No,No,Yes,Don't know,No
+M,Yes,Never,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Don't know,No
+F,Yes,Rarely,No,Yes,Yes,No,No,Yes,Don't know,Yes,Maybe,No,No,No,No,No
+F,Yes,Sometimes,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Yes,No,No,Yes,No
+F,Yes,Never,No,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,No,No,No,Don't know,No
+M,Yes,Never,No,Yes,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,No,No,Don't know,No
+M,Yes,Rarely,No,Yes,No,Yes,Yes,Yes,Don't know,No,No,Yes,No,Maybe,Yes,No
+M,Yes,Sometimes,Yes,Yes,No,No,No,Don't know,Don't know,No,No,Yes,No,No,Don't know,No
+M,Yes,Often,Yes,No,No,No,No,Yes,Somewhat easy,No,No,Yes,No,Yes,No,No
+M,Yes,Sometimes,No,Don't know,No,No,No,Don't know,Don't know,Yes,Yes,No,No,No,No,No
+F,Yes,Rarely,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,Maybe,Yes,No,No,Don't know,No
+M,No,Never,No,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Yes,Maybe,Maybe,Don't know,No
+F,Yes,Sometimes,No,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Yes,No,No,No,Maybe,Don't know,No
+F,Yes,Rarely,No,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,No,No,Yes,Don't know,No
+M,No,Never,No,Don't know,No,No,Don't know,Don't know,Somewhat easy,Yes,No,No,No,No,Don't know,No
+M,Yes,Often,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Yes,No,No,Yes,No
+M,No,Sometimes,No,No,No,No,No,Don't know,Very difficult,Maybe,Maybe,Yes,No,Maybe,No,Yes
+F,No,Never,No,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,Don't know,Not sure,Don't know,Don't know,Yes,Somewhat easy,Maybe,No,Some of them,No,Maybe,Yes,No
+M,Yes,Often,No,Yes,Yes,No,No,Don't know,Somewhat difficult,Maybe,No,Yes,No,No,No,No
+M,Yes,Sometimes,No,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,No,No,Maybe,No,No
+M,Yes,Sometimes,No,Yes,Yes,No,No,Don't know,Very difficult,Maybe,Maybe,Some of them,No,Maybe,No,Yes
+M,Yes,Sometimes,No,Don't know,No,No,No,Don't know,Very easy,Maybe,No,Some of them,Maybe,Maybe,Don't know,No
+M,Yes,Never,Yes,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Yes,No
+M,Yes,Often,Yes,Yes,Yes,No,No,Don't know,Somewhat easy,Yes,No,No,No,No,No,No
+M,No,Never,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,No,Maybe,Don't know,Yes
+NB,Yes,Sometimes,No,Don't know,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,Yes,Yes,No
+F,Yes,Sometimes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Somewhat difficult,No,No,Some of them,No,No,Yes,No
+M,No,Often,No,Don't know,No,No,Don't know,Don't know,Somewhat easy,Maybe,No,Yes,No,No,Don't know,No
+F,Yes,Sometimes,No,Don't know,Not sure,No,No,Don't know,Somewhat difficult,No,No,Yes,Maybe,Maybe,No,No
+M,No,Never,No,No,No,No,No,Don't know,Somewhat easy,No,No,Yes,No,Maybe,Don't know,No
+M,Yes,Sometimes,Yes,No,Yes,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,No,Yes
+M,Yes,Rarely,Yes,Yes,No,No,No,Yes,Very easy,No,No,Yes,No,No,Yes,No
+M,Yes,Sometimes,Yes,Yes,Yes,Yes,No,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,No
+M,Yes,Sometimes,No,No,No,No,Don't know,Don't know,Somewhat easy,No,No,Yes,No,No,Don't know,No
+M,Yes,Sometimes,No,No,Yes,No,No,Don't know,Somewhat difficult,Yes,No,Some of them,No,Maybe,No,Yes
+F,Yes,Rarely,No,No,No,No,No,Don't know,Very easy,Yes,No,Some of them,No,Yes,Yes,No
+M,No,Sometimes,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Yes,No,Maybe,Don't know,No
+F,Yes,Sometimes,No,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,No,No,Don't know,No
+M,No,Never,No,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Yes,No,No,Don't know,No
+F,Yes,Sometimes,No,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,No,No,Maybe,Don't know,No
+M,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,No,Sometimes,No,No,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,Maybe,No,No
+M,No,Rarely,Yes,Yes,No,Yes,Don't know,Don't know,Somewhat easy,Maybe,No,No,No,No,Don't know,No
+M,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,No,Yes,Maybe,Yes,Yes,Yes
+M,Yes,Sometimes,No,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,No,No,Yes,No
+M,No,Often,No,Yes,No,No,Don't know,Don't know,Don't know,Yes,No,Some of them,No,Maybe,No,Yes
+F,Yes,Sometimes,No,Yes,Yes,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,No,No,No,Yes
+M,Yes,Rarely,No,Yes,Yes,Yes,No,Don't know,Don't know,No,No,Yes,No,No,Don't know,No
+F,No,Never,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Yes,Maybe,Some of them,No,Maybe,Yes,No
+M,Yes,Often,No,Yes,Yes,Yes,No,Don't know,Very difficult,Yes,No,No,No,No,No,Yes
+M,Yes,Sometimes,No,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Yes,No,No,No,Don't know,No
+M,Yes,Sometimes,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,No,No,No,Yes,Don't know,No
+M,No,Sometimes,No,Don't know,No,No,No,Yes,Somewhat easy,No,No,Yes,Maybe,Yes,Don't know,No
+M,No,Rarely,No,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,Maybe,No,No
+M,No,Never,No,Yes,No,No,No,Yes,Don't know,Yes,No,No,No,Maybe,Don't know,No
+M,No,Never,No,No,No,No,No,Don't know,Don't know,Maybe,No,No,No,Yes,Yes,No
+F,No,Never,No,Yes,Not sure,Yes,Yes,Don't know,Very easy,Maybe,No,Yes,No,No,Yes,No
+M,No,Sometimes,Yes,No,Yes,No,No,Don't know,Somewhat easy,Yes,Maybe,No,No,No,Don't know,No
+F,No,Never,No,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Maybe,Maybe,No,No,Maybe,No,No
+M,Yes,Sometimes,Yes,Don't know,No,Yes,Don't know,Don't know,Somewhat easy,Yes,No,Yes,No,Maybe,Yes,No
+M,Yes,Rarely,No,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Yes,No,Maybe,No,No
+M,Yes,Sometimes,No,No,No,No,No,No,Very difficult,Yes,Maybe,Some of them,No,Maybe,No,No
+M,No,Never,No,No,Yes,No,No,Don't know,Don't know,Maybe,No,Yes,Maybe,Maybe,No,No
+F,Yes,Rarely,Yes,Yes,Yes,No,No,Yes,Don't know,Yes,No,No,No,Maybe,Don't know,No
+M,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,No,No,Yes,No
+M,Yes,Rarely,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Yes,No,Yes,Yes,No
+M,No,Sometimes,No,Don't know,No,No,No,Don't know,Very difficult,Yes,No,No,No,Maybe,No,No
+F,Yes,Sometimes,No,Yes,Yes,No,Yes,Don't know,Don't know,Yes,No,Some of them,No,Maybe,No,Yes
+M,No,Sometimes,Yes,Don't know,No,No,No,Don't know,Very difficult,Maybe,No,Yes,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,Yes,Not sure,Yes,Yes,Don't know,Don't know,Maybe,Maybe,No,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,No,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,No,Yes
+M,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,Yes,Don't know,No
+F,Yes,Sometimes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Maybe,Maybe,Don't know,No
+M,Yes,Rarely,No,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,No,No,Maybe,Don't know,No
+M,No,Never,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,Maybe,Don't know,No
+F,Yes,Sometimes,No,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Maybe,No,No,Maybe,Don't know,No
+M,No,Sometimes,No,No,No,No,No,Yes,Very easy,Maybe,No,Yes,No,Maybe,Yes,No
+F,Yes,Often,No,Yes,Not sure,Don't know,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Yes,Yes
+M,No,Rarely,No,Don't know,Not sure,Don't know,Don't know,Don't know,Somewhat easy,No,No,Some of them,No,Maybe,Yes,No
+F,Yes,Sometimes,No,No,Yes,No,No,Don't know,Don't know,Yes,Maybe,No,No,Maybe,No,No
+M,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,No,No,No,Yes,No
+M,Yes,Sometimes,Yes,Yes,No,No,No,Don't know,Don't know,No,No,Yes,Maybe,Maybe,Yes,No
+M,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Don't know,Very easy,No,No,Yes,No,Yes,Yes,No
+F,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Don't know,Very easy,No,No,Some of them,No,No,Don't know,No
+F,No,Sometimes,No,No,No,No,No,No,Somewhat easy,Maybe,No,No,No,No,Yes,No
+M,No,Never,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,No,No,Yes,No
+M,Yes,Sometimes,No,Yes,Not sure,Yes,Yes,Yes,Don't know,Yes,No,No,No,No,No,No
+M,Yes,Rarely,Yes,Yes,Not sure,Yes,Yes,Yes,Don't know,No,No,Yes,No,Maybe,Yes,No
+M,Yes,Sometimes,No,Yes,Yes,No,No,Yes,Very easy,Yes,Yes,Some of them,No,Maybe,No,No
+M,Yes,Often,No,No,Yes,No,No,Yes,Very easy,Maybe,Maybe,Yes,No,No,No,No
+M,No,Never,No,Yes,Yes,Don't know,Yes,Don't know,Don't know,Maybe,No,Yes,Maybe,Maybe,Yes,No
+M,No,Rarely,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Yes,No,No,No,Don't know,Yes
+F,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,Some of them,No,No,Yes,No
+M,Yes,Sometimes,Yes,No,Yes,Yes,No,No,Somewhat difficult,Yes,Yes,No,No,No,Don't know,Yes
+M,Yes,Sometimes,No,Yes,Yes,No,Yes,Yes,Very easy,No,No,Some of them,No,No,Yes,No
+M,Yes,Rarely,No,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,Yes,No,No
+M,No,Rarely,No,Don't know,No,No,Don't know,Don't know,Very easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,No,Never,No,Don't know,Not sure,Don't know,No,Don't know,Don't know,Yes,Maybe,No,No,Maybe,Don't know,No
+F,Yes,Sometimes,No,No,Yes,No,No,No,Somewhat difficult,Yes,No,Some of them,No,No,No,No
+M,Yes,Often,Yes,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,Yes,No,Yes,No,No,No,No
+M,Yes,Never,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,No
+M,No,Never,No,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Don't know,No
+F,Yes,Sometimes,No,Yes,Yes,No,Don't know,Don't know,Don't know,No,No,Some of them,No,No,No,Yes
+F,Yes,Rarely,No,Yes,Yes,No,No,Yes,Somewhat easy,No,No,Yes,No,No,Yes,No
+M,No,Never,No,Don't know,No,No,No,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,No
+F,Yes,Often,Yes,Yes,No,No,Don't know,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,Yes
+F,Yes,Rarely,No,No,Not sure,No,No,Yes,Somewhat difficult,Yes,Yes,Some of them,Yes,No,No,Yes
+M,No,Never,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,Yes,Sometimes,No,Yes,No,No,Yes,Don't know,Somewhat difficult,Yes,No,Yes,No,Yes,No,No
+M,No,Often,No,No,No,Don't know,No,Don't know,Somewhat easy,Maybe,No,Some of them,Maybe,Yes,Don't know,No
+M,Yes,Sometimes,No,No,No,No,No,Don't know,Very easy,No,No,Yes,Maybe,Yes,Don't know,No
+F,Yes,Sometimes,No,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Yes,No
+NB,Yes,Sometimes,No,No,Yes,Yes,No,Yes,Somewhat easy,Maybe,No,Some of them,No,No,Yes,No
+F,Yes,Rarely,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,Yes,Don't know,No
+M,No,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,No,Maybe,Yes,No
+M,Yes,Sometimes,Yes,No,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Yes,Maybe,Yes,Yes,No
+M,Yes,Sometimes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,No,No,No,No,No,Yes,No
+M,No,Never,No,Don't know,Not sure,Don't know,Don't know,Yes,Very easy,No,No,Yes,Maybe,Yes,Yes,No
+M,Yes,Rarely,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Some of them,No,No,Don't know,No
+M,No,Never,No,No,No,No,No,Don't know,Somewhat difficult,No,No,Some of them,No,No,No,No
+M,Yes,Sometimes,No,Yes,Yes,No,No,Yes,Somewhat difficult,Maybe,No,No,No,Maybe,No,No
+M,Yes,Sometimes,No,Yes,Not sure,Yes,Don't know,Yes,Don't know,Yes,Maybe,Yes,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,Yes,No,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Maybe,Yes,Don't know,No
+M,No,Sometimes,No,Yes,Not sure,Don't know,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,No,Yes,No,No
+M,Yes,Sometimes,No,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,Don't know,No
+M,Yes,Rarely,No,No,Yes,No,No,Don't know,Don't know,Maybe,No,Yes,No,No,Yes,No
+M,Yes,Often,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Yes,Maybe,Maybe,Don't know,No
+F,No,Sometimes,No,Don't know,Not sure,Don't know,Yes,Don't know,Don't know,No,No,Yes,No,No,Yes,No
+F,Yes,Sometimes,No,Yes,Yes,No,No,Yes,Somewhat difficult,No,No,Yes,No,No,No,Yes
+M,No,Never,Yes,No,Yes,No,No,Don't know,Don't know,No,No,No,No,Maybe,No,No
+M,No,Never,No,Don't know,No,No,Don't know,Don't know,Somewhat easy,No,No,Yes,No,No,Yes,No
+M,No,Sometimes,Yes,Don't know,Not sure,No,No,Yes,Very easy,No,No,Yes,No,No,Yes,No
+M,Yes,Often,No,Yes,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Don't know,Yes
+M,No,Never,No,No,Yes,No,No,Yes,Very easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,No,Sometimes,Yes,No,No,No,No,Yes,Don't know,Yes,No,Yes,No,No,No,No
+M,Yes,Often,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,No,No,Maybe,No,Yes
+F,No,Never,No,Yes,Yes,Yes,No,Yes,Don't know,Maybe,No,Some of them,No,Maybe,Don't know,Yes
+M,Yes,Sometimes,No,No,No,No,No,Don't know,Somewhat easy,Maybe,No,Yes,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,No,Yes,No,No,Don't know,Somewhat easy,No,No,Yes,No,Maybe,Don't know,No
+M,Yes,Sometimes,Yes,Yes,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,No,Yes,Don't know,Yes
+M,Yes,Sometimes,No,Don't know,No,No,No,No,Somewhat difficult,Yes,No,Some of them,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,No,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,Yes,Not sure,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No
+M,No,Never,No,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Yes,No,Maybe,Yes,No
+M,No,Rarely,No,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,No,No,Yes,No
+F,Yes,Sometimes,No,Yes,Not sure,No,No,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,No,Yes
+M,Yes,Rarely,No,No,No,No,Don't know,Don't know,Somewhat difficult,Yes,Yes,No,No,No,No,Yes
+M,No,Often,No,Yes,Yes,Yes,Yes,Don't know,Don't know,No,No,Yes,No,No,Don't know,No
+M,No,Sometimes,No,No,Yes,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,No
+M,No,Sometimes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,Maybe,Don't know,No
+M,No,Never,Yes,No,No,No,No,Don't know,Don't know,Yes,No,No,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,No,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,No,Sometimes,No,Don't know,Not sure,No,No,Don't know,Somewhat easy,Maybe,No,No,No,Yes,No,Yes
+M,No,Rarely,No,Yes,No,No,No,Don't know,Very easy,Yes,Maybe,No,No,No,Don't know,No
+M,No,Never,No,Yes,No,Yes,Don't know,Don't know,Don't know,No,No,Some of them,Maybe,Maybe,Yes,No
+M,No,Often,Yes,No,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,Maybe,Maybe,Don't know,No
+M,Yes,Sometimes,No,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Maybe,Yes,Yes,No
+M,No,Sometimes,No,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Some of them,No,Maybe,Don't know,No
+F,Yes,Often,Yes,Yes,Yes,No,No,Don't know,Very easy,Maybe,No,Some of them,No,Yes,Don't know,No
+F,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Don't know,No
+F,Yes,Sometimes,No,Don't know,No,No,No,Don't know,Don't know,No,No,Some of them,No,No,Don't know,No
+F,Yes,Rarely,No,Yes,Yes,Yes,Yes,Don't know,Somewhat difficult,Maybe,No,Some of them,No,No,No,No
+F,No,Sometimes,Yes,No,Yes,No,No,Yes,Very difficult,Yes,Maybe,No,No,Maybe,No,Yes
+M,Yes,Sometimes,Yes,Yes,Not sure,No,Don't know,Don't know,Don't know,Yes,No,Some of them,No,No,Don't know,Yes
+F,Yes,Sometimes,No,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Don't know,No
+M,Yes,Rarely,No,Yes,Yes,No,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Don't know,No
+M,No,Sometimes,Yes,No,No,No,No,No,Very easy,No,No,Yes,Maybe,Maybe,Yes,No
+F,Yes,Sometimes,Yes,Yes,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,No,Yes,No,No,Yes,No
+M,No,Never,No,No,No,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Yes,Don't know,No
+M,Yes,Often,No,No,No,No,No,Yes,Somewhat easy,No,No,Yes,No,Maybe,Yes,No
+M,No,Never,No,Yes,Yes,No,Yes,Yes,Somewhat difficult,Yes,Maybe,No,No,Maybe,Don't know,Yes
+M,Yes,Sometimes,No,No,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,No,No
+M,No,Sometimes,No,No,No,No,No,Don't know,Very easy,No,No,Some of them,No,No,Don't know,No
+F,No,Often,No,No,No,No,No,Don't know,Don't know,No,No,Some of them,No,Yes,Don't know,No
+M,Yes,Never,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,No,No,No
+M,No,Rarely,No,No,No,No,No,No,Somewhat difficult,No,Maybe,No,No,No,Yes,No
+M,Yes,Sometimes,No,Yes,Yes,No,Don't know,Yes,Don't know,Maybe,No,Yes,No,Yes,Yes,No
+F,No,Rarely,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,No,Maybe,Yes,No
+M,No,Never,No,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Yes,Maybe,Maybe,Don't know,No
+M,No,Never,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Don't know,No
+M,Yes,Sometimes,Yes,No,No,Don't know,No,Don't know,Very difficult,Maybe,Maybe,No,No,No,No,No
+M,No,Never,No,No,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,Don't know,No
+M,No,Never,No,No,Not sure,No,Don't know,Don't know,Somewhat difficult,No,No,No,No,Maybe,Don't know,No
+M,No,Sometimes,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,No,No,Maybe,Don't know,No
+F,No,Never,No,Don't know,No,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Yes,No
+M,No,Sometimes,No,Don't know,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,No
+F,Yes,Rarely,No,Don't know,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Don't know,No
+M,Yes,Often,Yes,Yes,Not sure,No,Yes,Don't know,Very easy,No,No,Yes,No,Maybe,Yes,No
+M,Yes,Rarely,Yes,No,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,Maybe,Don't know,Yes
+F,Yes,Sometimes,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Don't know,No
+F,Yes,Rarely,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Yes,No,No,Yes,No
+M,Yes,Sometimes,No,Yes,Not sure,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Yes,No,No,Yes,No
+F,Yes,Sometimes,Yes,Don't know,Not sure,Yes,Don't know,Yes,Very easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,Yes,Sometimes,No,Yes,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Don't know,No
+M,No,Never,Yes,No,No,No,No,Yes,Somewhat easy,No,No,Yes,No,Maybe,Yes,No
+M,Yes,Sometimes,No,Yes,Yes,Don't know,Don't know,Yes,Don't know,Maybe,No,Yes,No,No,Don't know,No
+M,Yes,Rarely,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Yes,No,Maybe,No,Yes
+M,No,Never,No,Don't know,Not sure,No,No,Don't know,Don't know,Yes,Yes,No,No,No,No,No
+M,Yes,Often,No,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,No,Never,No,Don't know,No,No,Don't know,Don't know,Very easy,No,No,Yes,No,Maybe,Don't know,No
+M,No,Never,No,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,No,No
+M,Yes,Never,Yes,Don't know,No,Yes,Don't know,Don't know,Don't know,Yes,No,Yes,No,No,No,No
+M,No,Never,Yes,No,No,No,No,No,Don't know,No,No,Some of them,No,Maybe,No,No
+M,No,Rarely,Yes,Don't know,No,No,No,Don't know,Very easy,Maybe,Maybe,Some of them,No,Maybe,No,No
+M,Yes,Sometimes,No,Don't know,No,No,No,No,Very difficult,Yes,Yes,No,No,No,No,No
+M,Yes,Often,No,No,No,No,No,Don't know,Don't know,Yes,No,Yes,Maybe,Yes,No,No
+M,Yes,Sometimes,No,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,No,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,No,Yes,No,No,Yes,Very easy,No,No,Yes,No,Maybe,Yes,Yes
+M,Yes,Sometimes,No,No,No,No,No,Don't know,Very easy,No,No,Some of them,No,Yes,Yes,No
+M,Yes,Sometimes,No,Yes,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,No,Yes,Maybe,Yes,Don't know,No
+M,Yes,Sometimes,Yes,Yes,Yes,No,No,Don't know,Very difficult,Maybe,Maybe,Some of them,Maybe,Maybe,Don't know,No
+M,Yes,Rarely,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,No,No,Yes,No
+M,Yes,Sometimes,No,Don't know,Not sure,No,No,Don't know,Somewhat difficult,No,No,Yes,No,Yes,Don't know,No
+M,Yes,Sometimes,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Don't know,No
+M,No,Never,No,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,No,No,Yes,No
+M,Yes,Sometimes,No,Yes,No,Yes,Don't know,Don't know,Somewhat difficult,Yes,Maybe,No,No,Maybe,No,No
+M,No,Rarely,No,No,No,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Maybe,Maybe,Yes,No
+M,Yes,Sometimes,No,No,No,No,No,Don't know,Very easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,Yes,Sometimes,No,No,No,No,No,No,Very difficult,Yes,Yes,No,No,No,No,No
+F,Yes,Sometimes,No,Don't know,Not sure,Yes,Don't know,Don't know,Somewhat easy,Yes,No,No,No,Maybe,No,No
+M,No,Never,No,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,No,Yes,Yes,Don't know,No
+F,Yes,Never,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,No
+M,No,Never,No,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,No,Yes,Maybe,Yes,Don't know,No
+M,Yes,Rarely,No,No,No,No,No,Yes,Somewhat easy,Yes,No,Yes,No,Maybe,No,Yes
+M,No,Sometimes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,Maybe,No,No
+M,Yes,Never,No,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Yes,Yes,Yes,Don't know,No
+M,Yes,Sometimes,Yes,No,Yes,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,Yes,Don't know,No
+M,Yes,Sometimes,No,Don't know,Not sure,Don't know,Don't know,Yes,Very easy,No,No,Yes,No,Maybe,Yes,No
+M,Yes,Sometimes,No,Yes,Yes,Don't know,Don't know,Yes,Don't know,Maybe,No,Some of them,No,Maybe,Don't know,No
+M,Yes,Never,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,No,Maybe,Yes,No
+M,No,Rarely,No,Don't know,Not sure,No,No,Don't know,Somewhat easy,No,No,Yes,No,Maybe,Don't know,Yes
+M,Yes,Sometimes,No,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Don't know,No
+F,Yes,Often,Yes,Don't know,Not sure,No,No,Yes,Somewhat difficult,Yes,No,Some of them,No,Yes,No,Yes
+F,Yes,Sometimes,No,Don't know,Not sure,Don't know,Don't know,Don't know,Very difficult,Yes,Maybe,Some of them,No,Maybe,No,Yes
+M,No,Never,No,Yes,Yes,No,No,Don't know,Somewhat easy,Maybe,No,Yes,No,Maybe,No,Yes
+F,Yes,Often,No,Yes,No,No,Don't know,Don't know,Don't know,Yes,No,Yes,No,No,Don't know,No
+F,Yes,Sometimes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,Maybe,No,No,No,Maybe,Yes,No
+M,Yes,Sometimes,No,No,Yes,No,No,Don't know,Very easy,No,No,Yes,Maybe,Maybe,Yes,No
+MTF,Yes,Sometimes,No,No,Yes,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,No,No,No,Yes
+M,No,Sometimes,No,Yes,Yes,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,No,No
+M,No,Never,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,No,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,No,No,No,No,Don't know,Somewhat difficult,No,No,Some of them,No,Maybe,No,No
+M,Yes,Never,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Don't know,No
+F,No,Sometimes,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,No,No,No,Yes,Don't know,No
+M,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,No,Yes,No,No,Don't know,No
+M,No,Never,Yes,No,Yes,No,No,No,Very difficult,Yes,Yes,No,No,No,Don't know,No
+F,No,Often,No,Don't know,No,No,No,No,Very difficult,Yes,Yes,Some of them,No,No,No,Yes
+M,No,Never,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Maybe,Maybe,Yes,No
+F,Yes,Rarely,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,No,No,Maybe,Don't know,No
+M,No,Never,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Don't know,No
+M,Yes,Rarely,No,No,Yes,No,No,Yes,Very easy,No,No,Yes,No,No,Yes,No
+F,Yes,Rarely,No,Yes,Not sure,Don't know,No,Don't know,Don't know,No,No,Yes,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,No,No,No,No,Don't know,Don't know,Yes,No,No,No,Yes,Don't know,No
+F,Yes,Often,No,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,No,Yes,No,Yes
+M,No,Rarely,No,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,No,No,Yes,No,No,No,No
+F,Yes,Sometimes,No,Yes,Yes,No,No,Don't know,Somewhat difficult,No,No,Yes,Maybe,Maybe,Don't know,No
+M,No,Sometimes,No,Don't know,Not sure,Yes,Don't know,Don't know,Don't know,Maybe,No,No,No,No,Don't know,No
+M,No,Sometimes,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Yes,Yes,No,No,No,No,No
+M,Yes,Sometimes,No,Don't know,No,Yes,Don't know,Yes,Don't know,Maybe,No,No,No,No,Don't know,No
+M,No,Rarely,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Some of them,No,Maybe,Don't know,No
+M,Yes,Sometimes,Yes,No,Yes,No,No,Don't know,Somewhat easy,Maybe,No,No,No,Maybe,Don't know,No
+M,No,Sometimes,Yes,No,No,No,No,Don't know,Very difficult,Yes,Maybe,Some of them,No,Maybe,Don't know,No
+M,No,Never,Yes,Yes,Yes,Yes,Yes,Yes,Very easy,No,No,Yes,No,No,Yes,No
+M,Yes,Often,Yes,No,Yes,No,No,Don't know,Very difficult,Yes,No,Yes,No,Maybe,No,No
+M,Yes,Sometimes,No,Yes,Yes,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Don't know,No
+M,Yes,Rarely,Yes,Yes,Yes,Don't know,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Yes,Yes,No
+F,Yes,Sometimes,No,Don't know,No,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,No,Yes,Don't know,Yes
+M,Yes,Never,No,Yes,Yes,No,Don't know,Yes,Very easy,Maybe,No,No,No,No,Don't know,No
+M,Yes,Sometimes,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Yes,No
+M,No,Never,Yes,Yes,Yes,Don't know,Don't know,Yes,Very easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,No,Never,Yes,Yes,No,Yes,Don't know,Don't know,Don't know,Maybe,No,Yes,No,No,Yes,Yes
+M,Yes,Sometimes,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,Maybe,No,No
+M,Yes,Rarely,No,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Yes,No,No,Don't know,No
+M,No,Sometimes,No,Yes,No,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Yes,Maybe,Maybe,Don't know,Yes
+M,No,Never,No,Yes,No,Don't know,Yes,Don't know,Very difficult,Yes,Yes,No,Maybe,Maybe,No,No
+M,Yes,Often,Yes,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,Yes,Don't know,No
+M,No,Never,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,Yes,No,No,Yes,No
+M,No,Sometimes,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,No,No,Yes,No,Maybe,No,No
+M,Yes,Rarely,No,No,No,No,No,Don't know,Very difficult,Yes,Yes,No,No,No,No,Yes
+M,Yes,Sometimes,No,Yes,Yes,No,Yes,Yes,Somewhat difficult,Yes,Maybe,No,No,Maybe,No,Yes
+F,Yes,Sometimes,No,Yes,Yes,Yes,No,Don't know,Don't know,Yes,Yes,No,No,No,No,No
+M,Yes,Rarely,Yes,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,No,Maybe,Don't know,No
+M,Yes,Never,No,Yes,Yes,Yes,Yes,Yes,Don't know,Maybe,Maybe,Yes,No,Maybe,Yes,Yes
+M,Yes,Sometimes,No,No,No,No,No,Don't know,Somewhat easy,Yes,No,No,No,Maybe,No,Yes
+M,Yes,Rarely,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Maybe,Maybe,No,No,No,Don't know,No
+F,Yes,Often,Yes,No,No,No,No,Don't know,Very easy,No,No,Yes,No,No,Don't know,No
+M,Yes,Sometimes,No,Don't know,Yes,No,Yes,Don't know,Somewhat easy,No,No,Yes,No,No,Don't know,No
+F,Yes,Sometimes,No,Yes,Yes,No,No,Yes,Somewhat easy,No,No,Yes,No,No,Don't know,No
+M,Yes,Sometimes,No,No,No,No,No,Don't know,Somewhat difficult,Yes,Maybe,No,No,Maybe,No,No
+F,Yes,Often,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Yes,Yes,No,No,No,Don't know,No
+M,No,Sometimes,No,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Yes,No,Yes,Don't know,No
+M,No,Sometimes,No,Yes,No,Yes,No,Don't know,Don't know,Yes,Maybe,No,No,No,Don't know,No
+M,No,Never,No,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Yes,No,No,Don't know,No
+M,No,Often,No,Don't know,No,No,Yes,Don't know,Very easy,No,No,Yes,No,Maybe,Yes,No
+M,Yes,Sometimes,Yes,Yes,Yes,No,Yes,Yes,Very difficult,Yes,Maybe,No,No,Maybe,No,Yes
+M,Yes,Sometimes,No,No,Not sure,No,No,Don't know,Very difficult,Yes,Yes,Some of them,No,Maybe,No,No
+M,Yes,Sometimes,No,Don't know,Not sure,No,Yes,Yes,Very difficult,Maybe,No,Some of them,Yes,Yes,No,Yes
+M,Yes,Often,No,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,Maybe,Don't know,No
+M,Yes,Rarely,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,No,No,Don't know,No
+M,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,Yes,No,Maybe,No,No
+M,Yes,Rarely,No,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,No
+M,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Yes,Very difficult,Yes,No,Some of them,No,Maybe,Don't know,Yes
+F,Yes,Sometimes,No,Yes,Yes,No,Don't know,Yes,Somewhat easy,Maybe,No,Yes,No,No,Yes,No
+M,No,Sometimes,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Yes,No,No,No,No,Don't know,No
+M,Yes,Sometimes,No,Don't know,No,Don't know,Don't know,Don't know,Somewhat easy,Maybe,No,No,No,Maybe,No,No
+M,Yes,Often,No,Yes,Yes,No,No,Yes,Don't know,Yes,No,No,No,No,No,No
+M,Yes,Rarely,No,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Yes,Maybe,Yes,Yes,No
+M,Yes,Sometimes,No,Yes,Yes,Don't know,Yes,Don't know,Very difficult,Maybe,Maybe,Some of them,No,No,Don't know,No
+M,Yes,Sometimes,No,Yes,Yes,Don't know,Don't know,Yes,Very easy,Maybe,No,Some of them,No,No,Don't know,No
+M,Yes,Rarely,No,No,Yes,No,No,Yes,Very easy,No,No,Yes,Maybe,Maybe,Yes,No
+F,Yes,Rarely,No,Don't know,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Don't know,No
+M,Yes,Often,No,Don't know,Not sure,Yes,No,Yes,Somewhat easy,No,No,Yes,Yes,Yes,Yes,No
+M,Yes,Rarely,No,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,No,Maybe,No,No
+M,No,Never,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Yes,No,No,Don't know,No
+M,No,Sometimes,Yes,No,Not sure,No,No,Don't know,Very difficult,Yes,Maybe,No,No,Maybe,No,Yes
+M,Yes,Rarely,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,No,Maybe,Don't know,No
+M,No,Never,No,Yes,Yes,Yes,Yes,Yes,Don't know,No,No,Yes,No,No,Yes,No
+M,No,Never,No,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,No,Maybe,No,Yes
+M,No,Never,No,Yes,No,No,No,No,Somewhat easy,Maybe,No,No,No,No,Don't know,No
+M,Yes,Often,No,No,No,No,No,Don't know,Somewhat easy,Maybe,Maybe,Yes,No,No,No,No
+M,Yes,Sometimes,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Yes,No,Maybe,No,No
+M,Yes,Often,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,Yes,Don't know,No
+M,No,Never,No,Yes,Not sure,Yes,No,Yes,Very easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,Yes,Sometimes,Yes,No,No,No,No,Don't know,Very easy,No,No,Yes,No,Yes,Yes,No
+F,No,Rarely,Yes,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Yes,Yes,No,No,No,No,Yes
+M,No,Often,No,No,No,No,No,No,Somewhat difficult,Yes,No,No,No,Yes,Yes,No
+M,No,Sometimes,No,Yes,Not sure,Yes,Yes,Yes,Somewhat easy,No,No,No,No,Maybe,Don't know,No
+F,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Yes,Very easy,No,No,No,No,No,Yes,No
+M,Yes,Sometimes,No,Don't know,No,No,No,Don't know,Don't know,Yes,No,No,No,Maybe,Yes,No
+M,Yes,Rarely,Yes,Yes,Yes,No,No,Yes,Very easy,Maybe,No,Yes,No,No,Don't know,No
+M,No,Rarely,No,No,No,No,No,Don't know,Don't know,Yes,No,No,No,No,Don't know,No
+M,Yes,Often,Yes,Yes,Yes,No,Don't know,Yes,Somewhat easy,No,No,Yes,Maybe,Maybe,Don't know,No
+M,Yes,Sometimes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Yes,No,Maybe,Don't know,No
+M,Yes,Often,No,Yes,Yes,No,No,Yes,Very easy,No,No,Yes,Maybe,Maybe,Don't know,No
+F,Yes,Sometimes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,Maybe,Maybe,Don't know,Yes
+M,Yes,Sometimes,No,No,Yes,No,No,Yes,Very easy,Yes,Yes,Some of them,No,Maybe,Yes,Yes
+M,No,Never,No,Don't know,No,No,Don't know,Don't know,Very easy,Maybe,No,Yes,No,No,Yes,No
+M,No,Sometimes,No,Don't know,No,No,No,Don't know,Don't know,Yes,No,No,No,Maybe,Don't know,No
+M,Yes,Sometimes,Yes,No,Yes,No,No,Yes,Somewhat easy,No,No,Yes,Maybe,Yes,Yes,No
+F,No,Sometimes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Yes,No,No,Don't know,No
+M,No,Sometimes,No,Yes,Not sure,Yes,Yes,Yes,Don't know,Yes,Maybe,Some of them,No,Maybe,Yes,No
+M,Yes,Sometimes,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,No,No,No,Maybe,Don't know,No
+M,No,Rarely,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Yes,No,Some of them,No,Yes,Don't know,Yes
+M,No,Never,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Some of them,No,Maybe,No,No
+M,No,Never,No,Yes,Yes,Yes,Yes,Don't know,Somewhat easy,No,No,Yes,No,Maybe,Yes,No
+M,No,Sometimes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,Maybe,No,No
+M,Yes,Sometimes,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Don't know,No
+F,No,Never,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,No,Yes,Maybe,No,Yes,No
+M,No,Sometimes,No,Don't know,Not sure,No,No,Don't know,Don't know,No,No,Yes,Maybe,Maybe,Don't know,No
+F,No,Never,Yes,Yes,Yes,Yes,No,Don't know,Don't know,Yes,Yes,No,No,No,Don't know,No
+M,Yes,Rarely,No,Don't know,Not sure,Don't know,Don't know,Yes,Don't know,No,No,Yes,Maybe,Maybe,Yes,No
+F,Yes,Often,No,No,No,No,No,No,Very difficult,Yes,No,No,No,Yes,No,Yes
+M,No,Sometimes,Yes,No,Yes,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Don't know,No
+M,Yes,Sometimes,Yes,No,No,No,No,Yes,Don't know,No,No,Yes,No,Maybe,Yes,No
+F,No,Sometimes,No,No,Not sure,No,No,Don't know,Very easy,No,No,Yes,No,Maybe,Yes,No
+F,Yes,Sometimes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Yes,No,Some of them,No,Maybe,No,No
+M,Yes,Sometimes,Yes,Yes,Yes,No,Yes,Don't know,Don't know,Yes,No,No,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,Yes,Yes,No,No,Yes,Don't know,Maybe,No,No,No,Maybe,Don't know,No
+F,Yes,Sometimes,No,Yes,Not sure,No,No,Yes,Don't know,Maybe,No,No,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,No,Not sure,No,No,Don't know,Somewhat easy,No,No,Yes,No,No,Don't know,No
+M,No,Sometimes,No,No,No,No,No,Don't know,Somewhat easy,No,No,Some of them,No,No,Don't know,Yes
+F,Yes,Sometimes,No,Yes,Yes,No,No,Don't know,Don't know,No,No,Yes,No,Maybe,No,Yes
+M,Yes,Often,No,Don't know,Not sure,No,No,Yes,Very easy,No,No,Some of them,No,Maybe,No,No
+M,No,Never,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Some of them,No,No,Don't know,No
+M,Yes,Sometimes,No,Yes,Yes,No,Don't know,Yes,Very easy,No,No,Yes,No,No,Yes,No
+M,No,Never,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,Yes,Maybe,Maybe,Don't know,No
+M,Yes,Often,No,Yes,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,No,No,No,Maybe,Don't know,No
+F,Yes,Rarely,No,Yes,Yes,Don't know,Yes,Yes,Very easy,No,No,Some of them,No,Yes,Don't know,No
+M,Yes,Sometimes,No,Don't know,Not sure,No,No,Yes,Very difficult,Maybe,No,No,No,Maybe,No,No
+M,Yes,Often,Yes,Don't know,No,No,No,Don't know,Somewhat easy,Maybe,No,No,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,No,No,No,No,Don't know,Somewhat easy,Maybe,No,Yes,No,No,Don't know,No
+M,No,Never,Yes,Yes,Not sure,Don't know,Don't know,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,Maybe,Don't know,No
+F,Yes,Sometimes,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,Maybe,No,No
+M,No,Sometimes,Yes,Yes,Not sure,No,Yes,Don't know,Don't know,Maybe,No,No,No,No,Don't know,No
+M,No,Rarely,No,Yes,Yes,Yes,Yes,Don't know,Don't know,Maybe,Maybe,No,No,No,Yes,Yes
+M,Yes,Sometimes,No,Yes,Yes,No,No,Don't know,Somewhat easy,Maybe,No,No,No,Maybe,No,No
+M,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Don't know,Yes,Yes,No,No,Maybe,No,Yes
+F,Yes,Often,No,Yes,Yes,Yes,Yes,Yes,Very difficult,Maybe,No,Some of them,No,Maybe,No,Yes
+F,Yes,Sometimes,Yes,Yes,Yes,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,Maybe,Don't know,No
+M,Yes,Often,No,No,Yes,No,No,Yes,Very easy,Maybe,No,Yes,No,Maybe,No,No
+M,Yes,Often,No,Don't know,Not sure,Don't know,Yes,Don't know,Very difficult,No,Maybe,Yes,Maybe,No,Yes,No
+M,Yes,Sometimes,No,Don't know,No,No,No,Don't know,Somewhat difficult,No,No,Yes,No,No,Yes,No
+M,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Yes,Don't know,No,No,Yes,No,Maybe,Don't know,No
+F,Yes,Sometimes,No,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Yes,No
+M,Yes,Often,No,No,Yes,No,No,Don't know,Very difficult,Yes,No,Yes,No,Yes,No,No
+M,Yes,Sometimes,No,Yes,Yes,Yes,Don't know,Yes,Don't know,Yes,No,No,No,No,Yes,No
+M,Yes,Sometimes,No,Yes,No,No,Yes,Yes,Very easy,No,No,Yes,No,No,Yes,No
+M,Yes,Rarely,Yes,Don't know,No,No,No,Don't know,Very easy,No,No,Yes,Maybe,Yes,Yes,No
+M,Yes,Sometimes,No,Yes,Not sure,Yes,Don't know,Don't know,Somewhat difficult,Maybe,No,Some of them,No,Maybe,Don't know,Yes
+M,No,Never,No,Don't know,No,No,Don't know,Don't know,Don't know,No,No,Some of them,No,No,Yes,No
+M,No,Sometimes,No,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,No,No,Maybe,Don't know,No
+F,No,Sometimes,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Some of them,No,No,Yes,No
+M,No,Never,Yes,Yes,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,Maybe,Don't know,No
+M,Yes,Rarely,Yes,No,Yes,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,No,Maybe,Don't know,No
+M,Yes,Rarely,No,No,No,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Maybe,Yes,Yes,No
+F,Yes,Often,No,Yes,Yes,Don't know,Don't know,Don't know,Don't know,Yes,No,No,No,Maybe,Don't know,No
+M,No,Often,No,No,No,No,No,No,Very easy,Maybe,Maybe,Some of them,Maybe,Maybe,Don't know,No
+M,Yes,Sometimes,Yes,Yes,Yes,No,Don't know,Yes,Very easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,Yes,Often,No,Yes,No,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,No,Yes,No,No
+M,Yes,Sometimes,Yes,Don't know,No,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Maybe,Yes,Don't know,No
+M,No,Sometimes,No,Yes,Yes,No,No,Yes,Don't know,Maybe,No,No,No,Maybe,Don't know,Yes
+M,Yes,Never,No,Don't know,Not sure,No,Don't know,Don't know,Very easy,Maybe,No,Some of them,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,Don't know,Yes,No,Don't know,Don't know,Don't know,Yes,Maybe,Some of them,No,Maybe,Don't know,No
+M,No,Never,Yes,No,Yes,No,No,Don't know,Don't know,Yes,Yes,No,No,No,Don't know,No
+F,Yes,Never,No,Don't know,Not sure,No,Don't know,Don't know,Very easy,Maybe,No,Some of them,No,Maybe,No,No
+F,Yes,Sometimes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Some of them,Maybe,Maybe,Don't know,No
+M,No,Sometimes,No,No,No,No,No,Yes,Somewhat easy,Maybe,No,Yes,No,Maybe,Yes,No
+F,Yes,Rarely,Yes,Yes,Yes,No,No,Yes,Somewhat easy,Maybe,Maybe,No,No,No,Don't know,No
+M,No,Rarely,No,No,Yes,No,Yes,No,Somewhat difficult,Yes,No,No,No,Maybe,No,Yes
+M,No,Rarely,No,No,Yes,No,Yes,No,Somewhat difficult,Yes,No,No,No,Maybe,No,Yes
+M,Yes,Sometimes,Yes,No,No,No,No,Yes,Very easy,No,No,Yes,No,Maybe,Yes,No
+M,Yes,Sometimes,No,Don't know,Not sure,No,No,Don't know,Somewhat easy,Maybe,No,No,No,No,Don't know,No
+M,Yes,Often,No,No,Yes,No,No,Yes,Very difficult,No,No,Yes,Yes,Yes,Don't know,No
+M,No,Rarely,No,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,Maybe,Maybe,No,No,Yes,Don't know,Yes
+F,No,Sometimes,Yes,Don't know,No,No,No,Don't know,Don't know,Maybe,No,No,No,No,Don't know,No
+M,Yes,Sometimes,No,No,Not sure,Don't know,Don't know,Don't know,Very easy,No,No,Yes,Maybe,Yes,Don't know,No
+M,No,Rarely,No,Yes,Not sure,No,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,No,No,Don't know,Yes
+M,No,Never,No,No,No,No,No,Don't know,Don't know,Yes,Maybe,No,No,Maybe,Don't know,No
+M,Yes,Rarely,No,Don't know,Not sure,No,Don't know,Don't know,Don't know,No,No,Yes,No,Maybe,No,No
+M,Yes,Never,No,Don't know,Not sure,No,Don't know,Don't know,Somewhat easy,No,No,Some of them,No,No,Don't know,No
+M,Yes,Rarely,No,No,Yes,No,No,Don't know,Don't know,No,No,No,No,No,Don't know,No
+M,No,Never,Yes,Don't know,No,No,Don't know,Don't know,Don't know,Yes,No,No,No,No,No,No
+M,Yes,Sometimes,No,Yes,Yes,No,No,Don't know,Don't know,Yes,No,Some of them,No,Maybe,Don't know,No
+M,No,Never,No,Yes,No,No,Yes,Don't know,Don't know,Maybe,Yes,No,No,No,Yes,No
+M,Yes,Sometimes,Yes,Don't know,No,No,Don't know,Don't know,Somewhat easy,Maybe,No,Some of them,Maybe,Maybe,Don't know,No
+M,No,Sometimes,No,Yes,No,Yes,Don't know,Don't know,Don't know,Maybe,No,Yes,No,No,Don't know,No
+M,No,Never,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Maybe,No,Some of them,No,Yes,Don't know,No
+M,No,Often,No,No,No,No,No,No,Very difficult,Yes,No,No,No,Maybe,Yes,No
+F,Yes,Sometimes,No,Yes,Yes,No,Don't know,Don't know,Don't know,Maybe,No,No,No,No,No,No
+F,Yes,Sometimes,No,Yes,Yes,No,Yes,Yes,Somewhat easy,No,No,Yes,No,Maybe,Yes,Yes
+M,Yes,Sometimes,No,No,No,No,No,Don't know,Very difficult,Maybe,No,Yes,Yes,Yes,No,Yes
+F,Yes,Rarely,No,Yes,No,No,No,Don't know,Don't know,Maybe,Maybe,No,No,Maybe,No,No
+M,No,Never,No,No,No,No,Don't know,Don't know,Don't know,No,No,Yes,No,Yes,No,Yes
+F,Yes,Sometimes,Yes,No,No,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Maybe,No,No,No
+F,Yes,Sometimes,No,Yes,Yes,No,No,Yes,Don't know,Maybe,Maybe,No,No,No,No,No
+F,Yes,Sometimes,Yes,No,No,No,No,Yes,Don't know,Maybe,Maybe,Some of them,No,No,Yes,No
+F,Yes,Often,No,No,Yes,No,No,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,Don't know,No
+M,Yes,Sometimes,Yes,Yes,No,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Don't know,No
+M,Yes,Sometimes,No,Yes,Yes,No,No,Yes,Don't know,Maybe,No,No,No,No,Yes,No
+M,Yes,Sometimes,No,Yes,Yes,No,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Don't know,No
+M,No,Sometimes,No,Yes,Not sure,Yes,Yes,Yes,Don't know,Maybe,No,No,No,Maybe,Don't know,No
+M,No,Never,Yes,Don't know,No,No,No,Don't know,Somewhat easy,No,No,Yes,No,Yes,Don't know,No
+M,No,Never,No,Don't know,Not sure,Don't know,Don't know,Yes,Don't know,No,No,Yes,Yes,Maybe,No,No
+F,No,Rarely,No,Don't know,No,No,No,No,Don't know,Maybe,No,No,No,Maybe,No,No
+M,Yes,Often,No,No,No,No,No,Don't know,Somewhat difficult,Yes,Maybe,Yes,No,Maybe,No,No
+M,Yes,Often,Yes,Yes,Not sure,No,Don't know,Don't know,Very difficult,Yes,Maybe,No,No,No,Don't know,No
+M,Yes,Often,Yes,No,Yes,No,No,Don't know,Don't know,Yes,No,No,No,Maybe,No,No
+F,Yes,Rarely,No,Yes,No,No,No,Don't know,Somewhat easy,Yes,Yes,No,No,No,No,Yes
+M,Yes,Never,Yes,No,No,No,No,Don't know,Don't know,Maybe,No,Yes,No,No,Don't know,No
+M,Yes,Sometimes,No,No,No,No,No,Don't know,Somewhat easy,No,No,Yes,No,Maybe,Don't know,No
+M,Yes,Sometimes,No,No,Yes,No,No,No,Very easy,Maybe,Maybe,Yes,No,No,No,No
+M,No,Often,No,No,Yes,No,No,Don't know,Somewhat easy,No,No,Yes,Maybe,Maybe,Don't know,Yes
+M,Yes,Sometimes,No,Don't know,Not sure,No,No,Don't know,Somewhat difficult,Maybe,No,No,No,Maybe,No,No
+M,No,Never,Yes,Don't know,Not sure,No,No,Don't know,Don't know,Yes,No,Some of them,No,No,No,Yes
+M,No,Sometimes,No,Don't know,No,No,No,Don't know,Very difficult,Yes,Yes,No,No,Maybe,No,Yes
+M,Yes,Often,Yes,Yes,Yes,No,No,Yes,Don't know,Maybe,No,No,No,Maybe,Don't know,No
+M,No,Never,No,No,Yes,No,No,No,Somewhat difficult,Yes,Yes,Some of them,No,No,No,No
+M,Yes,Sometimes,Yes,Yes,No,Yes,Yes,Yes,Very easy,No,No,Yes,No,No,Don't know,No
+M,Yes,Often,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,No,No,No,No,No
+M,Yes,Sometimes,Yes,Don't know,Not sure,Don't know,Don't know,Don't know,Don't know,No,No,Yes,Yes,Yes,Don't know,No
+M,No,Never,No,Don't know,No,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,No,Maybe,Yes,Yes
+M,Yes,Sometimes,No,Yes,Yes,No,Yes,Don't know,Somewhat easy,Maybe,No,No,No,Maybe,Yes,Yes
+F,Yes,Rarely,No,No,Yes,Yes,No,Don't know,Don't know,No,No,Some of them,No,Maybe,Don't know,No
+F,No,Never,No,Yes,Yes,Don't know,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Don't know,No
+M,Yes,Sometimes,No,Don't know,Yes,No,No,Don't know,Somewhat easy,Yes,No,Some of them,No,Maybe,Don't know,No
+F,Yes,Sometimes,No,No,Yes,No,Yes,Yes,Very easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,Yes,Rarely,No,No,Yes,No,No,Don't know,Don't know,No,No,Yes,No,Maybe,Don't know,No
+M,Yes,Often,No,Yes,Yes,Yes,Don't know,Don't know,Don't know,Maybe,No,Some of them,No,No,Don't know,No
+M,Yes,Often,Yes,Don't know,No,Yes,Don't know,Don't know,Somewhat easy,Maybe,Maybe,No,No,Maybe,Don't know,No
+M,No,Sometimes,No,No,Yes,No,No,Yes,Don't know,Yes,Maybe,No,No,No,No,Yes
+M,No,Sometimes,No,Don't know,No,No,No,Don't know,Don't know,Maybe,No,Yes,Maybe,Yes,Don't know,No
+M,Yes,Sometimes,No,Don't know,No,No,No,Yes,Somewhat easy,No,No,No,No,No,Don't know,No
+M,Yes,Rarely,No,Don't know,No,No,Don't know,Don't know,Don't know,Maybe,No,No,No,Maybe,Don't know,No
+F,Yes,Rarely,Yes,Yes,Yes,No,Yes,Don't know,Don't know,No,No,Yes,No,No,Don't know,No
+M,No,Never,No,Yes,Not sure,Don't know,Yes,Don't know,Somewhat easy,No,No,Some of them,Maybe,Yes,Don't know,No
+M,Yes,Often,No,No,No,No,No,No,Very difficult,Yes,No,No,No,Maybe,Don't know,Yes
+F,Yes,Sometimes,No,Yes,No,No,Don't know,Don't know,Don't know,Yes,Maybe,No,No,No,Don't know,No
+M,Yes,Sometimes,No,Yes,Yes,Don't know,No,Yes,Very easy,No,No,Yes,Maybe,Maybe,Yes,No
+M,Yes,Sometimes,Yes,Yes,Yes,Yes,No,Yes,Don't know,Yes,No,No,No,Maybe,No,No
+M,Yes,Often,Yes,Yes,Yes,No,No,Yes,Somewhat difficult,No,No,Yes,No,No,Yes,No
+M,Yes,Sometimes,No,Yes,Yes,No,No,Don't know,Somewhat difficult,Yes,Yes,No,No,No,No,No

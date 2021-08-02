@@ -1,7 +1,5 @@
 # Group 37 - Mental Health in Tech Survey
 
-- Your title can change over time.
-
 ## Milestones
 
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
@@ -18,8 +16,8 @@ We all understand the importance of mental health, but through this analytics pr
 
 - **Carolina:** Third-year Biochemistry student interested in research.
 - **Gale:** Third-year Psychology student who adores dessert and learning :-)
-- **Mohamad** one sentence about you!
+- **Mohamad** Fourth year Mechanical Engineering Student that has an interest in Data Science!
 
 ## References
 
-{Add your stuff here}
+Open Sourcing Mental Illness, LTD. (2016). *Mental Health in Tech Survey* [Data set]. Kaggle. [https://www.kaggle.com/osmi/mental-health-in-tech-survey](https://www.kaggle.com/osmi/mental-health-in-tech-survey).
