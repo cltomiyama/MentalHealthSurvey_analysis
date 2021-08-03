@@ -1,1 +1,1 @@
-**Gale's research question:** Do employees in the tech industry experience mental health issues differently across the gender spectrum?
+**Gale's research question:** What are the common workplace characteristics that link employees in the tech industry who face mental health issues?
