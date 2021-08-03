@@ -19,13 +19,13 @@ Goal: observe if employees are more open to talk about mental health with cowork
 
 ### 1. Number of employees vs. Mental health consequence vs. Supervisor
 
-![graph 1](C:\Users\cltom\OneDrive\Documents\COSC301\project-group37-project\analysis\carolina\graph1.jpg)
+![graph1](graph1.jpg)
 
 - Out of 292 "Yes" entries, 81 (27.7%) came from workers of tech companies that have more than 1000 employees. 
 - 13% were from workers in companies with 1-5 employees, 18.8% 6-25 employees, 22.6% were 26-100 employees, 13.4% 100-500 employees, 4.5% 500-1000 employees, and 27.7% in companies with more than 1000 employees.
 - Concrete conclusions cannot be drawn solely from this plot as the sample size differ across companies sizes.
 
-![graph 2](C:\Users\cltom\OneDrive\Documents\COSC301\project-group37-project\analysis\carolina\graph2.jpg)
+![graph2](graph2.jpg)
 
 If small companies have less than 100 employees and big companies have more than 100, the data demostrates that employees from small tech companies are more confident that discussing a mental health issue with employers do not have negative consequences than employees from big tech companies. Alhtough "Maybe" is not equivalent to "Yes", both answers points to similar conclusions, which the responder would not be open to talk about a mental health issue with employer since they believe (certainly or not) that it could have negative consequences.
 ​
@@ -34,7 +34,7 @@ When comparing with the question: "Would you be willing to discuss a mental heal
 
 ### 2. Number of employees vs. Supervisor vs. Coworkers
 
-![graph 3](C:\Users\cltom\OneDrive\Documents\COSC301\project-group37-project\analysis\carolina\graph3.jpg)
+![graph3](graph3.jpg)
 
 Looking at the count of the supervisor column, the number of employees that are willing to discuss mental health issue with any direct supervisor is higher in organizations with less than 500 employees. On the other hand, the number of "No" answers outstand "Yes" and "Some of them" in companies with more than 500 employees. Even though "Yes" and "Some of them" are segregated in the plot, logically, they can both be interpreted as employees being open to discuss mental health. However, the plot shows that small companies have a significant higher "Yes" frequency than "Some of them". This may suggest that all the relationships in small organizations are more intimal or open as employees are willing to talk about mental health with any supervisor.
 
