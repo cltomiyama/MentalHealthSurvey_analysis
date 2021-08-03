@@ -50,3 +50,19 @@ When comparing the supervisor variable with the coworker variable, it is observe
 - Employees are more whilling to discuss mental health issue with any direct supervisor in companies with less than 500 employees.
 - Employees that are whilling to discuss a mental health issue with any of their direct supervisor are also whilling to have he same discussion with any coworker or some of them.
 - Based the openess for mental health discussion on the three variables, the analysis shows a negative correlation between the number of employees in a company and how open wmployees are to discuss mental health. The likelihood of an employee to be open to discuss mental health decreases as the comapny size increases.
+
+## Mohammed
+
+**Research question:**What does this data tell us are the biggest factors that affects the mental health of employees?
+
+**Anaysis:** 
+Grpah1:#The Aanalysis shown above shows that older employees tend to recieve benfits than those younger which could be a reson why older people   may      sometimes be less likely to have work have a mental consequence on them.
+Graph2:From hear we can see that most companies tend to have a number of employees that ranges from 0 to 1000. There is a possiblility that by lowering the number of employees, the less chance there would be a mental consequence on employees.
+Graph3:This shows that older aged employees are more likely to develop mental issues than younger people. 
+Graph4:There seems to be no correlation between wotking remotly and there being a chance of developing mental issues. 
+Graph5:Employees with a family histroy of a mental consequence can also develop mental health issue but it is not the case most of the time. 
+Graph6:This shows that employees that do take a leave are less likely to develop mental health issues compared to employees that do not take a leave.
+
+
+**Conclusion:** Based of from the analysis carried out obove it is fair two say that the biggest factors that affect there being a consequence on an employees mental
+                health are, comapnies that have larger number of employees, employee age and family history. This conclusion was made based of from anaysis of relationships between factors that might be affecting and employees health. 
