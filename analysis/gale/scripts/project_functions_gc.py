@@ -33,6 +33,7 @@ def load_and_process(url_or_filepath):
     .pipe(code_mcq, col='care_options')
     .pipe(code_mcq, col='wellness_program')
     .pipe(code_mcq, col='seek_help')
+    .astype('category')
       )
     
     return df3
