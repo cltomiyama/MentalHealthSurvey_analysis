@@ -60,3 +60,23 @@ def code_mcq(df,col):
             df[col] = df[col].replace(o, 2)
         
     return df
+
+def rel_freq_label(plot,x,y):
+    totals = []
+
+    for i in plot.patches:
+        totals.append(i.get_height())
+
+    total = sum(totals)
+
+    for i in plot.patches:
+        plot.text(i.get_x()+x, i.get_height()+y, \
+                str(round((i.get_height()/total)*100, 2))+'%', fontsize=15,
+                    color='0.2')
+        
+def count_rel_freq_df(df,col):
+    new_df = (df[col].value_counts().to_frame().rename_axis(col).rename(columns={col:'count'}).reset_index())
+              
+    new_df = new_df.assign(rel_freq = round(((new_df['count'] / new_df['count'].sum()) * 100),2))
+
+    return new_df
