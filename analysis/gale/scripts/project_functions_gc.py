@@ -81,8 +81,31 @@ def count_rel_freq_df(df,col):
 
     return new_df
 
+def make_relfreq_col(df):
+    df['rel_freq'] = round(((df['count'] / df['count'].sum()) * 100),2)
+    
+    return df
 
 def rel_freq_within_grp(df):
-    df['rel_freq'] = df.groupby(level=0).apply(lambda x: 100*x/x.sum())
+    df['withingrp_relfreq'] = df.groupby(level=0).apply(lambda x: 100*x/x.sum())
+    df['withingrp_relfreq'] = df['withingrp_relfreq'].apply(lambda x : round(x,2))
 
     return df
+
+class display(object):
+    # taken from class notes
+    
+    """Display HTML representation of multiple objects"""
+    template = """<div style="float: left; padding: 10px;">
+    <p style='font-family:"Courier New", Courier, monospace'>{0}</p>{1}
+    </div>"""
+    def __init__(self, *args):
+        self.args = args
+        
+    def _repr_html_(self):
+        return '\n'.join(self.template.format(a, eval(a)._repr_html_())
+                         for a in self.args)
+    
+    def __repr__(self):
+        return '\n\n'.join(a + '\n' + repr(eval(a))
+                           for a in self.args)
