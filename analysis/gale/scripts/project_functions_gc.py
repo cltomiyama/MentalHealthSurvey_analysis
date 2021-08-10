@@ -9,7 +9,7 @@ from pandas_profiling import ProfileReport
 
 def load_and_process(url_or_filepath):
     
-    # method chain 1: initial filtering of rows and columns
+    # method chain 1: dataset loading and first round of filtering rows and columns
     
     df1 = (
     pd.read_csv(url_or_filepath)
@@ -21,9 +21,9 @@ def load_and_process(url_or_filepath):
     # method chain 2: handling missing data and removing more undesired columns
     
     df2 = (
-    df1.dropna(axis=0, how='any')
-    .reset_index()
-    .drop(['index', 'self_employed', 'tech_company'], axis=1)
+    df1.reset_index()
+        .drop(['index', 'self_employed', 'tech_company'], axis=1)
+        .fillna(value='N/A')
       )
     
     # method chain 3: coding response options
