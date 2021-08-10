@@ -80,3 +80,9 @@ def count_rel_freq_df(df,col):
     new_df = new_df.assign(rel_freq = round(((new_df['count'] / new_df['count'].sum()) * 100),2))
 
     return new_df
+
+
+def rel_freq_within_grp(df):
+    df['rel_freq'] = df.groupby(level=0).apply(lambda x: 100*x/x.sum())
+
+    return df
