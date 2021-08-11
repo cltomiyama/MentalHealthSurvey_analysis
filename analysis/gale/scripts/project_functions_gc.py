@@ -81,6 +81,14 @@ def rel_freq_label(plot,x,y):
                 str(round((i.get_height()/total)*100, 2))+'%', fontsize=15,
                     color='0.2')
         
+def grouped_rel_freq_label(g):
+    for bar in g.patches:
+        g.annotate(format(bar.get_height(), '.2f'),
+                   (bar.get_x() + bar.get_width() / 2,
+                    bar.get_height()), ha='center', va='center',
+                   size=15, xytext=(0, 8),
+                   textcoords='offset points')
+        
 def count_rel_freq_df(df,col):
     new_df = (df[col].value_counts().to_frame().rename_axis(col).rename(columns={col:'count'}).reset_index())
               
