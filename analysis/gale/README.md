@@ -1,5 +1,5 @@
 **Gale's research questions:**
-- Does providing more mental health resources improve employees' mental health in the tech industry?
+- Is there a relationship between providing more mental health resources and quality of employees' mental health in the tech industry?
 - Is there a relationship between employees' mental health and their knowledge of the mental health resources available?
 
 **This directory's contents**
