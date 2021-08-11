@@ -33,10 +33,16 @@ def load_and_process(url_or_filepath):
     .pipe(code_mcq, col='care_options')
     .pipe(code_mcq, col='wellness_program')
     .pipe(code_mcq, col='seek_help')
-    .assign(condition = np.where(df2['work_interfere'] != 'N/A', 'Yes', 'No'))
-      )
-    
-    return df3
+    )   
+        
+    # method chain 4: making new columns
+        
+    df4 = (df3.assign(condition = np.where(df2['work_interfere'] != 'N/A', 'Yes', 'No'))
+           .assign(resources = ['Good' if x>=2 else 'Poor' for x in np.count_nonzero((df3[['benefits', 'wellness_program', 'seek_help']].values == 1),1)]
+           )
+    )
+
+    return df4
 
 def code_mcq(df,col):
     """
