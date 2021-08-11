@@ -13,7 +13,7 @@ def load_and_process(url_or_filepath):
     
     df1 = (
     pd.read_csv(url_or_filepath)
-       .loc[:, ['self_employed', 'family_history', 'treatment', 'work_interfere', 'tech_company', 'benefits', 'care_options', 'wellness_program', 'seek_help']]
+       .loc[:, ['self_employed', 'treatment', 'work_interfere', 'tech_company', 'benefits', 'care_options', 'wellness_program', 'seek_help']]
        .loc[lambda row : row['self_employed'].str.find('Yes')== -1]
        .loc[lambda row : row['tech_company'].str.find('No') == -1]
       )
