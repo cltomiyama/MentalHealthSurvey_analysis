@@ -1,884 +1,884 @@
-family_history,treatment,work_interfere,benefits,care_options,wellness_program,seek_help,condition,resources
-Yes,Yes,Sometimes,1,1,2,2,Yes,Poor
-No,Yes,Often,1,1,2,2,Yes,Poor
-Yes,Yes,Rarely,1,0,0,1,Yes,Good
-No,No,N/A,0,0,2,0,No,Poor
-Yes,Yes,Rarely,1,1,0,0,Yes,Poor
-No,Yes,Sometimes,0,0,2,0,Yes,Poor
-No,No,Sometimes,2,2,2,2,Yes,Poor
-No,No,Never,2,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,0,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,1,1,Yes,Good
-No,Yes,Sometimes,1,1,2,2,Yes,Poor
-No,Yes,Rarely,2,1,2,2,Yes,Poor
-No,No,Rarely,2,2,2,2,Yes,Poor
-No,No,N/A,2,1,2,2,No,Poor
-No,No,N/A,1,1,2,0,No,Poor
-No,Yes,Rarely,1,1,2,1,Yes,Good
-No,Yes,Sometimes,2,2,2,2,Yes,Poor
-No,No,N/A,1,0,0,1,No,Good
-Yes,Yes,Sometimes,2,1,2,2,Yes,Poor
-No,No,Often,2,0,2,2,Yes,Poor
-No,Yes,Sometimes,0,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,1,Yes,Good
-No,No,N/A,0,0,2,2,No,Poor
-No,No,N/A,2,2,2,2,No,Poor
-Yes,Yes,Rarely,1,2,2,0,Yes,Poor
-Yes,Yes,Often,2,1,2,2,Yes,Poor
-No,No,N/A,0,0,0,0,No,Poor
-No,No,N/A,0,2,0,0,No,Poor
-No,No,Never,0,0,2,2,Yes,Poor
-No,No,N/A,2,2,2,2,No,Poor
-Yes,Yes,Rarely,1,1,2,2,Yes,Poor
-Yes,No,N/A,0,2,2,2,No,Poor
-Yes,Yes,Sometimes,0,2,2,2,Yes,Poor
-Yes,Yes,Often,0,2,2,2,Yes,Poor
-No,Yes,Sometimes,0,0,1,1,Yes,Good
-No,No,Never,1,0,2,1,Yes,Good
-No,No,N/A,2,2,2,2,No,Poor
-No,No,Sometimes,0,2,2,2,Yes,Poor
-Yes,No,Sometimes,1,1,1,1,Yes,Good
-Yes,Yes,Often,2,0,2,2,Yes,Poor
-No,No,Sometimes,1,2,0,1,Yes,Good
-No,No,Never,2,2,2,2,Yes,Poor
-No,No,Never,0,0,0,0,Yes,Poor
-No,No,Rarely,1,1,2,2,Yes,Poor
-No,No,N/A,2,2,2,0,No,Poor
-No,No,Never,0,0,1,0,Yes,Poor
-No,No,N/A,2,1,2,2,No,Poor
-No,No,N/A,1,1,1,1,No,Good
-Yes,Yes,Sometimes,2,2,2,2,Yes,Poor
-No,No,Never,0,2,0,0,Yes,Poor
-Yes,No,Sometimes,1,1,2,1,Yes,Good
-No,No,Never,1,0,1,0,Yes,Good
-Yes,No,Never,2,2,2,2,Yes,Poor
-No,No,N/A,0,0,2,2,No,Poor
-Yes,Yes,Rarely,1,0,2,0,Yes,Poor
-No,Yes,Sometimes,1,1,2,2,Yes,Poor
-No,No,N/A,0,2,2,0,No,Poor
-No,No,Never,1,1,1,1,Yes,Good
-No,Yes,Sometimes,2,1,2,2,Yes,Poor
-No,No,N/A,0,2,2,2,No,Poor
-No,No,N/A,1,1,2,2,No,Poor
-No,Yes,Sometimes,1,1,2,0,Yes,Poor
-No,No,Never,0,2,2,0,Yes,Poor
-Yes,No,Rarely,0,0,2,0,Yes,Poor
-Yes,Yes,Sometimes,0,2,2,2,Yes,Poor
-No,Yes,Sometimes,2,1,2,2,Yes,Poor
-No,Yes,Often,2,1,2,2,Yes,Poor
-No,No,Never,1,0,0,0,Yes,Poor
-Yes,No,N/A,0,2,0,0,No,Poor
-Yes,Yes,Sometimes,1,1,1,1,Yes,Good
-No,No,Never,1,0,1,0,Yes,Good
-Yes,No,Rarely,1,0,2,2,Yes,Poor
-Yes,Yes,Sometimes,0,0,2,2,Yes,Poor
-Yes,Yes,Rarely,2,2,2,2,Yes,Poor
-Yes,No,Never,1,2,2,2,Yes,Poor
-No,Yes,Sometimes,1,2,1,1,Yes,Good
-No,Yes,Sometimes,1,1,2,0,Yes,Poor
-No,Yes,Sometimes,1,1,1,1,Yes,Good
-Yes,Yes,Rarely,1,1,2,1,Yes,Good
-No,No,Never,1,1,2,0,Yes,Poor
-No,No,N/A,0,2,2,0,No,Poor
-No,No,Never,0,2,2,0,Yes,Poor
-No,Yes,Rarely,2,2,2,2,Yes,Poor
-No,No,N/A,0,0,2,0,No,Poor
-No,No,Never,1,1,2,1,Yes,Good
-No,No,N/A,0,2,2,2,No,Poor
-Yes,Yes,Sometimes,0,2,0,0,Yes,Poor
-No,No,Often,1,2,2,2,Yes,Poor
-Yes,No,Never,1,2,1,1,Yes,Good
-No,No,N/A,2,2,2,2,No,Poor
-No,Yes,Rarely,1,1,2,1,Yes,Good
-Yes,No,Sometimes,2,2,2,2,Yes,Poor
-No,Yes,Sometimes,0,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,2,Yes,Poor
-No,No,Rarely,2,1,2,2,Yes,Poor
-No,No,Never,0,0,0,0,Yes,Poor
-No,No,N/A,2,1,2,2,No,Poor
-No,Yes,Never,0,2,2,2,Yes,Poor
-No,No,Never,0,2,2,2,Yes,Poor
-No,Yes,Often,1,0,2,2,Yes,Poor
-No,No,N/A,0,2,2,0,No,Poor
-No,No,N/A,0,2,0,2,No,Poor
-Yes,Yes,Sometimes,0,2,0,0,Yes,Poor
-Yes,No,N/A,0,0,2,0,No,Poor
-No,No,Never,2,2,2,2,Yes,Poor
-No,Yes,Rarely,2,1,1,1,Yes,Good
-No,No,N/A,0,0,2,0,No,Poor
-Yes,No,Never,0,0,2,2,Yes,Poor
-No,No,Rarely,2,2,2,2,Yes,Poor
-No,No,Never,0,0,0,0,Yes,Poor
-Yes,Yes,Sometimes,0,2,2,0,Yes,Poor
-No,Yes,Rarely,2,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,0,0,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,2,2,2,Yes,Poor
-No,No,Never,1,2,2,1,Yes,Good
-Yes,No,Rarely,0,2,2,2,Yes,Poor
-No,No,Never,2,2,2,2,Yes,Poor
-No,No,N/A,2,1,2,2,No,Poor
-No,No,Rarely,0,0,1,0,Yes,Poor
-No,Yes,Sometimes,1,1,0,0,Yes,Poor
-No,Yes,Never,0,0,2,2,Yes,Poor
-No,No,N/A,0,2,2,0,No,Poor
-No,No,Never,0,0,2,0,Yes,Poor
-No,Yes,Often,1,0,0,0,Yes,Poor
-No,Yes,Sometimes,1,2,2,2,Yes,Poor
-No,No,N/A,0,2,2,2,No,Poor
-No,No,Never,2,2,2,2,Yes,Poor
-No,No,Never,0,2,2,0,Yes,Poor
-No,Yes,Sometimes,0,0,0,0,Yes,Poor
-Yes,Yes,Often,1,0,2,0,Yes,Poor
-No,No,N/A,1,2,2,2,No,Poor
-No,No,Sometimes,0,2,2,0,Yes,Poor
-No,No,N/A,2,1,2,2,No,Poor
-Yes,No,N/A,0,2,2,2,No,Poor
-Yes,Yes,Never,1,0,0,2,Yes,Poor
-Yes,Yes,Sometimes,1,2,2,2,Yes,Poor
-No,No,Sometimes,2,2,2,2,Yes,Poor
-No,Yes,Rarely,2,2,2,2,Yes,Poor
-No,No,Sometimes,2,2,2,2,Yes,Poor
-No,No,Never,0,0,2,2,Yes,Poor
-No,No,Rarely,1,2,2,2,Yes,Poor
-Yes,No,N/A,1,1,2,2,No,Poor
-Yes,Yes,Sometimes,0,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,2,2,2,Yes,Poor
-No,Yes,Often,2,0,2,2,Yes,Poor
-No,No,Sometimes,2,1,2,2,Yes,Poor
-Yes,No,N/A,0,2,0,0,No,Poor
-Yes,Yes,Sometimes,0,0,2,2,Yes,Poor
-No,Yes,Sometimes,2,1,2,2,Yes,Poor
-No,Yes,Often,2,1,2,2,Yes,Poor
-No,No,Never,0,0,2,0,Yes,Poor
-No,No,N/A,2,2,2,2,No,Poor
-No,No,N/A,1,1,1,1,No,Good
-Yes,Yes,Sometimes,0,2,2,2,Yes,Poor
-No,No,N/A,1,0,2,2,No,Poor
-No,No,N/A,1,2,2,2,No,Poor
-No,No,N/A,0,2,2,2,No,Poor
-No,No,Rarely,0,2,2,2,Yes,Poor
-No,Yes,Sometimes,2,1,2,2,Yes,Poor
-No,No,Never,0,0,0,0,Yes,Poor
-No,No,N/A,0,2,0,2,No,Poor
-No,No,Rarely,2,1,2,2,Yes,Poor
-No,No,Never,1,0,2,0,Yes,Poor
-No,Yes,Sometimes,1,2,2,1,Yes,Good
-No,Yes,Rarely,1,1,2,0,Yes,Poor
-No,No,Sometimes,0,0,2,0,Yes,Poor
-No,No,N/A,0,2,0,0,No,Poor
-No,No,Never,2,2,2,2,Yes,Poor
-Yes,Yes,Often,1,1,2,0,Yes,Poor
-Yes,No,N/A,2,2,2,2,No,Poor
-No,No,N/A,0,2,2,2,No,Poor
-Yes,Yes,Sometimes,2,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,1,1,Yes,Good
-No,No,N/A,2,2,2,2,No,Poor
-No,No,Never,1,1,0,0,Yes,Poor
-No,Yes,Sometimes,1,1,1,1,Yes,Good
-Yes,Yes,Sometimes,2,2,2,2,Yes,Poor
-Yes,No,N/A,1,2,2,0,No,Poor
-Yes,Yes,Rarely,1,1,1,0,Yes,Good
-No,No,Sometimes,0,2,0,0,Yes,Poor
-No,No,Often,2,2,2,2,Yes,Poor
-No,Yes,Sometimes,0,0,0,0,Yes,Poor
-No,No,Never,2,1,2,1,Yes,Poor
-No,No,N/A,2,2,2,2,No,Poor
-Yes,Yes,Often,2,1,2,2,Yes,Poor
-No,Yes,Rarely,1,2,2,2,Yes,Poor
-No,No,Sometimes,2,1,2,2,Yes,Poor
-No,Yes,Sometimes,1,1,2,1,Yes,Good
-Yes,Yes,Rarely,2,1,2,2,Yes,Poor
-No,No,N/A,2,1,2,0,No,Poor
-No,Yes,Sometimes,1,1,0,2,Yes,Poor
-Yes,Yes,Often,1,1,2,2,Yes,Poor
-No,No,Never,2,2,2,2,Yes,Poor
-No,No,N/A,1,1,1,1,No,Good
-No,No,Sometimes,2,1,2,2,Yes,Poor
-No,Yes,Rarely,1,2,2,2,Yes,Poor
-No,No,N/A,1,2,1,1,No,Good
-No,No,Sometimes,2,1,2,2,Yes,Poor
-Yes,No,Sometimes,0,2,2,0,Yes,Poor
-No,No,Never,2,2,2,2,Yes,Poor
-No,Yes,Sometimes,0,2,2,0,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,2,2,2,2,Yes,Poor
-Yes,Yes,Rarely,1,0,0,0,Yes,Poor
-No,No,Never,0,0,0,0,Yes,Poor
-No,Yes,Sometimes,2,1,2,2,Yes,Poor
-Yes,Yes,Rarely,1,1,1,0,Yes,Good
-No,No,Never,0,2,2,0,Yes,Poor
-Yes,Yes,Sometimes,1,1,0,0,Yes,Poor
-No,No,Never,1,2,2,0,Yes,Poor
-No,Yes,Never,1,0,0,0,Yes,Poor
-No,No,N/A,0,0,2,0,No,Poor
-Yes,Yes,Sometimes,1,1,1,0,Yes,Good
-No,No,N/A,1,2,0,1,No,Good
-Yes,Yes,Sometimes,1,2,1,1,Yes,Good
-No,No,Never,1,1,1,1,Yes,Good
-No,Yes,Sometimes,1,1,1,1,Yes,Good
-No,Yes,Sometimes,1,0,0,0,Yes,Poor
-No,No,Rarely,1,0,2,0,Yes,Poor
-No,Yes,Rarely,1,1,0,1,Yes,Good
-Yes,Yes,Often,1,2,2,0,Yes,Poor
-Yes,Yes,Rarely,1,0,2,2,Yes,Poor
-No,No,N/A,2,2,2,2,No,Poor
-No,No,N/A,0,0,2,0,No,Poor
-No,No,Sometimes,1,0,1,1,Yes,Good
-No,Yes,Rarely,1,0,0,1,Yes,Good
-Yes,Yes,Sometimes,1,0,2,0,Yes,Poor
-Yes,No,N/A,0,2,0,0,No,Poor
-Yes,Yes,Often,1,1,1,1,Yes,Good
-No,No,N/A,2,1,2,2,No,Poor
-Yes,Yes,Rarely,1,1,0,1,Yes,Good
-No,Yes,Sometimes,1,2,2,0,Yes,Poor
-No,No,Never,1,0,0,1,Yes,Good
-Yes,Yes,Sometimes,1,1,2,1,Yes,Good
-No,Yes,Rarely,1,2,0,2,Yes,Poor
-No,No,N/A,0,0,0,0,No,Poor
-No,No,Never,1,1,1,1,Yes,Good
-Yes,Yes,Sometimes,0,0,0,1,Yes,Poor
-No,No,N/A,1,0,1,1,No,Good
-Yes,Yes,Sometimes,1,1,2,0,Yes,Poor
-No,No,Never,1,0,1,0,Yes,Good
-No,Yes,Sometimes,0,2,2,0,Yes,Poor
-No,No,N/A,1,1,0,0,No,Poor
-No,No,N/A,1,1,1,1,No,Good
-Yes,No,Sometimes,2,1,2,2,Yes,Poor
-No,No,Sometimes,0,0,0,0,Yes,Poor
-No,No,N/A,0,0,0,0,No,Poor
-No,No,Rarely,0,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,2,Yes,Poor
-Yes,Yes,Never,0,2,1,1,Yes,Good
-No,No,Sometimes,0,2,0,0,Yes,Poor
-Yes,Yes,Sometimes,1,1,0,0,Yes,Poor
-No,Yes,Sometimes,1,1,1,1,Yes,Good
-No,No,Never,2,2,2,0,Yes,Poor
-Yes,Yes,Often,1,0,0,1,Yes,Good
-Yes,No,Sometimes,1,1,1,2,Yes,Good
-Yes,Yes,Sometimes,0,0,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,0,1,Yes,Good
-No,Yes,Sometimes,2,2,2,2,Yes,Poor
-No,No,N/A,2,2,2,2,No,Poor
-No,Yes,Often,1,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,0,0,2,0,Yes,Poor
-Yes,No,N/A,1,2,1,1,No,Good
-Yes,Yes,Often,2,1,2,2,Yes,Poor
-Yes,Yes,Rarely,1,2,2,0,Yes,Poor
-No,No,N/A,1,2,1,1,No,Good
-Yes,Yes,Often,1,2,1,1,Yes,Good
-Yes,Yes,Rarely,1,1,1,1,Yes,Good
-No,Yes,Sometimes,1,1,1,1,Yes,Good
-Yes,Yes,Rarely,0,0,0,2,Yes,Poor
-No,Yes,Never,1,1,0,0,Yes,Poor
-No,Yes,Rarely,1,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,0,2,2,2,Yes,Poor
-Yes,Yes,Never,1,1,2,1,Yes,Good
-No,Yes,Never,1,0,2,0,Yes,Poor
-No,Yes,Rarely,1,2,1,1,Yes,Good
-Yes,Yes,Sometimes,1,2,2,2,Yes,Poor
-Yes,Yes,Often,2,2,2,2,Yes,Poor
-No,Yes,Sometimes,0,2,2,2,Yes,Poor
-Yes,Yes,Rarely,1,1,2,0,Yes,Poor
-No,No,Never,0,0,2,2,Yes,Poor
-No,Yes,Sometimes,0,0,2,2,Yes,Poor
-Yes,Yes,Rarely,1,1,2,1,Yes,Good
-No,No,Never,0,2,2,0,Yes,Poor
-Yes,Yes,Often,0,2,0,0,Yes,Poor
-No,No,N/A,0,2,2,2,No,Poor
-No,No,Sometimes,2,2,2,2,Yes,Poor
-No,No,Never,0,0,2,2,Yes,Poor
-No,Yes,Sometimes,0,0,0,0,Yes,Poor
-Yes,Yes,Often,1,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,2,Yes,Poor
-No,No,N/A,0,2,2,0,No,Poor
-Yes,Yes,Sometimes,1,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,0,2,2,2,Yes,Poor
-Yes,No,N/A,1,1,2,1,No,Good
-Yes,Yes,Never,1,1,1,1,Yes,Good
-No,No,N/A,0,2,0,0,No,Poor
-Yes,No,N/A,2,2,2,2,No,Poor
-Yes,Yes,Often,1,1,2,2,Yes,Poor
-Yes,No,Never,0,0,0,0,Yes,Poor
-Yes,Yes,Sometimes,0,2,2,2,Yes,Poor
-No,Yes,Sometimes,0,0,0,0,Yes,Poor
-Yes,No,Often,0,2,2,0,Yes,Poor
-Yes,Yes,Sometimes,0,0,2,2,Yes,Poor
-No,No,N/A,2,2,2,2,No,Poor
-No,No,Never,2,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,2,1,2,0,Yes,Poor
-Yes,Yes,Rarely,1,2,2,2,Yes,Poor
-No,No,N/A,0,2,0,2,No,Poor
-Yes,Yes,Sometimes,1,1,1,2,Yes,Good
-Yes,Yes,Sometimes,2,2,2,0,Yes,Poor
-Yes,Yes,Sometimes,2,1,2,2,Yes,Poor
-No,No,N/A,1,1,1,1,No,Good
-Yes,Yes,Rarely,2,2,2,2,Yes,Poor
-No,No,Sometimes,0,2,2,2,Yes,Poor
-No,Yes,Sometimes,0,0,2,2,Yes,Poor
-No,No,Never,0,2,2,0,Yes,Poor
-No,No,N/A,0,0,0,0,No,Poor
-No,No,N/A,0,0,0,0,No,Poor
-No,Yes,Sometimes,1,1,2,0,Yes,Poor
-Yes,Yes,Rarely,1,1,1,1,Yes,Good
-Yes,No,Sometimes,2,2,2,2,Yes,Poor
-No,No,Rarely,1,2,1,0,Yes,Good
-No,Yes,Sometimes,1,1,1,1,Yes,Good
-No,No,N/A,1,2,0,2,No,Poor
-Yes,Yes,Sometimes,1,1,2,2,Yes,Poor
-Yes,No,Often,1,2,2,0,Yes,Poor
-Yes,No,N/A,1,0,0,0,No,Poor
-No,Yes,Sometimes,1,1,2,2,Yes,Poor
-No,Yes,Rarely,1,1,1,2,Yes,Good
-Yes,No,Never,1,1,1,0,Yes,Good
-Yes,Yes,Often,1,1,1,2,Yes,Good
-No,Yes,Sometimes,0,0,2,2,Yes,Poor
-Yes,Yes,Sometimes,0,0,2,0,Yes,Poor
-No,No,Sometimes,0,2,2,2,Yes,Poor
-No,No,Rarely,2,1,2,2,Yes,Poor
-Yes,No,Never,1,2,2,2,Yes,Poor
-No,No,Never,2,2,2,2,Yes,Poor
-No,No,N/A,1,2,2,2,No,Poor
-No,No,N/A,0,2,0,0,No,Poor
-No,No,Never,1,0,1,1,Yes,Good
-No,No,Sometimes,2,1,2,2,Yes,Poor
-Yes,No,Never,0,0,2,2,Yes,Poor
-Yes,Yes,Sometimes,0,2,1,0,Yes,Poor
-Yes,Yes,Rarely,1,1,2,2,Yes,Poor
-No,Yes,Sometimes,2,2,2,2,Yes,Poor
-No,No,Never,2,1,2,2,Yes,Poor
-No,Yes,Rarely,1,1,2,2,Yes,Poor
-No,Yes,Sometimes,1,1,1,1,Yes,Good
-No,Yes,Rarely,1,1,1,1,Yes,Good
-No,No,Sometimes,0,2,2,2,Yes,Poor
-No,Yes,Sometimes,1,1,2,1,Yes,Good
-No,No,Sometimes,0,2,2,2,Yes,Poor
-No,Yes,Sometimes,1,0,1,1,Yes,Good
-Yes,Yes,Sometimes,2,0,2,2,Yes,Poor
-No,No,N/A,0,0,2,2,No,Poor
-No,Yes,Sometimes,1,1,1,1,Yes,Good
-Yes,Yes,Sometimes,0,0,0,0,Yes,Poor
-No,Yes,Rarely,1,1,2,2,Yes,Poor
-No,No,Never,0,2,2,0,Yes,Poor
-Yes,Yes,Sometimes,0,0,2,2,Yes,Poor
-No,No,Sometimes,2,2,2,2,Yes,Poor
-No,No,N/A,1,0,0,0,No,Poor
-No,No,N/A,2,2,2,2,No,Poor
-No,No,N/A,0,0,0,0,No,Poor
-Yes,Yes,Often,1,0,0,2,Yes,Poor
-No,No,Rarely,0,0,0,0,Yes,Poor
-No,Yes,N/A,1,1,2,2,No,Poor
-No,No,N/A,2,0,2,0,No,Poor
-No,Yes,Sometimes,2,1,2,2,Yes,Poor
-No,Yes,Sometimes,1,1,1,1,Yes,Good
-Yes,Yes,Sometimes,1,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,1,1,Yes,Good
-No,No,N/A,1,0,1,0,No,Good
-No,Yes,Sometimes,1,1,1,1,Yes,Good
-No,No,Sometimes,2,2,2,2,Yes,Poor
-No,No,N/A,0,0,2,0,No,Poor
-No,No,Never,1,1,1,1,Yes,Good
-Yes,Yes,Sometimes,1,0,1,1,Yes,Good
-No,No,N/A,0,2,2,0,No,Poor
-No,Yes,Rarely,1,0,1,1,Yes,Good
-No,Yes,Sometimes,1,1,2,2,Yes,Poor
-Yes,Yes,Often,2,1,2,2,Yes,Poor
-No,No,Never,1,1,0,1,Yes,Good
-Yes,No,Rarely,0,0,0,0,Yes,Poor
-Yes,Yes,Rarely,1,1,1,1,Yes,Good
-No,Yes,Sometimes,2,1,1,2,Yes,Poor
-No,Yes,Sometimes,1,1,2,1,Yes,Good
-No,No,N/A,2,2,2,2,No,Poor
-No,Yes,Rarely,1,1,1,1,Yes,Good
-No,No,Rarely,0,2,2,0,Yes,Poor
-No,No,Never,0,0,0,2,Yes,Poor
-Yes,Yes,Sometimes,2,1,2,2,Yes,Poor
-Yes,Yes,Often,1,1,1,1,Yes,Good
-Yes,Yes,Never,0,2,2,0,Yes,Poor
-No,No,Never,0,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,0,Yes,Poor
-Yes,Yes,Rarely,1,1,2,2,Yes,Poor
-No,No,Never,0,2,2,2,Yes,Poor
-Yes,Yes,Often,1,2,2,0,Yes,Poor
-Yes,Yes,Rarely,2,0,2,2,Yes,Poor
-No,No,N/A,0,0,2,2,No,Poor
-No,No,Never,0,0,0,0,Yes,Poor
-Yes,Yes,Sometimes,1,2,2,1,Yes,Good
-Yes,No,N/A,1,1,1,1,No,Good
-No,No,Often,2,2,0,2,Yes,Poor
-No,Yes,Sometimes,2,2,2,2,Yes,Poor
-No,Yes,Sometimes,2,2,2,2,Yes,Poor
-No,Yes,Sometimes,2,1,1,2,Yes,Poor
-Yes,Yes,Rarely,2,2,2,2,Yes,Poor
-No,No,Sometimes,1,1,1,1,Yes,Good
-No,No,N/A,0,2,0,0,No,Poor
-Yes,Yes,Sometimes,2,0,2,0,Yes,Poor
-No,No,N/A,0,0,0,0,No,Poor
-Yes,Yes,Sometimes,0,2,2,0,Yes,Poor
-No,No,Never,0,0,0,0,Yes,Poor
-No,Yes,Rarely,0,0,2,0,Yes,Poor
-No,No,Never,2,2,2,2,Yes,Poor
-No,Yes,Sometimes,1,1,2,2,Yes,Poor
-No,Yes,Sometimes,1,0,1,0,Yes,Good
-No,Yes,Sometimes,1,2,2,1,Yes,Good
-Yes,No,Sometimes,1,0,0,0,Yes,Poor
-Yes,Yes,Sometimes,0,2,2,2,Yes,Poor
-Yes,Yes,Rarely,2,1,2,2,Yes,Poor
-No,Yes,Often,1,1,1,1,Yes,Good
-No,No,Sometimes,0,0,0,1,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,2,Yes,Poor
-No,No,Never,2,1,2,2,Yes,Poor
-Yes,No,Never,0,2,2,0,Yes,Poor
-No,No,N/A,0,2,0,2,No,Poor
-Yes,No,Sometimes,0,0,2,2,Yes,Poor
-Yes,Yes,Often,1,2,2,2,Yes,Poor
-Yes,No,N/A,0,2,2,0,No,Poor
-No,No,Never,2,1,2,2,Yes,Poor
-No,No,Sometimes,2,2,2,2,Yes,Poor
-No,Yes,Often,2,2,2,2,Yes,Poor
-No,No,Never,1,1,1,2,Yes,Good
-Yes,Yes,Sometimes,2,2,2,2,Yes,Poor
-No,Yes,Sometimes,2,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,0,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,2,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,0,1,1,Yes,Good
-Yes,No,Never,1,1,1,1,Yes,Good
-No,No,Rarely,1,0,0,0,Yes,Poor
-Yes,Yes,Sometimes,1,0,2,2,Yes,Poor
-No,No,N/A,0,2,2,0,No,Poor
-No,No,N/A,0,0,0,0,No,Poor
-Yes,Yes,Rarely,2,2,2,0,Yes,Poor
-Yes,No,Often,1,1,1,1,Yes,Good
-No,No,N/A,1,0,0,0,No,Poor
-No,No,Sometimes,2,1,2,2,Yes,Poor
-No,No,Sometimes,0,2,2,0,Yes,Poor
-No,No,N/A,0,2,2,2,No,Poor
-No,No,Never,2,2,2,2,Yes,Poor
-No,Yes,Sometimes,2,1,2,2,Yes,Poor
-No,No,Sometimes,0,0,2,2,Yes,Poor
-No,No,Rarely,1,2,2,2,Yes,Poor
-No,No,Never,1,2,1,0,Yes,Good
-Yes,No,Often,2,0,2,0,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,2,Yes,Poor
-Yes,No,Sometimes,0,2,2,2,Yes,Poor
-No,Yes,Often,1,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,1,1,Yes,Good
-Yes,Yes,Sometimes,0,2,2,2,Yes,Poor
-Yes,Yes,Rarely,1,1,1,1,Yes,Good
-No,No,Sometimes,2,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,0,2,0,Yes,Poor
-No,Yes,Sometimes,2,2,2,2,Yes,Poor
-Yes,Yes,Rarely,1,1,2,2,Yes,Poor
-No,No,Sometimes,2,2,2,2,Yes,Poor
-No,Yes,Sometimes,1,1,2,0,Yes,Poor
-No,No,Never,2,2,2,2,Yes,Poor
-No,Yes,Often,2,2,2,2,Yes,Poor
-No,No,N/A,1,1,2,2,No,Poor
-No,No,N/A,2,2,2,2,No,Poor
-No,No,Never,1,1,2,1,Yes,Good
-Yes,Yes,Sometimes,2,2,2,2,Yes,Poor
-No,No,Sometimes,2,2,2,2,Yes,Poor
-No,No,Often,2,2,2,2,Yes,Poor
-Yes,Yes,Never,0,0,0,0,Yes,Poor
-No,No,N/A,2,2,2,2,No,Poor
-No,No,Rarely,2,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,0,Yes,Poor
-No,No,N/A,0,2,2,0,No,Poor
-No,No,Rarely,1,1,1,1,Yes,Good
-No,No,Never,0,2,2,0,Yes,Poor
-No,No,Never,0,0,0,0,Yes,Poor
-No,Yes,Sometimes,2,2,0,2,Yes,Poor
-No,No,N/A,0,0,0,0,No,Poor
-No,No,Never,2,2,2,2,Yes,Poor
-No,No,N/A,0,2,2,2,No,Poor
-No,No,Never,2,0,2,0,Yes,Poor
-Yes,No,Sometimes,0,0,2,0,Yes,Poor
-No,No,N/A,1,0,0,1,No,Good
-Yes,No,Never,0,2,0,0,Yes,Poor
-Yes,No,Sometimes,0,2,2,2,Yes,Poor
-No,No,N/A,2,2,2,2,No,Poor
-Yes,Yes,Rarely,0,2,2,2,Yes,Poor
-No,Yes,Often,1,0,2,1,Yes,Good
-No,Yes,Rarely,2,2,2,2,Yes,Poor
-No,No,N/A,2,2,2,2,No,Poor
-Yes,Yes,Sometimes,0,0,2,0,Yes,Poor
-Yes,Yes,Rarely,1,1,1,1,Yes,Good
-Yes,Yes,Sometimes,1,0,1,1,Yes,Good
-No,No,N/A,0,2,2,2,No,Poor
-No,Yes,Sometimes,0,0,1,0,Yes,Poor
-No,Yes,Sometimes,1,2,2,2,Yes,Poor
-No,No,Never,2,2,2,2,Yes,Poor
-No,No,N/A,0,2,2,0,No,Poor
-No,No,N/A,1,0,0,0,No,Poor
-No,No,N/A,2,2,2,2,No,Poor
-No,No,N/A,2,2,2,2,No,Poor
-No,No,N/A,0,2,2,0,No,Poor
-No,No,N/A,2,2,2,0,No,Poor
-Yes,Yes,Sometimes,1,1,0,0,Yes,Poor
-No,Yes,Rarely,0,2,2,2,Yes,Poor
-No,No,Never,0,0,2,2,Yes,Poor
-No,No,N/A,0,0,2,0,No,Poor
-No,Yes,Often,1,1,2,2,Yes,Poor
-No,No,N/A,2,2,2,2,No,Poor
-No,No,N/A,0,0,0,0,No,Poor
-Yes,No,Never,0,2,2,0,Yes,Poor
-No,No,Never,1,1,2,1,Yes,Good
-No,No,N/A,1,1,0,1,No,Good
-Yes,No,N/A,2,2,2,2,No,Poor
-No,No,N/A,1,0,2,0,No,Poor
-No,No,N/A,0,2,2,2,No,Poor
-No,No,N/A,2,1,2,2,No,Poor
-Yes,Yes,Never,0,2,1,0,Yes,Poor
-No,No,Never,2,2,2,2,Yes,Poor
-No,No,Rarely,0,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,0,2,2,2,Yes,Poor
-No,Yes,Often,2,2,2,2,Yes,Poor
-No,No,N/A,2,2,1,2,No,Poor
-No,No,N/A,0,0,2,2,No,Poor
-No,No,N/A,0,0,2,2,No,Poor
-No,Yes,Sometimes,0,0,2,2,Yes,Poor
-No,No,N/A,2,2,2,1,No,Poor
-Yes,Yes,Sometimes,2,1,2,2,Yes,Poor
-No,No,N/A,2,1,2,2,No,Poor
-No,Yes,Sometimes,2,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,0,Yes,Poor
-No,Yes,Sometimes,1,1,2,2,Yes,Poor
-No,No,N/A,1,0,2,0,No,Poor
-No,No,N/A,2,2,2,2,No,Poor
-Yes,Yes,Rarely,1,1,1,1,Yes,Good
-No,Yes,Sometimes,0,0,2,2,Yes,Poor
-Yes,No,N/A,1,1,2,2,No,Poor
-No,No,N/A,0,0,1,1,No,Good
-Yes,Yes,Sometimes,0,0,0,0,Yes,Poor
-No,No,Never,1,1,1,1,Yes,Good
-Yes,Yes,Sometimes,1,2,1,0,Yes,Good
-No,No,Rarely,2,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,2,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,2,2,2,2,Yes,Poor
-No,Yes,Sometimes,0,0,1,0,Yes,Poor
-No,No,Never,0,0,2,0,Yes,Poor
-No,Yes,Never,1,2,2,2,Yes,Poor
-No,No,Never,0,0,2,2,Yes,Poor
-Yes,Yes,Rarely,2,2,2,2,Yes,Poor
-No,No,Sometimes,0,2,2,0,Yes,Poor
-No,No,N/A,0,0,2,1,No,Poor
-No,No,N/A,0,2,2,2,No,Poor
-No,Yes,Never,0,2,2,0,Yes,Poor
-No,Yes,Sometimes,2,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,0,0,0,0,Yes,Poor
-No,No,N/A,0,2,2,2,No,Poor
-Yes,Yes,Sometimes,1,1,0,0,Yes,Poor
-No,Yes,Never,1,1,1,1,Yes,Good
-No,No,Rarely,0,0,2,2,Yes,Poor
-No,Yes,Sometimes,1,1,0,0,Yes,Poor
-No,Yes,Often,0,0,2,2,Yes,Poor
-Yes,Yes,Sometimes,0,0,0,0,Yes,Poor
-No,No,Never,1,1,2,2,Yes,Poor
-Yes,Yes,Often,1,2,2,0,Yes,Poor
-No,No,N/A,0,2,2,2,No,Poor
-Yes,No,N/A,2,2,2,2,No,Poor
-No,Yes,Sometimes,0,2,0,0,Yes,Poor
-Yes,Yes,Sometimes,2,1,2,2,Yes,Poor
-No,No,N/A,1,2,2,2,No,Poor
-No,No,N/A,1,1,1,1,No,Good
-No,No,N/A,0,0,2,0,No,Poor
-No,Yes,Sometimes,2,1,2,2,Yes,Poor
-Yes,No,N/A,0,2,2,0,No,Poor
-No,No,N/A,0,0,2,0,No,Poor
-Yes,No,Sometimes,1,1,2,1,Yes,Good
-No,No,Never,0,2,2,2,Yes,Poor
-No,Yes,Sometimes,2,2,2,2,Yes,Poor
-No,Yes,Never,2,1,2,2,Yes,Poor
-No,No,Sometimes,0,0,2,0,Yes,Poor
-Yes,Yes,Sometimes,1,1,1,1,Yes,Good
-No,No,Never,2,1,2,2,Yes,Poor
-No,No,N/A,0,0,0,0,No,Poor
-No,No,N/A,1,2,1,1,No,Good
-Yes,No,Often,0,2,2,2,Yes,Poor
-No,No,Never,0,0,0,0,Yes,Poor
-No,Yes,Rarely,0,2,2,2,Yes,Poor
-No,No,Never,1,0,2,0,Yes,Poor
-No,Yes,Rarely,2,1,2,2,Yes,Poor
-Yes,Yes,Rarely,1,0,0,2,Yes,Poor
-No,Yes,Sometimes,2,2,2,2,Yes,Poor
-Yes,Yes,Often,1,1,2,2,Yes,Poor
-No,No,N/A,0,2,2,0,No,Poor
-No,No,Rarely,1,1,1,1,Yes,Good
-Yes,Yes,Sometimes,1,1,2,2,Yes,Poor
-No,No,Sometimes,0,0,1,0,Yes,Poor
-No,No,Sometimes,0,0,0,0,Yes,Poor
-No,Yes,Sometimes,0,2,1,0,Yes,Poor
-No,No,Rarely,1,1,1,1,Yes,Good
-No,Yes,Sometimes,2,1,2,2,Yes,Poor
-Yes,No,N/A,1,1,2,0,No,Poor
-No,No,Sometimes,2,2,2,2,Yes,Poor
-Yes,No,N/A,0,0,2,2,No,Poor
-Yes,No,N/A,1,1,1,1,No,Good
-No,No,Never,1,1,1,1,Yes,Good
-No,No,N/A,0,0,0,2,No,Poor
-No,No,N/A,2,2,2,2,No,Poor
-Yes,Yes,Often,2,1,2,2,Yes,Poor
-No,No,N/A,2,2,2,2,No,Poor
-Yes,Yes,Sometimes,1,1,2,2,Yes,Poor
-No,No,N/A,2,1,2,2,No,Poor
-No,Yes,Rarely,1,1,0,1,Yes,Good
-Yes,Yes,Sometimes,0,2,2,2,Yes,Poor
-No,No,N/A,0,0,0,0,No,Poor
-No,No,N/A,1,2,1,2,No,Good
-No,Yes,Never,1,1,2,0,Yes,Poor
-Yes,Yes,Sometimes,0,0,0,0,Yes,Poor
-No,No,Never,1,1,0,0,Yes,Poor
-No,No,Never,1,2,1,0,Yes,Good
-Yes,Yes,Sometimes,1,1,2,0,Yes,Poor
-No,Yes,Rarely,0,0,2,2,Yes,Poor
-Yes,No,Sometimes,1,2,1,1,Yes,Good
-Yes,No,N/A,0,0,0,0,No,Poor
-Yes,No,Never,1,2,0,1,Yes,Good
-Yes,Yes,Often,0,0,2,0,Yes,Poor
-No,No,Never,1,1,1,1,Yes,Good
-No,No,Sometimes,0,2,2,0,Yes,Poor
-Yes,Yes,Rarely,2,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,1,Yes,Good
-No,No,N/A,1,2,1,1,No,Good
-Yes,Yes,Sometimes,1,1,1,2,Yes,Good
-No,Yes,Rarely,1,1,0,0,Yes,Poor
-No,Yes,Never,1,1,1,1,Yes,Good
-No,Yes,Sometimes,2,2,2,2,Yes,Poor
-No,Yes,Rarely,1,1,2,1,Yes,Good
-Yes,Yes,Often,2,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,0,1,2,1,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,2,Yes,Poor
-No,Yes,Sometimes,2,2,2,2,Yes,Poor
-No,No,N/A,1,1,1,1,No,Good
-Yes,Yes,Often,0,0,2,0,Yes,Poor
-Yes,No,Sometimes,0,0,2,0,Yes,Poor
-Yes,No,N/A,1,2,0,0,No,Poor
-No,No,Sometimes,1,2,1,2,Yes,Good
-No,No,N/A,1,1,1,1,No,Good
-No,No,N/A,1,2,2,2,No,Poor
-Yes,No,Never,0,2,0,0,Yes,Poor
-No,No,Often,0,2,2,1,Yes,Poor
-No,Yes,Sometimes,1,1,2,1,Yes,Good
-Yes,Yes,Sometimes,2,0,2,2,Yes,Poor
-Yes,Yes,Sometimes,0,0,2,1,Yes,Poor
-No,Yes,Often,0,2,2,0,Yes,Poor
-Yes,Yes,N/A,0,2,2,0,No,Poor
-No,Yes,Rarely,1,1,1,1,Yes,Good
-Yes,Yes,Sometimes,1,1,1,1,Yes,Good
-Yes,Yes,Rarely,1,1,0,0,Yes,Poor
-Yes,Yes,Sometimes,1,1,1,1,Yes,Good
-Yes,Yes,Sometimes,1,1,2,0,Yes,Poor
-Yes,No,Sometimes,1,1,1,1,Yes,Good
-Yes,Yes,Sometimes,0,2,0,0,Yes,Poor
-Yes,Yes,Often,1,1,2,2,Yes,Poor
-No,Yes,Rarely,1,1,1,1,Yes,Good
-No,Yes,Sometimes,1,1,0,1,Yes,Good
-Yes,Yes,Sometimes,1,1,0,0,Yes,Poor
-No,Yes,Rarely,2,1,2,2,Yes,Poor
-Yes,Yes,Rarely,0,2,2,0,Yes,Poor
-No,No,N/A,2,2,2,2,No,Poor
-Yes,Yes,Often,0,0,1,2,Yes,Poor
-No,Yes,Rarely,1,0,0,0,Yes,Poor
-No,No,N/A,0,0,0,0,No,Poor
-No,No,N/A,0,2,2,2,No,Poor
-No,No,Never,0,0,0,0,Yes,Poor
-No,No,Sometimes,2,0,2,2,Yes,Poor
-Yes,Yes,Rarely,0,0,2,0,Yes,Poor
-Yes,No,Never,1,1,1,1,Yes,Good
-No,No,N/A,0,0,2,2,No,Poor
-No,No,N/A,0,2,0,0,No,Poor
-No,No,Never,1,1,1,1,Yes,Good
-No,No,Never,1,2,2,2,Yes,Poor
-Yes,Yes,Often,2,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,2,2,2,2,Yes,Poor
-Yes,Yes,Often,0,0,2,0,Yes,Poor
-No,No,Never,1,0,1,2,Yes,Good
-No,Yes,Sometimes,2,2,2,2,Yes,Poor
-Yes,No,Rarely,0,0,2,2,Yes,Poor
-No,No,Often,2,2,2,2,Yes,Poor
-Yes,No,Sometimes,1,0,1,1,Yes,Good
-No,No,N/A,2,2,2,2,No,Poor
-No,No,N/A,1,2,2,1,No,Good
-Yes,Yes,Sometimes,1,1,1,0,Yes,Good
-No,Yes,Sometimes,0,2,2,2,Yes,Poor
-No,Yes,Rarely,1,1,2,2,Yes,Poor
-No,No,Rarely,2,2,2,2,Yes,Poor
-No,No,N/A,2,2,2,2,No,Poor
-Yes,Yes,Often,1,1,2,0,Yes,Poor
-Yes,Yes,Sometimes,0,2,2,0,Yes,Poor
-Yes,Yes,Often,1,1,2,2,Yes,Poor
-No,Yes,Sometimes,0,2,2,0,Yes,Poor
-Yes,Yes,Sometimes,2,1,2,2,Yes,Poor
-No,No,Never,0,2,2,0,Yes,Poor
-No,No,Sometimes,0,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,2,1,2,2,Yes,Poor
-No,No,N/A,0,0,2,2,No,Poor
-Yes,No,Sometimes,0,0,0,0,Yes,Poor
-No,No,Sometimes,1,0,1,1,Yes,Good
-No,No,N/A,0,0,2,2,No,Poor
-No,No,N/A,0,0,2,2,No,Poor
-Yes,Yes,Sometimes,1,2,2,2,Yes,Poor
-No,No,Rarely,0,2,2,2,Yes,Poor
-No,No,Never,0,2,2,2,Yes,Poor
-No,No,Never,1,1,1,1,Yes,Good
-No,No,N/A,2,2,2,2,No,Poor
-Yes,No,Sometimes,0,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,0,2,2,0,Yes,Poor
-No,No,Never,1,1,1,1,Yes,Good
-No,No,Sometimes,0,0,2,2,Yes,Poor
-Yes,No,Never,1,1,1,2,Yes,Good
-Yes,No,N/A,0,0,2,2,No,Poor
-Yes,Yes,Rarely,0,0,0,0,Yes,Poor
-Yes,Yes,Often,2,2,2,2,Yes,Poor
-Yes,No,Sometimes,2,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,2,2,2,2,Yes,Poor
-No,No,Sometimes,2,0,2,2,Yes,Poor
-No,No,N/A,2,2,2,2,No,Poor
-Yes,Yes,Sometimes,0,2,2,2,Yes,Poor
-No,No,N/A,1,2,0,1,No,Good
-Yes,Yes,Sometimes,1,1,2,1,Yes,Good
-No,Yes,Sometimes,1,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,0,2,2,Yes,Poor
-Yes,Yes,Sometimes,2,0,2,2,Yes,Poor
-Yes,No,Sometimes,2,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,2,Yes,Poor
-Yes,Yes,Often,0,0,2,2,Yes,Poor
-No,No,Never,0,0,0,0,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,0,Yes,Poor
-No,No,Never,0,2,2,0,Yes,Poor
-Yes,Yes,Often,1,0,0,0,Yes,Poor
-No,Yes,Rarely,1,1,0,1,Yes,Good
-No,Yes,Sometimes,0,0,2,2,Yes,Poor
-No,Yes,Often,0,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,2,2,2,2,Yes,Poor
-No,No,Never,1,0,0,0,Yes,Poor
-No,No,N/A,2,2,2,2,No,Poor
-No,Yes,Sometimes,2,2,2,2,Yes,Poor
-No,No,Sometimes,1,0,2,1,Yes,Good
-No,No,Rarely,1,1,1,1,Yes,Good
-No,Yes,Sometimes,1,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,1,1,Yes,Good
-Yes,Yes,Often,1,1,1,1,Yes,Good
-Yes,Yes,Sometimes,1,1,2,0,Yes,Poor
-Yes,Yes,Often,2,1,2,2,Yes,Poor
-Yes,Yes,Often,0,0,0,1,Yes,Poor
-No,No,N/A,0,2,2,2,No,Poor
-No,Yes,Sometimes,0,2,2,2,Yes,Poor
-No,Yes,Sometimes,1,1,1,0,Yes,Good
-Yes,Yes,Sometimes,1,1,0,0,Yes,Poor
-Yes,Yes,Often,2,1,2,2,Yes,Poor
-No,Yes,Sometimes,1,1,1,0,Yes,Good
-No,Yes,Sometimes,1,2,2,1,Yes,Good
-Yes,Yes,Rarely,0,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,0,1,0,Yes,Good
-No,No,Never,0,2,2,0,Yes,Poor
-No,No,N/A,1,0,2,1,No,Good
-Yes,No,Sometimes,0,0,2,2,Yes,Poor
-Yes,No,Sometimes,0,2,2,2,Yes,Poor
-No,No,Never,1,2,2,2,Yes,Poor
-No,Yes,Rarely,2,1,2,0,Yes,Poor
-Yes,Yes,Rarely,2,2,0,0,Yes,Poor
-No,Yes,Often,1,1,0,0,Yes,Poor
-No,No,Often,2,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,0,Yes,Poor
-No,Yes,Often,1,2,2,2,Yes,Poor
-No,No,N/A,2,0,2,2,No,Poor
-Yes,Yes,Sometimes,0,2,0,0,Yes,Poor
-No,No,Sometimes,1,1,2,2,Yes,Poor
-No,Yes,Never,0,0,2,0,Yes,Poor
-Yes,Yes,Sometimes,0,1,2,0,Yes,Poor
-No,No,Never,2,1,2,2,Yes,Poor
-No,Yes,Never,0,0,2,0,Yes,Poor
-No,No,N/A,0,0,0,0,No,Poor
-No,Yes,Sometimes,0,0,0,0,Yes,Poor
-Yes,No,Sometimes,2,2,2,2,Yes,Poor
-No,No,N/A,2,2,2,2,No,Poor
-Yes,Yes,Rarely,1,1,2,2,Yes,Poor
-No,No,Rarely,2,1,2,1,Yes,Poor
-No,No,Rarely,2,1,2,1,Yes,Poor
-Yes,Yes,Sometimes,2,2,2,2,Yes,Poor
-Yes,No,N/A,2,2,2,2,No,Poor
-Yes,Yes,Sometimes,0,0,2,2,Yes,Poor
-No,Yes,Often,2,1,2,2,Yes,Poor
-No,No,Rarely,0,0,0,0,Yes,Poor
-Yes,No,Sometimes,0,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,2,0,0,0,Yes,Poor
-No,No,Rarely,1,0,2,0,Yes,Poor
-No,Yes,Sometimes,1,1,1,1,Yes,Good
-No,No,Never,2,2,2,2,Yes,Poor
-Yes,Yes,Rarely,0,0,2,0,Yes,Poor
-Yes,Yes,Never,0,0,2,0,Yes,Poor
-Yes,Yes,Rarely,2,1,2,2,Yes,Poor
-No,No,Never,0,2,2,0,Yes,Poor
-No,Yes,Sometimes,1,1,2,2,Yes,Poor
-No,No,Never,1,2,2,1,Yes,Good
-No,No,N/A,0,0,2,2,No,Poor
-Yes,Yes,Sometimes,0,2,2,0,Yes,Poor
-Yes,No,Sometimes,1,2,1,0,Yes,Good
-No,No,Never,0,0,2,2,Yes,Poor
-No,No,Often,2,2,2,2,Yes,Poor
-No,Yes,Sometimes,1,1,2,0,Yes,Poor
-No,No,N/A,0,0,2,2,No,Poor
-Yes,Yes,Sometimes,1,1,2,1,Yes,Good
-No,Yes,Sometimes,2,2,2,2,Yes,Poor
-Yes,No,N/A,0,2,2,2,No,Poor
-Yes,Yes,Rarely,1,2,2,2,Yes,Poor
-No,No,Never,2,2,2,0,Yes,Poor
-No,Yes,Sometimes,2,2,2,2,Yes,Poor
-No,Yes,Sometimes,1,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,2,2,2,2,Yes,Poor
-No,Yes,Often,2,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,2,2,2,Yes,Poor
-No,No,N/A,0,0,2,2,No,Poor
-Yes,Yes,Sometimes,1,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,1,Yes,Good
-Yes,No,Sometimes,1,0,1,1,Yes,Good
-No,No,Never,0,2,2,2,Yes,Poor
-No,No,Never,0,0,0,0,Yes,Poor
-No,No,N/A,0,0,2,2,No,Poor
-No,No,Rarely,0,2,2,2,Yes,Poor
-No,Yes,Often,2,2,2,2,Yes,Poor
-No,Yes,Often,1,0,2,0,Yes,Poor
-No,No,N/A,0,0,2,0,No,Poor
-No,Yes,Often,2,1,2,2,Yes,Poor
-No,Yes,Rarely,1,2,2,2,Yes,Poor
-No,No,N/A,0,0,2,2,No,Poor
-Yes,Yes,Never,2,2,2,2,Yes,Poor
-No,Yes,Sometimes,2,2,2,2,Yes,Poor
-No,Yes,Sometimes,2,1,2,2,Yes,Poor
-Yes,No,Often,2,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,0,0,2,2,Yes,Poor
-Yes,No,N/A,2,2,2,2,No,Poor
-No,No,Never,0,0,2,2,Yes,Poor
-No,No,Sometimes,0,2,2,2,Yes,Poor
-No,Yes,Often,1,1,2,2,Yes,Poor
-No,No,N/A,2,0,2,2,No,Poor
-No,No,Never,2,1,2,2,Yes,Poor
-No,No,N/A,2,0,2,2,No,Poor
-No,Yes,Sometimes,1,2,1,1,Yes,Good
-Yes,Yes,Often,0,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,0,0,0,0,Yes,Poor
-No,No,Never,0,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,1,Yes,Good
-No,Yes,Rarely,2,1,1,2,Yes,Poor
-Yes,No,Never,1,1,0,1,Yes,Good
-Yes,Yes,Sometimes,0,1,2,2,Yes,Poor
-No,No,N/A,2,2,2,2,No,Poor
-Yes,Yes,Sometimes,2,1,2,1,Yes,Poor
-No,Yes,Rarely,2,1,2,2,Yes,Poor
-No,Yes,Often,1,1,1,0,Yes,Good
-No,Yes,Often,0,2,1,0,Yes,Poor
-No,No,Sometimes,2,1,2,2,Yes,Poor
-No,No,Sometimes,0,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,0,2,2,2,Yes,Poor
-No,Yes,Rarely,0,2,2,0,Yes,Poor
-Yes,Yes,Rarely,1,1,2,1,Yes,Good
-No,No,Never,1,0,0,1,Yes,Good
-No,Yes,Often,2,2,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,2,2,0,Yes,Poor
-Yes,Yes,Sometimes,1,1,0,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,1,2,Yes,Good
-No,Yes,N/A,2,2,2,2,No,Poor
-Yes,Yes,Often,1,1,2,2,Yes,Poor
-Yes,Yes,Sometimes,1,1,2,2,Yes,Poor
-No,No,N/A,2,1,2,2,No,Poor
+family_history,treatment,work_interfere,benefits,care_options,wellness_program,seek_help,condition,resources,knowledge
+Yes,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,Yes,Often,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Rarely,1,0,0,1,Yes,Good,Somewhat knowledgeable
+No,No,N/A,0,0,2,0,No,Poor,Not knowledgable
+Yes,Yes,Rarely,1,1,0,0,Yes,Good,Somewhat knowledgeable
+No,Yes,Sometimes,0,0,2,0,Yes,Poor,Not knowledgable
+No,No,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,Yes,Rarely,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,Rarely,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,1,2,2,No,Poor,Not knowledgable
+No,No,N/A,1,1,2,0,No,Good,Somewhat knowledgeable
+No,Yes,Rarely,1,1,2,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,1,0,0,1,No,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,Often,2,0,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
+No,No,N/A,0,0,2,2,No,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Rarely,1,2,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Often,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,0,0,No,Poor,Not knowledgable
+No,No,N/A,0,2,0,0,No,Poor,Not knowledgable
+No,No,Never,0,0,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Rarely,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,No,N/A,0,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Often,0,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,0,0,1,1,Yes,Good,Somewhat knowledgeable
+No,No,Never,1,0,2,1,Yes,Good,Somewhat knowledgeable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,No,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,No,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Often,2,0,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,1,2,0,1,Yes,Good,Somewhat knowledgeable
+No,No,Never,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,0,0,0,Yes,Poor,Not knowledgable
+No,No,Rarely,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,N/A,2,2,2,0,No,Poor,Not knowledgable
+No,No,Never,0,0,1,0,Yes,Poor,Not knowledgable
+No,No,N/A,2,1,2,2,No,Poor,Not knowledgable
+No,No,N/A,1,1,1,1,No,Good,Knowledgeable
+Yes,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,2,0,0,Yes,Poor,Not knowledgable
+Yes,No,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
+No,No,Never,1,0,1,0,Yes,Good,Somewhat knowledgeable
+Yes,No,Never,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,2,2,No,Poor,Not knowledgable
+Yes,Yes,Rarely,1,0,2,0,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,N/A,0,2,2,0,No,Poor,Not knowledgable
+No,No,Never,1,1,1,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,2,2,2,No,Poor,Not knowledgable
+No,No,N/A,1,1,2,2,No,Good,Somewhat knowledgeable
+No,Yes,Sometimes,1,1,2,0,Yes,Good,Somewhat knowledgeable
+No,No,Never,0,2,2,0,Yes,Poor,Not knowledgable
+Yes,No,Rarely,0,0,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+No,Yes,Often,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,Never,1,0,0,0,Yes,Poor,Not knowledgable
+Yes,No,N/A,0,2,0,0,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+No,No,Never,1,0,1,0,Yes,Good,Somewhat knowledgeable
+Yes,No,Rarely,1,0,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,0,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,No,Never,1,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,2,1,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,1,1,2,0,Yes,Good,Somewhat knowledgeable
+No,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Rarely,1,1,2,1,Yes,Good,Knowledgeable
+No,No,Never,1,1,2,0,Yes,Good,Somewhat knowledgeable
+No,No,N/A,0,2,2,0,No,Poor,Not knowledgable
+No,No,Never,0,2,2,0,Yes,Poor,Not knowledgable
+No,Yes,Rarely,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,2,0,No,Poor,Not knowledgable
+No,No,Never,1,1,2,1,Yes,Good,Knowledgeable
+No,No,N/A,0,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,2,0,0,Yes,Poor,Not knowledgable
+No,No,Often,1,2,2,2,Yes,Poor,Not knowledgable
+Yes,No,Never,1,2,1,1,Yes,Good,Knowledgeable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,Yes,Rarely,1,1,2,1,Yes,Good,Knowledgeable
+Yes,No,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,Rarely,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,0,0,0,Yes,Poor,Not knowledgable
+No,No,N/A,2,1,2,2,No,Poor,Not knowledgable
+No,Yes,Never,0,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Often,1,0,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,2,2,0,No,Poor,Not knowledgable
+No,No,N/A,0,2,0,2,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,2,0,0,Yes,Poor,Not knowledgable
+Yes,No,N/A,0,0,2,0,No,Poor,Not knowledgable
+No,No,Never,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Rarely,2,1,1,1,Yes,Good,Knowledgeable
+No,No,N/A,0,0,2,0,No,Poor,Not knowledgable
+Yes,No,Never,0,0,2,2,Yes,Poor,Not knowledgable
+No,No,Rarely,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,0,0,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,2,2,0,Yes,Poor,Not knowledgable
+No,Yes,Rarely,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,0,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,1,2,2,1,Yes,Good,Somewhat knowledgeable
+Yes,No,Rarely,0,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,1,2,2,No,Poor,Not knowledgable
+No,No,Rarely,0,0,1,0,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,0,0,Yes,Good,Somewhat knowledgeable
+No,Yes,Never,0,0,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,2,2,0,No,Poor,Not knowledgable
+No,No,Never,0,0,2,0,Yes,Poor,Not knowledgable
+No,Yes,Often,1,0,0,0,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,2,2,2,No,Poor,Not knowledgable
+No,No,Never,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,2,2,0,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgable
+Yes,Yes,Often,1,0,2,0,Yes,Poor,Not knowledgable
+No,No,N/A,1,2,2,2,No,Poor,Not knowledgable
+No,No,Sometimes,0,2,2,0,Yes,Poor,Not knowledgable
+No,No,N/A,2,1,2,2,No,Poor,Not knowledgable
+Yes,No,N/A,0,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Never,1,0,0,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,2,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Rarely,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,0,2,2,Yes,Poor,Not knowledgable
+No,No,Rarely,1,2,2,2,Yes,Poor,Not knowledgable
+Yes,No,N/A,1,1,2,2,No,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Often,2,0,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,No,N/A,0,2,0,0,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,0,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+No,Yes,Often,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,0,2,0,Yes,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,No,N/A,1,1,1,1,No,Good,Knowledgeable
+Yes,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,1,0,2,2,No,Poor,Not knowledgable
+No,No,N/A,1,2,2,2,No,Poor,Not knowledgable
+No,No,N/A,0,2,2,2,No,Poor,Not knowledgable
+No,No,Rarely,0,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,0,0,0,Yes,Poor,Not knowledgable
+No,No,N/A,0,2,0,2,No,Poor,Not knowledgable
+No,No,Rarely,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,Never,1,0,2,0,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,2,2,1,Yes,Good,Somewhat knowledgeable
+No,Yes,Rarely,1,1,2,0,Yes,Good,Somewhat knowledgeable
+No,No,Sometimes,0,0,2,0,Yes,Poor,Not knowledgable
+No,No,N/A,0,2,0,0,No,Poor,Not knowledgable
+No,No,Never,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Often,1,1,2,0,Yes,Good,Somewhat knowledgeable
+Yes,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,No,N/A,0,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,No,Never,1,1,0,0,Yes,Good,Somewhat knowledgeable
+No,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,No,N/A,1,2,2,0,No,Poor,Not knowledgable
+Yes,Yes,Rarely,1,1,1,0,Yes,Good,Knowledgeable
+No,No,Sometimes,0,2,0,0,Yes,Poor,Not knowledgable
+No,No,Often,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgable
+No,No,Never,2,1,2,1,Yes,Good,Somewhat knowledgeable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Often,2,1,2,2,Yes,Poor,Not knowledgable
+No,Yes,Rarely,1,2,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
+Yes,Yes,Rarely,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,1,2,0,No,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,0,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Often,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,Never,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,1,1,1,1,No,Good,Knowledgeable
+No,No,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+No,Yes,Rarely,1,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,1,2,1,1,No,Good,Knowledgeable
+No,No,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,No,Sometimes,0,2,2,0,Yes,Poor,Not knowledgable
+No,No,Never,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,0,2,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,1,0,0,0,Yes,Poor,Not knowledgable
+No,No,Never,0,0,0,0,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,1,1,1,0,Yes,Good,Knowledgeable
+No,No,Never,0,2,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,0,0,Yes,Good,Somewhat knowledgeable
+No,No,Never,1,2,2,0,Yes,Poor,Not knowledgable
+No,Yes,Never,1,0,0,0,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,2,0,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,1,0,Yes,Good,Knowledgeable
+No,No,N/A,1,2,0,1,No,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,1,2,1,1,Yes,Good,Knowledgeable
+No,No,Never,1,1,1,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,1,0,0,0,Yes,Poor,Not knowledgable
+No,No,Rarely,1,0,2,0,Yes,Poor,Not knowledgable
+No,Yes,Rarely,1,1,0,1,Yes,Good,Knowledgeable
+Yes,Yes,Often,1,2,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,1,0,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,No,N/A,0,0,2,0,No,Poor,Not knowledgable
+No,No,Sometimes,1,0,1,1,Yes,Good,Knowledgeable
+No,Yes,Rarely,1,0,0,1,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,1,0,2,0,Yes,Poor,Not knowledgable
+Yes,No,N/A,0,2,0,0,No,Poor,Not knowledgable
+Yes,Yes,Often,1,1,1,1,Yes,Good,Knowledgeable
+No,No,N/A,2,1,2,2,No,Poor,Not knowledgable
+Yes,Yes,Rarely,1,1,0,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,1,2,2,0,Yes,Poor,Not knowledgable
+No,No,Never,1,0,0,1,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
+No,Yes,Rarely,1,2,0,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,0,0,No,Poor,Not knowledgable
+No,No,Never,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,0,0,0,1,Yes,Poor,Not knowledgable
+No,No,N/A,1,0,1,1,No,Good,Knowledgeable
+Yes,Yes,Sometimes,1,1,2,0,Yes,Good,Somewhat knowledgeable
+No,No,Never,1,0,1,0,Yes,Good,Somewhat knowledgeable
+No,Yes,Sometimes,0,2,2,0,Yes,Poor,Not knowledgable
+No,No,N/A,1,1,0,0,No,Good,Somewhat knowledgeable
+No,No,N/A,1,1,1,1,No,Good,Knowledgeable
+Yes,No,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,0,0,0,0,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,0,0,No,Poor,Not knowledgable
+No,No,Rarely,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Never,0,2,1,1,Yes,Good,Somewhat knowledgeable
+No,No,Sometimes,0,2,0,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,0,0,Yes,Good,Somewhat knowledgeable
+No,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+No,No,Never,2,2,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Often,1,0,0,1,Yes,Good,Somewhat knowledgeable
+Yes,No,Sometimes,1,1,1,2,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,0,0,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,0,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,Yes,Often,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,0,0,2,0,Yes,Poor,Not knowledgable
+Yes,No,N/A,1,2,1,1,No,Good,Knowledgeable
+Yes,Yes,Often,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,1,2,2,0,Yes,Poor,Not knowledgable
+No,No,N/A,1,2,1,1,No,Good,Knowledgeable
+Yes,Yes,Often,1,2,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Rarely,0,0,0,2,Yes,Poor,Not knowledgable
+No,Yes,Never,1,1,0,0,Yes,Good,Somewhat knowledgeable
+No,Yes,Rarely,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Never,1,1,2,1,Yes,Good,Knowledgeable
+No,Yes,Never,1,0,2,0,Yes,Poor,Not knowledgable
+No,Yes,Rarely,1,2,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,1,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Often,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,1,1,2,0,Yes,Good,Somewhat knowledgeable
+No,No,Never,0,0,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,0,0,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,1,1,2,1,Yes,Good,Knowledgeable
+No,No,Never,0,2,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Often,0,2,0,0,Yes,Poor,Not knowledgable
+No,No,N/A,0,2,2,2,No,Poor,Not knowledgable
+No,No,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,0,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgable
+Yes,Yes,Often,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,N/A,0,2,2,0,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,No,N/A,1,1,2,1,No,Good,Knowledgeable
+Yes,Yes,Never,1,1,1,1,Yes,Good,Knowledgeable
+No,No,N/A,0,2,0,0,No,Poor,Not knowledgable
+Yes,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Often,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,No,Never,0,0,0,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgable
+Yes,No,Often,0,2,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,0,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,No,Never,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,2,1,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,1,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,2,0,2,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,1,2,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,2,2,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,1,1,1,1,No,Good,Knowledgeable
+Yes,Yes,Rarely,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,0,0,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,2,2,0,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,0,0,No,Poor,Not knowledgable
+No,No,N/A,0,0,0,0,No,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,2,0,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
+Yes,No,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Rarely,1,2,1,0,Yes,Good,Somewhat knowledgeable
+No,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+No,No,N/A,1,2,0,2,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,No,Often,1,2,2,0,Yes,Poor,Not knowledgable
+Yes,No,N/A,1,0,0,0,No,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,Yes,Rarely,1,1,1,2,Yes,Good,Knowledgeable
+Yes,No,Never,1,1,1,0,Yes,Good,Knowledgeable
+Yes,Yes,Often,1,1,1,2,Yes,Good,Knowledgeable
+No,Yes,Sometimes,0,0,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,0,2,0,Yes,Poor,Not knowledgable
+No,No,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+No,No,Rarely,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,No,Never,1,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,1,2,2,2,No,Poor,Not knowledgable
+No,No,N/A,0,2,0,0,No,Poor,Not knowledgable
+No,No,Never,1,0,1,1,Yes,Good,Knowledgeable
+No,No,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,No,Never,0,0,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,2,1,0,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,2,1,2,2,Yes,Poor,Not knowledgable
+No,Yes,Rarely,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+No,Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
+No,No,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
+No,No,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,0,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,2,0,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,2,2,No,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgable
+No,Yes,Rarely,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,Never,0,2,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,0,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,1,0,0,0,No,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,No,N/A,0,0,0,0,No,Poor,Not knowledgable
+Yes,Yes,Often,1,0,0,2,Yes,Poor,Not knowledgable
+No,No,Rarely,0,0,0,0,Yes,Poor,Not knowledgable
+No,Yes,N/A,1,1,2,2,No,Good,Somewhat knowledgeable
+No,No,N/A,2,0,2,0,No,Poor,Not knowledgable
+No,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,1,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+No,No,N/A,1,0,1,0,No,Good,Somewhat knowledgeable
+No,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+No,No,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,2,0,No,Poor,Not knowledgable
+No,No,Never,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,1,0,1,1,Yes,Good,Knowledgeable
+No,No,N/A,0,2,2,0,No,Poor,Not knowledgable
+No,Yes,Rarely,1,0,1,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Often,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,Never,1,1,0,1,Yes,Good,Knowledgeable
+Yes,No,Rarely,0,0,0,0,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,2,1,1,2,Yes,Good,Somewhat knowledgeable
+No,Yes,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
+No,No,Rarely,0,2,2,0,Yes,Poor,Not knowledgable
+No,No,Never,0,0,0,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Often,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Never,0,2,2,0,Yes,Poor,Not knowledgable
+No,No,Never,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,0,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Rarely,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,Never,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Often,1,2,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,2,0,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,2,2,No,Poor,Not knowledgable
+No,No,Never,0,0,0,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,2,2,1,Yes,Good,Somewhat knowledgeable
+Yes,No,N/A,1,1,1,1,No,Good,Knowledgeable
+No,No,Often,2,2,0,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,2,1,1,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Rarely,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+No,No,N/A,0,2,0,0,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,2,0,2,0,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,0,0,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,2,2,0,Yes,Poor,Not knowledgable
+No,No,Never,0,0,0,0,Yes,Poor,Not knowledgable
+No,Yes,Rarely,0,0,2,0,Yes,Poor,Not knowledgable
+No,No,Never,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,Yes,Sometimes,1,0,1,0,Yes,Good,Somewhat knowledgeable
+No,Yes,Sometimes,1,2,2,1,Yes,Good,Somewhat knowledgeable
+Yes,No,Sometimes,1,0,0,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,2,1,2,2,Yes,Poor,Not knowledgable
+No,Yes,Often,1,1,1,1,Yes,Good,Knowledgeable
+No,No,Sometimes,0,0,0,1,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,Never,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,No,Never,0,2,2,0,Yes,Poor,Not knowledgable
+No,No,N/A,0,2,0,2,No,Poor,Not knowledgable
+Yes,No,Sometimes,0,0,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Often,1,2,2,2,Yes,Poor,Not knowledgable
+Yes,No,N/A,0,2,2,0,No,Poor,Not knowledgable
+No,No,Never,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Often,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,1,1,1,2,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,0,1,1,Yes,Good,Knowledgeable
+Yes,No,Never,1,1,1,1,Yes,Good,Knowledgeable
+No,No,Rarely,1,0,0,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,0,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,2,2,0,No,Poor,Not knowledgable
+No,No,N/A,0,0,0,0,No,Poor,Not knowledgable
+Yes,Yes,Rarely,2,2,2,0,Yes,Poor,Not knowledgable
+Yes,No,Often,1,1,1,1,Yes,Good,Knowledgeable
+No,No,N/A,1,0,0,0,No,Poor,Not knowledgable
+No,No,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,0,2,2,0,Yes,Poor,Not knowledgable
+No,No,N/A,0,2,2,2,No,Poor,Not knowledgable
+No,No,Never,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,0,0,2,2,Yes,Poor,Not knowledgable
+No,No,Rarely,1,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,1,2,1,0,Yes,Good,Somewhat knowledgeable
+Yes,No,Often,2,0,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,No,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Often,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
+No,No,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,0,2,0,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,2,0,Yes,Good,Somewhat knowledgeable
+No,No,Never,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Often,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,1,1,2,2,No,Good,Somewhat knowledgeable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,No,Never,1,1,2,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Often,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Never,0,0,0,0,Yes,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,No,Rarely,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,0,Yes,Good,Somewhat knowledgeable
+No,No,N/A,0,2,2,0,No,Poor,Not knowledgable
+No,No,Rarely,1,1,1,1,Yes,Good,Knowledgeable
+No,No,Never,0,2,2,0,Yes,Poor,Not knowledgable
+No,No,Never,0,0,0,0,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,2,2,0,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,0,0,No,Poor,Not knowledgable
+No,No,Never,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,2,2,2,No,Poor,Not knowledgable
+No,No,Never,2,0,2,0,Yes,Poor,Not knowledgable
+Yes,No,Sometimes,0,0,2,0,Yes,Poor,Not knowledgable
+No,No,N/A,1,0,0,1,No,Good,Somewhat knowledgeable
+Yes,No,Never,0,2,0,0,Yes,Poor,Not knowledgable
+Yes,No,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Rarely,0,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Often,1,0,2,1,Yes,Good,Somewhat knowledgeable
+No,Yes,Rarely,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,0,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,1,0,1,1,Yes,Good,Knowledgeable
+No,No,N/A,0,2,2,2,No,Poor,Not knowledgable
+No,Yes,Sometimes,0,0,1,0,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,2,2,0,No,Poor,Not knowledgable
+No,No,N/A,1,0,0,0,No,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,No,N/A,0,2,2,0,No,Poor,Not knowledgable
+No,No,N/A,2,2,2,0,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,0,0,Yes,Good,Somewhat knowledgeable
+No,Yes,Rarely,0,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,0,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,2,0,No,Poor,Not knowledgable
+No,Yes,Often,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,No,N/A,0,0,0,0,No,Poor,Not knowledgable
+Yes,No,Never,0,2,2,0,Yes,Poor,Not knowledgable
+No,No,Never,1,1,2,1,Yes,Good,Knowledgeable
+No,No,N/A,1,1,0,1,No,Good,Knowledgeable
+Yes,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,No,N/A,1,0,2,0,No,Poor,Not knowledgable
+No,No,N/A,0,2,2,2,No,Poor,Not knowledgable
+No,No,N/A,2,1,2,2,No,Poor,Not knowledgable
+Yes,Yes,Never,0,2,1,0,Yes,Poor,Not knowledgable
+No,No,Never,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Rarely,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Often,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,2,1,2,No,Poor,Not knowledgable
+No,No,N/A,0,0,2,2,No,Poor,Not knowledgable
+No,No,N/A,0,0,2,2,No,Poor,Not knowledgable
+No,Yes,Sometimes,0,0,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,2,2,1,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,1,2,2,No,Poor,Not knowledgable
+No,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,0,Yes,Good,Somewhat knowledgeable
+No,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,N/A,1,0,2,0,No,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,0,0,2,2,Yes,Poor,Not knowledgable
+Yes,No,N/A,1,1,2,2,No,Good,Somewhat knowledgeable
+No,No,N/A,0,0,1,1,No,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgable
+No,No,Never,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,1,2,1,0,Yes,Good,Somewhat knowledgeable
+No,No,Rarely,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,0,0,1,0,Yes,Poor,Not knowledgable
+No,No,Never,0,0,2,0,Yes,Poor,Not knowledgable
+No,Yes,Never,1,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,0,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,0,2,2,0,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,2,1,No,Poor,Not knowledgable
+No,No,N/A,0,2,2,2,No,Poor,Not knowledgable
+No,Yes,Never,0,2,2,0,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgable
+No,No,N/A,0,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,0,0,Yes,Good,Somewhat knowledgeable
+No,Yes,Never,1,1,1,1,Yes,Good,Knowledgeable
+No,No,Rarely,0,0,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,0,0,Yes,Good,Somewhat knowledgeable
+No,Yes,Often,0,0,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgable
+No,No,Never,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Often,1,2,2,0,Yes,Poor,Not knowledgable
+No,No,N/A,0,2,2,2,No,Poor,Not knowledgable
+Yes,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,Yes,Sometimes,0,2,0,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,1,2,2,2,No,Poor,Not knowledgable
+No,No,N/A,1,1,1,1,No,Good,Knowledgeable
+No,No,N/A,0,0,2,0,No,Poor,Not knowledgable
+No,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,No,N/A,0,2,2,0,No,Poor,Not knowledgable
+No,No,N/A,0,0,2,0,No,Poor,Not knowledgable
+Yes,No,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
+No,No,Never,0,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Never,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,0,0,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+No,No,Never,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,0,0,No,Poor,Not knowledgable
+No,No,N/A,1,2,1,1,No,Good,Knowledgeable
+Yes,No,Often,0,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,0,0,0,Yes,Poor,Not knowledgable
+No,Yes,Rarely,0,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,1,0,2,0,Yes,Poor,Not knowledgable
+No,Yes,Rarely,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,1,0,0,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Often,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,N/A,0,2,2,0,No,Poor,Not knowledgable
+No,No,Rarely,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,Sometimes,0,0,1,0,Yes,Poor,Not knowledgable
+No,No,Sometimes,0,0,0,0,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,0,2,1,0,Yes,Poor,Not knowledgable
+No,No,Rarely,1,1,1,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,No,N/A,1,1,2,0,No,Good,Somewhat knowledgeable
+No,No,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,No,N/A,0,0,2,2,No,Poor,Not knowledgable
+Yes,No,N/A,1,1,1,1,No,Good,Knowledgeable
+No,No,Never,1,1,1,1,Yes,Good,Knowledgeable
+No,No,N/A,0,0,0,2,No,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Often,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,N/A,2,1,2,2,No,Poor,Not knowledgable
+No,Yes,Rarely,1,1,0,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,0,0,No,Poor,Not knowledgable
+No,No,N/A,1,2,1,2,No,Good,Somewhat knowledgeable
+No,Yes,Never,1,1,2,0,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgable
+No,No,Never,1,1,0,0,Yes,Good,Somewhat knowledgeable
+No,No,Never,1,2,1,0,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,1,1,2,0,Yes,Good,Somewhat knowledgeable
+No,Yes,Rarely,0,0,2,2,Yes,Poor,Not knowledgable
+Yes,No,Sometimes,1,2,1,1,Yes,Good,Knowledgeable
+Yes,No,N/A,0,0,0,0,No,Poor,Not knowledgable
+Yes,No,Never,1,2,0,1,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Often,0,0,2,0,Yes,Poor,Not knowledgable
+No,No,Never,1,1,1,1,Yes,Good,Knowledgeable
+No,No,Sometimes,0,2,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
+No,No,N/A,1,2,1,1,No,Good,Knowledgeable
+Yes,Yes,Sometimes,1,1,1,2,Yes,Good,Knowledgeable
+No,Yes,Rarely,1,1,0,0,Yes,Good,Somewhat knowledgeable
+No,Yes,Never,1,1,1,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Rarely,1,1,2,1,Yes,Good,Knowledgeable
+Yes,Yes,Often,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,1,2,1,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,1,1,1,1,No,Good,Knowledgeable
+Yes,Yes,Often,0,0,2,0,Yes,Poor,Not knowledgable
+Yes,No,Sometimes,0,0,2,0,Yes,Poor,Not knowledgable
+Yes,No,N/A,1,2,0,0,No,Poor,Not knowledgable
+No,No,Sometimes,1,2,1,2,Yes,Good,Somewhat knowledgeable
+No,No,N/A,1,1,1,1,No,Good,Knowledgeable
+No,No,N/A,1,2,2,2,No,Poor,Not knowledgable
+Yes,No,Never,0,2,0,0,Yes,Poor,Not knowledgable
+No,No,Often,0,2,2,1,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,2,0,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,0,2,1,Yes,Poor,Not knowledgable
+No,Yes,Often,0,2,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,N/A,0,2,2,0,No,Poor,Not knowledgable
+No,Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Rarely,1,1,0,0,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,1,1,2,0,Yes,Good,Somewhat knowledgeable
+Yes,No,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,0,2,0,0,Yes,Poor,Not knowledgable
+Yes,Yes,Often,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,1,1,0,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,1,1,0,0,Yes,Good,Somewhat knowledgeable
+No,Yes,Rarely,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,0,2,2,0,Yes,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Often,0,0,1,2,Yes,Poor,Not knowledgable
+No,Yes,Rarely,1,0,0,0,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,0,0,No,Poor,Not knowledgable
+No,No,N/A,0,2,2,2,No,Poor,Not knowledgable
+No,No,Never,0,0,0,0,Yes,Poor,Not knowledgable
+No,No,Sometimes,2,0,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,0,0,2,0,Yes,Poor,Not knowledgable
+Yes,No,Never,1,1,1,1,Yes,Good,Knowledgeable
+No,No,N/A,0,0,2,2,No,Poor,Not knowledgable
+No,No,N/A,0,2,0,0,No,Poor,Not knowledgable
+No,No,Never,1,1,1,1,Yes,Good,Knowledgeable
+No,No,Never,1,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Often,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Often,0,0,2,0,Yes,Poor,Not knowledgable
+No,No,Never,1,0,1,2,Yes,Good,Somewhat knowledgeable
+No,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,No,Rarely,0,0,2,2,Yes,Poor,Not knowledgable
+No,No,Often,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,No,Sometimes,1,0,1,1,Yes,Good,Knowledgeable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,No,N/A,1,2,2,1,No,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,1,1,1,0,Yes,Good,Knowledgeable
+No,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Rarely,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,Rarely,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Often,1,1,2,0,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,0,2,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Often,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,Yes,Sometimes,0,2,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,2,2,0,Yes,Poor,Not knowledgable
+No,No,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,2,2,No,Poor,Not knowledgable
+Yes,No,Sometimes,0,0,0,0,Yes,Poor,Not knowledgable
+No,No,Sometimes,1,0,1,1,Yes,Good,Knowledgeable
+No,No,N/A,0,0,2,2,No,Poor,Not knowledgable
+No,No,N/A,0,0,2,2,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,2,2,2,Yes,Poor,Not knowledgable
+No,No,Rarely,0,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,1,1,1,1,Yes,Good,Knowledgeable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+Yes,No,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,2,2,0,Yes,Poor,Not knowledgable
+No,No,Never,1,1,1,1,Yes,Good,Knowledgeable
+No,No,Sometimes,0,0,2,2,Yes,Poor,Not knowledgable
+Yes,No,Never,1,1,1,2,Yes,Good,Knowledgeable
+Yes,No,N/A,0,0,2,2,No,Poor,Not knowledgable
+Yes,Yes,Rarely,0,0,0,0,Yes,Poor,Not knowledgable
+Yes,Yes,Often,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,No,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,2,0,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,1,2,0,1,No,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,1,0,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,2,0,2,2,Yes,Poor,Not knowledgable
+Yes,No,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Often,0,0,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,0,0,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,0,Yes,Good,Somewhat knowledgeable
+No,No,Never,0,2,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Often,1,0,0,0,Yes,Poor,Not knowledgable
+No,Yes,Rarely,1,1,0,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,0,0,2,2,Yes,Poor,Not knowledgable
+No,Yes,Often,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,1,0,0,0,Yes,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,1,0,2,1,Yes,Good,Somewhat knowledgeable
+No,No,Rarely,1,1,1,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Often,1,1,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,1,1,2,0,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Often,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Often,0,0,0,1,Yes,Poor,Not knowledgable
+No,No,N/A,0,2,2,2,No,Poor,Not knowledgable
+No,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,1,0,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,1,1,0,0,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Often,2,1,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,1,0,Yes,Good,Knowledgeable
+No,Yes,Sometimes,1,2,2,1,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Rarely,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,0,1,0,Yes,Good,Somewhat knowledgeable
+No,No,Never,0,2,2,0,Yes,Poor,Not knowledgable
+No,No,N/A,1,0,2,1,No,Good,Somewhat knowledgeable
+Yes,No,Sometimes,0,0,2,2,Yes,Poor,Not knowledgable
+Yes,No,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,1,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Rarely,2,1,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,2,2,0,0,Yes,Poor,Not knowledgable
+No,Yes,Often,1,1,0,0,Yes,Good,Somewhat knowledgeable
+No,No,Often,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,0,Yes,Good,Somewhat knowledgeable
+No,Yes,Often,1,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,0,2,2,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,2,0,0,Yes,Poor,Not knowledgable
+No,No,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,Yes,Never,0,0,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,1,2,0,Yes,Poor,Not knowledgable
+No,No,Never,2,1,2,2,Yes,Poor,Not knowledgable
+No,Yes,Never,0,0,2,0,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,0,0,No,Poor,Not knowledgable
+No,Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgable
+Yes,No,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Rarely,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,Rarely,2,1,2,1,Yes,Good,Somewhat knowledgeable
+No,No,Rarely,2,1,2,1,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,0,2,2,Yes,Poor,Not knowledgable
+No,Yes,Often,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,Rarely,0,0,0,0,Yes,Poor,Not knowledgable
+Yes,No,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,2,0,0,0,Yes,Poor,Not knowledgable
+No,No,Rarely,1,0,2,0,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
+No,No,Never,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,0,0,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Never,0,0,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,2,2,0,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,Never,1,2,2,1,Yes,Good,Somewhat knowledgeable
+No,No,N/A,0,0,2,2,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,2,2,0,Yes,Poor,Not knowledgable
+Yes,No,Sometimes,1,2,1,0,Yes,Good,Somewhat knowledgeable
+No,No,Never,0,0,2,2,Yes,Poor,Not knowledgable
+No,No,Often,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,2,0,Yes,Good,Somewhat knowledgeable
+No,No,N/A,0,0,2,2,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
+No,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,No,N/A,0,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Rarely,1,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,2,2,2,0,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Often,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,2,2,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
+Yes,No,Sometimes,1,0,1,1,Yes,Good,Knowledgeable
+No,No,Never,0,2,2,2,Yes,Poor,Not knowledgable
+No,No,Never,0,0,0,0,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,2,2,No,Poor,Not knowledgable
+No,No,Rarely,0,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Often,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Often,1,0,2,0,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,2,0,No,Poor,Not knowledgable
+No,Yes,Often,2,1,2,2,Yes,Poor,Not knowledgable
+No,Yes,Rarely,1,2,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,0,0,2,2,No,Poor,Not knowledgable
+Yes,Yes,Never,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,2,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,No,Often,2,1,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,0,2,2,Yes,Poor,Not knowledgable
+Yes,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+No,No,Never,0,0,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Often,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,N/A,2,0,2,2,No,Poor,Not knowledgable
+No,No,Never,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,0,2,2,No,Poor,Not knowledgable
+No,Yes,Sometimes,1,2,1,1,Yes,Good,Knowledgeable
+Yes,Yes,Often,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgable
+No,No,Never,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
+No,Yes,Rarely,2,1,1,2,Yes,Good,Somewhat knowledgeable
+Yes,No,Never,1,1,0,1,Yes,Good,Knowledgeable
+Yes,Yes,Sometimes,0,1,2,2,Yes,Poor,Not knowledgable
+No,No,N/A,2,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Sometimes,2,1,2,1,Yes,Good,Somewhat knowledgeable
+No,Yes,Rarely,2,1,2,2,Yes,Poor,Not knowledgable
+No,Yes,Often,1,1,1,0,Yes,Good,Knowledgeable
+No,Yes,Often,0,2,1,0,Yes,Poor,Not knowledgable
+No,No,Sometimes,2,1,2,2,Yes,Poor,Not knowledgable
+No,No,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,0,2,2,2,Yes,Poor,Not knowledgable
+No,Yes,Rarely,0,2,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Rarely,1,1,2,1,Yes,Good,Knowledgeable
+No,No,Never,1,0,0,1,Yes,Good,Somewhat knowledgeable
+No,Yes,Often,2,2,2,2,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,2,2,0,Yes,Poor,Not knowledgable
+Yes,Yes,Sometimes,1,1,0,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,1,1,1,2,Yes,Good,Knowledgeable
+No,Yes,N/A,2,2,2,2,No,Poor,Not knowledgable
+Yes,Yes,Often,1,1,2,2,Yes,Good,Somewhat knowledgeable
+Yes,Yes,Sometimes,1,1,2,2,Yes,Good,Somewhat knowledgeable
+No,No,N/A,2,1,2,2,No,Poor,Not knowledgable
