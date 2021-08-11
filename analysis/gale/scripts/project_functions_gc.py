@@ -38,12 +38,34 @@ def load_and_process(url_or_filepath):
     # method chain 4: making new columns
         
     df4 = (df3.assign(condition = np.where(df2['work_interfere'] != 'N/A', 'Yes', 'No'))
-           .assign(resources = ['Good' if x>=2 else 'Poor' for x in np.count_nonzero((df3[['benefits', 'wellness_program', 'seek_help']].values == 1),1)]
+           .assign(resources = df3.apply(score_resources, axis=1))
+           .assign(knowledge = df3.apply(score_knowledge, axis=1))
            )
-    )
 
     return df4
 
+def score_resources(df):
+    # reference: https://stackoverflow.com/questions/56739320/pandas-check-if-a-value-exists-in-multiple-columns-for-each-row
+    
+    x = np.count_nonzero(df[['benefits', 'care_options', 'wellness_program', 'seek_help']] == 1)
+    if x >= 2:
+        return 'Good'
+
+    else:
+        return 'Poor'
+
+def score_knowledge(df):
+    x = np.count_nonzero(df[['benefits', 'care_options', 'wellness_program', 'seek_help']] == 1)
+    if x >= 3:
+        return 'Knowledgeable'
+
+    elif x == 2:
+        return 'Somewhat knowledgeable'
+
+    else:
+        return 'Not knowledgable'
+    
+    
 def code_mcq(df,col):
     """
     Turns survey response strings into numbers. 'Not sure' or 'Don't know' become 0, 'Yes' becomes 1, and 'No' becomes 2.
@@ -68,7 +90,7 @@ def code_mcq(df,col):
         
     return df
 
-def rel_freq_label(plot,x,y):
+def rel_freq_label(plot,x=0,y=0,size=15):
     totals = []
 
     for i in plot.patches:
@@ -78,32 +100,31 @@ def rel_freq_label(plot,x,y):
 
     for i in plot.patches:
         plot.text(i.get_x()+x, i.get_height()+y, \
-                str(round((i.get_height()/total)*100, 2))+'%', fontsize=15,
+                str(round((i.get_height()/total)*100, 1))+'%', fontsize=size,
                     color='0.2')
         
-def grouped_rel_freq_label(g):
-    for bar in g.patches:
-        g.annotate(format(bar.get_height(), '.2f'),
-                   (bar.get_x() + bar.get_width() / 2,
-                    bar.get_height()), ha='center', va='center',
-                   size=15, xytext=(0, 8),
-                   textcoords='offset points')
+def grouped_rel_freq_label(g, ax):
+    for p in g.patches:
+        width = p.get_width()
+        height = p.get_height()
+        x, y = p.get_xy() 
+        ax.annotate(f'{height/100:.1%}', (x + width/2, y + height*1.02), ha='center')
         
 def count_rel_freq_df(df,col):
     new_df = (df[col].value_counts().to_frame().rename_axis(col).rename(columns={col:'count'}).reset_index())
               
-    new_df = new_df.assign(rel_freq = round(((new_df['count'] / new_df['count'].sum()) * 100),2))
+    new_df = new_df.assign(rel_freq = round(((new_df['count'] / new_df['count'].sum()) * 100),1))
 
     return new_df
 
 def make_relfreq_col(df):
-    df['rel_freq'] = round(((df['count'] / df['count'].sum()) * 100),2)
+    df['rel_freq'] = round(((df['count'] / df['count'].sum()) * 100),1)
     
     return df
 
 def rel_freq_within_grp(df):
     df['withingrp_relfreq'] = df.groupby(level=0).apply(lambda x: 100*x/x.sum())
-    df['withingrp_relfreq'] = df['withingrp_relfreq'].apply(lambda x : round(x,2))
+    df['withingrp_relfreq'] = df['withingrp_relfreq'].apply(lambda x : round(x,1))
 
     return df
 
