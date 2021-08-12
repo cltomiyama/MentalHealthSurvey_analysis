@@ -1,5 +1,5 @@
 # Data
-This directory contains all the data that is used in the analysis.
+This directory contains all the data that is used in this project.
 
 [Click here for the Kaggle *webpage* for the original dataset.](https://www.kaggle.com/osmi/mental-health-in-tech-survey)
 
