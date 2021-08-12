@@ -123,3 +123,12 @@ def groupby_noe_ct(variable1, variable2):
     df_noe= (df_noe.style.set_properties(subset= df_noe.columns, **{'width':'7em', 'text-align':'center'})
                     .set_table_styles([dict(selector= 'th', props= [('text-align', 'left')])]).format('{0:,.0f}'))
     return df_noe
+
+def chi_sq(table):
+    stat, p, dof, expected= chi2_contingency(table)
+    print('(p-value =', p, 'df =', dof, ')')
+    alpha= 0.05
+    if p <= alpha:
+        print('Dependent (reject null hypothesis).')
+    else:
+        print('Independent (fail to reject null hypothesis)')

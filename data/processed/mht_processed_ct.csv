@@ -1,0 +1,1260 @@
+,Number of employees,consequence,coworkers,supervisor
+0,25-Jun,No,Some of them,Yes
+1,More than 1000,Maybe,No,No
+2,25-Jun,No,Yes,Yes
+3,26-100,Yes,Some of them,No
+4,100-500,No,Some of them,Yes
+5,25-Jun,No,Yes,Yes
+6,5-Jan,Maybe,Some of them,No
+7,5-Jan,No,No,No
+8,100-500,Maybe,Yes,Yes
+9,26-100,No,Yes,Yes
+10,25-Jun,No,Some of them,Yes
+11,100-500,No,Yes,Yes
+12,26-100,Yes,Yes,Yes
+13,500-1000,No,Yes,Yes
+14,25-Jun,No,Some of them,Some of them
+15,26-100,No,Yes,Some of them
+16,26-100,Maybe,Some of them,No
+17,25-Jun,Maybe,Some of them,Yes
+18,5-Jan,No,Yes,Yes
+19,25-Jun,No,Some of them,Some of them
+20,100-500,Maybe,Some of them,Some of them
+21,5-Jan,No,Some of them,Some of them
+22,26-100,Maybe,Some of them,Yes
+23,More than 1000,Maybe,No,No
+24,26-100,No,Yes,Yes
+25,More than 1000,Yes,Some of them,Yes
+26,5-Jan,Maybe,Some of them,No
+27,25-Jun,No,Yes,Yes
+28,26-100,No,Some of them,No
+29,25-Jun,Yes,Some of them,No
+30,25-Jun,Yes,Some of them,Some of them
+31,5-Jan,Yes,No,No
+32,500-1000,Maybe,Some of them,Yes
+33,26-100,Maybe,Some of them,Some of them
+34,5-Jan,Maybe,Some of them,No
+35,25-Jun,No,Yes,Yes
+36,5-Jan,Yes,Some of them,No
+37,100-500,Maybe,Some of them,Some of them
+38,100-500,No,Some of them,Yes
+39,More than 1000,No,Yes,Yes
+40,25-Jun,Maybe,Some of them,No
+41,More than 1000,Yes,Some of them,No
+42,5-Jan,Maybe,Some of them,No
+43,25-Jun,Yes,No,Some of them
+44,26-100,No,No,No
+45,26-100,No,Some of them,Yes
+46,26-100,No,Some of them,Yes
+47,25-Jun,No,Yes,Yes
+48,5-Jan,No,Yes,Yes
+49,26-100,Maybe,Some of them,Yes
+50,25-Jun,Maybe,No,No
+51,100-500,No,Some of them,Yes
+52,100-500,Maybe,Some of them,Some of them
+53,5-Jan,Maybe,Some of them,Yes
+54,100-500,No,No,No
+55,26-100,Maybe,No,No
+56,25-Jun,No,Yes,Yes
+57,26-100,No,Some of them,Yes
+58,26-100,No,Some of them,Yes
+59,25-Jun,Yes,No,No
+60,More than 1000,Yes,Some of them,No
+61,26-100,No,Yes,Yes
+62,100-500,No,Yes,Yes
+63,26-100,Yes,No,No
+64,25-Jun,No,Some of them,Yes
+65,More than 1000,Yes,Some of them,No
+66,5-Jan,No,Some of them,Yes
+67,100-500,Maybe,Some of them,Some of them
+68,26-100,Maybe,Some of them,No
+69,5-Jan,Maybe,Some of them,No
+70,26-100,Maybe,Some of them,Some of them
+71,25-Jun,No,Some of them,Yes
+72,More than 1000,Maybe,Yes,Yes
+73,26-100,No,Some of them,Yes
+74,More than 1000,Maybe,Some of them,Some of them
+75,5-Jan,Yes,No,No
+76,More than 1000,No,Yes,Yes
+77,5-Jan,No,Yes,Yes
+78,26-100,Yes,Some of them,No
+79,25-Jun,No,Some of them,Some of them
+80,100-500,No,Yes,Some of them
+81,26-100,No,Some of them,Yes
+82,26-100,No,Some of them,Yes
+83,5-Jan,Maybe,Some of them,Yes
+84,More than 1000,Yes,No,No
+85,26-100,No,Some of them,Yes
+86,25-Jun,Maybe,Some of them,No
+87,500-1000,Yes,Some of them,Some of them
+88,26-100,Maybe,Some of them,Some of them
+89,500-1000,No,Some of them,Some of them
+90,500-1000,No,Some of them,Yes
+91,26-100,No,Yes,Yes
+92,26-100,Maybe,Some of them,No
+93,26-100,No,Yes,Yes
+94,26-100,Maybe,Some of them,Yes
+95,26-100,No,Yes,Yes
+96,26-100,Maybe,Some of them,No
+97,25-Jun,No,Some of them,Yes
+98,25-Jun,Maybe,Some of them,No
+99,5-Jan,No,Yes,Yes
+100,26-100,Yes,No,No
+101,100-500,Maybe,No,Some of them
+102,26-100,No,Some of them,Yes
+103,26-100,No,Some of them,Yes
+104,More than 1000,No,Some of them,Yes
+105,25-Jun,No,Some of them,Yes
+106,26-100,No,Some of them,Yes
+107,25-Jun,Maybe,Yes,Yes
+108,25-Jun,Maybe,No,No
+109,26-100,Maybe,Some of them,Yes
+110,500-1000,Yes,No,No
+111,26-100,No,Some of them,Some of them
+112,25-Jun,No,Yes,Yes
+113,100-500,Maybe,Some of them,Some of them
+114,More than 1000,Maybe,Some of them,No
+115,25-Jun,No,Some of them,Some of them
+116,5-Jan,Yes,Some of them,Yes
+117,25-Jun,Maybe,Some of them,Yes
+118,5-Jan,No,Some of them,No
+119,26-100,No,Some of them,Yes
+120,More than 1000,Yes,No,No
+121,26-100,No,Some of them,Yes
+122,25-Jun,No,Yes,Yes
+123,25-Jun,Maybe,No,No
+124,100-500,Maybe,Some of them,Yes
+125,500-1000,Yes,Some of them,No
+126,25-Jun,No,Some of them,Some of them
+127,100-500,Yes,No,Yes
+128,25-Jun,Maybe,No,No
+129,25-Jun,Yes,Some of them,No
+130,More than 1000,Maybe,Yes,Some of them
+131,5-Jan,Maybe,Yes,Some of them
+132,26-100,No,Yes,Yes
+133,26-100,No,Yes,Yes
+134,26-100,No,Some of them,Yes
+135,26-100,Yes,No,No
+136,25-Jun,No,Some of them,Yes
+137,More than 1000,No,Yes,Yes
+138,25-Jun,Maybe,Some of them,No
+139,25-Jun,No,Some of them,Some of them
+140,100-500,Maybe,Some of them,Yes
+141,More than 1000,Yes,Some of them,No
+142,26-100,Yes,Some of them,No
+143,More than 1000,No,Some of them,Yes
+144,More than 1000,Maybe,Some of them,Some of them
+145,100-500,Maybe,Some of them,Yes
+146,25-Jun,Maybe,No,Some of them
+147,25-Jun,Yes,No,No
+148,100-500,Yes,Some of them,No
+149,100-500,Maybe,No,Some of them
+150,5-Jan,Maybe,Some of them,Some of them
+151,26-100,No,Some of them,Some of them
+152,25-Jun,No,Yes,Yes
+153,25-Jun,No,Some of them,Some of them
+154,More than 1000,Yes,Some of them,No
+155,26-100,Maybe,Some of them,Some of them
+156,More than 1000,No,No,Some of them
+157,26-100,Yes,Some of them,Yes
+158,26-100,Maybe,Some of them,Yes
+159,26-100,Maybe,Some of them,No
+160,More than 1000,Maybe,Some of them,Some of them
+161,500-1000,Yes,Some of them,Some of them
+162,More than 1000,No,Some of them,Some of them
+163,25-Jun,Maybe,Some of them,Yes
+164,5-Jan,No,Some of them,Yes
+165,5-Jan,No,Yes,Yes
+166,26-100,Maybe,Some of them,Some of them
+167,25-Jun,Maybe,Yes,Yes
+168,5-Jan,Yes,No,No
+169,100-500,Maybe,Some of them,Some of them
+170,More than 1000,No,Yes,Yes
+171,25-Jun,Maybe,Some of them,Yes
+172,More than 1000,Yes,No,No
+173,25-Jun,Maybe,Some of them,Yes
+174,More than 1000,No,Some of them,Yes
+175,26-100,Maybe,No,Some of them
+176,100-500,No,Some of them,Some of them
+177,25-Jun,No,Yes,Yes
+178,5-Jan,No,Yes,Yes
+179,25-Jun,No,Yes,Yes
+180,25-Jun,Maybe,No,Yes
+181,25-Jun,Maybe,Some of them,Some of them
+182,26-100,No,Yes,Yes
+183,More than 1000,Yes,Some of them,Some of them
+184,More than 1000,Yes,No,No
+185,500-1000,Yes,Some of them,No
+186,25-Jun,Maybe,Some of them,Yes
+187,25-Jun,No,Some of them,No
+188,5-Jan,No,Some of them,Yes
+189,More than 1000,Maybe,No,No
+190,5-Jan,Maybe,Some of them,Some of them
+191,26-100,Maybe,Some of them,No
+192,26-100,Yes,No,No
+193,25-Jun,No,Some of them,Yes
+194,100-500,Yes,Some of them,No
+195,25-Jun,Maybe,Some of them,Some of them
+196,500-1000,Maybe,Some of them,No
+197,More than 1000,No,Some of them,Yes
+198,25-Jun,Maybe,Some of them,Some of them
+199,More than 1000,Maybe,Some of them,No
+200,26-100,No,Some of them,Some of them
+201,500-1000,Maybe,Some of them,Yes
+202,25-Jun,Maybe,Some of them,Some of them
+203,5-Jan,Yes,No,No
+204,100-500,No,Yes,Yes
+205,100-500,Yes,No,No
+206,25-Jun,No,Some of them,Some of them
+207,26-100,Maybe,Yes,Yes
+208,26-100,No,Some of them,Yes
+209,100-500,Yes,No,No
+210,26-100,No,Some of them,Yes
+211,26-100,Yes,Some of them,Yes
+212,5-Jan,Yes,No,No
+213,25-Jun,Yes,Some of them,Some of them
+214,100-500,No,Yes,Yes
+215,5-Jan,No,Some of them,No
+216,25-Jun,No,Some of them,Yes
+217,25-Jun,No,Some of them,Some of them
+218,500-1000,Maybe,Some of them,No
+219,26-100,Yes,No,Some of them
+220,25-Jun,No,Yes,Yes
+221,26-100,No,Yes,Yes
+222,25-Jun,No,Some of them,Some of them
+223,More than 1000,Yes,No,Some of them
+224,26-100,No,No,Yes
+225,5-Jan,No,Yes,Yes
+226,5-Jan,No,Some of them,Yes
+227,5-Jan,Yes,No,No
+228,25-Jun,Maybe,Some of them,No
+229,5-Jan,Maybe,Some of them,Some of them
+230,26-100,Maybe,Some of them,Some of them
+231,500-1000,Maybe,Some of them,No
+232,More than 1000,Yes,No,No
+233,26-100,Maybe,Some of them,Yes
+234,26-100,No,Some of them,Some of them
+235,26-100,Yes,No,No
+236,26-100,Maybe,Some of them,Some of them
+237,25-Jun,No,Some of them,Yes
+238,More than 1000,No,Some of them,Some of them
+239,25-Jun,No,Some of them,Yes
+240,25-Jun,No,Some of them,Yes
+241,5-Jan,Maybe,Some of them,Some of them
+242,26-100,No,Some of them,Yes
+243,25-Jun,Maybe,Some of them,Yes
+244,More than 1000,No,Some of them,Yes
+245,More than 1000,Yes,No,No
+246,25-Jun,Maybe,No,No
+247,25-Jun,No,Yes,Yes
+248,5-Jan,Maybe,Yes,Yes
+249,500-1000,Maybe,Some of them,No
+250,26-100,Maybe,Some of them,Some of them
+251,100-500,No,Some of them,Yes
+252,100-500,No,Some of them,Yes
+253,100-500,Maybe,Yes,Yes
+254,25-Jun,No,Yes,Yes
+255,25-Jun,Yes,No,No
+256,25-Jun,Maybe,Some of them,Some of them
+257,25-Jun,No,Some of them,Yes
+258,5-Jan,Yes,Some of them,Some of them
+259,25-Jun,Yes,No,No
+260,25-Jun,Maybe,Yes,No
+261,25-Jun,Yes,Some of them,Some of them
+262,100-500,No,Yes,Yes
+263,25-Jun,Maybe,Some of them,Some of them
+264,25-Jun,Maybe,Yes,Yes
+265,25-Jun,No,Some of them,Yes
+266,26-100,No,Yes,Yes
+267,5-Jan,Maybe,Yes,Some of them
+268,26-100,Maybe,Some of them,Some of them
+269,25-Jun,No,Yes,Yes
+270,5-Jan,No,Some of them,Some of them
+271,100-500,No,Some of them,Yes
+272,More than 1000,No,Some of them,Yes
+273,26-100,Maybe,Yes,Some of them
+274,26-100,Yes,No,No
+275,100-500,No,Some of them,Yes
+276,26-100,Maybe,Some of them,No
+277,25-Jun,Maybe,No,Some of them
+278,100-500,Maybe,Some of them,Some of them
+279,100-500,Maybe,Some of them,No
+280,25-Jun,Maybe,Some of them,Yes
+281,25-Jun,Yes,No,No
+282,25-Jun,Yes,No,No
+283,26-100,Yes,No,Some of them
+284,100-500,No,Some of them,Some of them
+285,25-Jun,Maybe,Yes,Yes
+286,More than 1000,Maybe,Some of them,Some of them
+287,26-100,No,Some of them,Some of them
+288,5-Jan,No,Some of them,No
+289,More than 1000,Maybe,Some of them,No
+290,5-Jan,No,Yes,Yes
+291,More than 1000,Yes,Some of them,Some of them
+292,More than 1000,Maybe,Some of them,Some of them
+293,More than 1000,Maybe,Some of them,Some of them
+294,More than 1000,No,Yes,Some of them
+295,500-1000,Maybe,Some of them,No
+296,26-100,No,Yes,Yes
+297,More than 1000,No,Some of them,Yes
+298,More than 1000,Yes,No,No
+299,More than 1000,No,Some of them,Yes
+300,More than 1000,No,Some of them,Some of them
+301,More than 1000,No,Yes,Yes
+302,100-500,No,Some of them,Yes
+303,100-500,Yes,Some of them,Yes
+304,More than 1000,No,Some of them,Yes
+305,25-Jun,Maybe,Some of them,Some of them
+306,26-100,Maybe,Some of them,Yes
+307,26-100,No,Some of them,Some of them
+308,26-100,No,Some of them,Yes
+309,100-500,Maybe,Some of them,Yes
+310,25-Jun,Yes,No,No
+311,100-500,No,Some of them,Yes
+312,5-Jan,Maybe,Some of them,Yes
+313,More than 1000,Yes,No,No
+314,More than 1000,No,Yes,Yes
+315,25-Jun,Maybe,Some of them,Some of them
+316,100-500,Maybe,No,No
+317,More than 1000,No,Some of them,Yes
+318,More than 1000,Maybe,No,Some of them
+319,26-100,Maybe,Some of them,Some of them
+320,100-500,No,Some of them,Yes
+321,More than 1000,Yes,Some of them,Some of them
+322,500-1000,No,Some of them,Yes
+323,More than 1000,Maybe,Some of them,No
+324,25-Jun,Maybe,No,No
+325,More than 1000,Maybe,No,No
+326,More than 1000,Maybe,No,Some of them
+327,More than 1000,No,Yes,Yes
+328,5-Jan,Maybe,Some of them,Some of them
+329,5-Jan,Yes,No,No
+330,26-100,No,Some of them,Some of them
+331,More than 1000,Yes,Some of them,No
+332,100-500,Maybe,No,No
+333,5-Jan,No,No,No
+334,25-Jun,Maybe,Some of them,Some of them
+335,26-100,No,Some of them,Some of them
+336,26-100,Yes,No,No
+337,More than 1000,Maybe,Some of them,Some of them
+338,More than 1000,Yes,No,No
+339,26-100,No,Some of them,Yes
+340,26-100,No,Yes,Yes
+341,26-100,Yes,Some of them,Some of them
+342,More than 1000,Yes,No,No
+343,More than 1000,Maybe,Some of them,Some of them
+344,5-Jan,Yes,No,No
+345,26-100,No,Some of them,Yes
+346,100-500,No,Yes,Yes
+347,More than 1000,No,No,Yes
+348,More than 1000,Maybe,Some of them,No
+349,More than 1000,Maybe,Some of them,Some of them
+350,25-Jun,Maybe,Yes,Yes
+351,More than 1000,No,No,No
+352,25-Jun,No,Some of them,Yes
+353,More than 1000,Maybe,Some of them,No
+354,25-Jun,No,Some of them,Yes
+355,500-1000,No,Some of them,No
+356,26-100,Maybe,Some of them,Some of them
+357,More than 1000,Maybe,No,No
+358,100-500,Yes,Some of them,Some of them
+359,5-Jan,No,Yes,Yes
+360,25-Jun,Maybe,Some of them,Some of them
+361,26-100,No,Yes,Yes
+362,100-500,Maybe,Some of them,Yes
+363,More than 1000,No,Some of them,Yes
+364,25-Jun,Maybe,Some of them,No
+365,More than 1000,Maybe,No,No
+366,More than 1000,No,Some of them,Yes
+367,100-500,No,Some of them,Some of them
+368,100-500,No,Yes,Yes
+369,25-Jun,Yes,Some of them,No
+370,More than 1000,No,No,Some of them
+371,More than 1000,Maybe,Yes,Some of them
+372,More than 1000,No,Yes,Yes
+373,26-100,Maybe,Some of them,Yes
+374,26-100,Yes,Some of them,No
+375,26-100,Maybe,No,Some of them
+376,More than 1000,Yes,No,No
+377,26-100,Maybe,Some of them,Yes
+378,More than 1000,Maybe,Some of them,Some of them
+379,More than 1000,Maybe,No,No
+380,500-1000,No,Some of them,Some of them
+381,More than 1000,No,Some of them,Yes
+382,26-100,No,Yes,Yes
+383,26-100,No,Yes,Yes
+384,25-Jun,Yes,Some of them,No
+385,More than 1000,Maybe,No,Yes
+386,500-1000,No,Some of them,Yes
+387,5-Jan,Yes,Some of them,No
+388,25-Jun,Yes,Some of them,No
+389,More than 1000,Maybe,Some of them,No
+390,5-Jan,Yes,No,No
+391,More than 1000,Maybe,No,No
+392,More than 1000,Yes,Some of them,No
+393,26-100,No,Yes,Yes
+394,500-1000,Yes,No,No
+395,More than 1000,Maybe,Some of them,Some of them
+396,26-100,Maybe,No,No
+397,25-Jun,Maybe,Some of them,Yes
+398,100-500,Maybe,No,Some of them
+399,100-500,Maybe,Some of them,Some of them
+400,25-Jun,Maybe,Some of them,Yes
+401,26-100,Maybe,Some of them,No
+402,More than 1000,No,Some of them,Yes
+403,100-500,Maybe,Some of them,Some of them
+404,26-100,Maybe,Some of them,Some of them
+405,25-Jun,No,Some of them,Yes
+406,26-100,Yes,Yes,Some of them
+407,More than 1000,Yes,Some of them,No
+408,25-Jun,No,Yes,Yes
+409,500-1000,Yes,No,No
+410,More than 1000,Yes,No,No
+411,More than 1000,Yes,No,No
+412,More than 1000,No,Some of them,Some of them
+413,More than 1000,Yes,No,No
+414,100-500,No,Some of them,Some of them
+415,25-Jun,Maybe,Some of them,Yes
+416,100-500,No,Yes,Yes
+417,25-Jun,No,Some of them,Yes
+418,25-Jun,No,Yes,Yes
+419,5-Jan,Yes,No,No
+420,5-Jan,No,Yes,Yes
+421,26-100,No,Some of them,No
+422,25-Jun,No,Yes,Yes
+423,25-Jun,No,Some of them,Yes
+424,More than 1000,Maybe,No,No
+425,25-Jun,No,Some of them,Some of them
+426,100-500,Yes,Some of them,Some of them
+427,More than 1000,Maybe,Some of them,No
+428,More than 1000,No,Yes,No
+429,More than 1000,No,Some of them,Some of them
+430,100-500,Maybe,Some of them,Yes
+431,25-Jun,Yes,No,Some of them
+432,5-Jan,Yes,Some of them,Some of them
+433,26-100,Maybe,Yes,Yes
+434,26-100,Maybe,Some of them,Some of them
+435,25-Jun,No,Some of them,Yes
+436,More than 1000,No,Some of them,Yes
+437,100-500,No,Some of them,Yes
+438,26-100,Maybe,Some of them,No
+439,5-Jan,No,Yes,Yes
+440,25-Jun,Maybe,No,No
+441,More than 1000,Maybe,No,No
+442,More than 1000,Maybe,Some of them,Yes
+443,100-500,No,Some of them,Yes
+444,25-Jun,No,Yes,Yes
+445,More than 1000,Yes,Some of them,Some of them
+446,More than 1000,Maybe,Some of them,Some of them
+447,100-500,Yes,Some of them,Some of them
+448,26-100,No,Some of them,Yes
+449,More than 1000,Maybe,Some of them,Some of them
+450,25-Jun,No,Yes,Yes
+451,More than 1000,Yes,No,Some of them
+452,More than 1000,Yes,Some of them,No
+453,25-Jun,Yes,Some of them,No
+454,100-500,Yes,No,No
+455,More than 1000,No,Yes,Yes
+456,25-Jun,Maybe,Some of them,Some of them
+457,100-500,Yes,No,No
+458,25-Jun,Maybe,Some of them,No
+459,500-1000,Maybe,Some of them,Some of them
+460,26-100,No,Some of them,Yes
+461,500-1000,Maybe,Some of them,Yes
+462,25-Jun,Yes,Some of them,No
+463,26-100,Maybe,Some of them,No
+464,25-Jun,Yes,Some of them,Yes
+465,26-100,Maybe,Some of them,Yes
+466,More than 1000,Maybe,Some of them,Yes
+467,More than 1000,Yes,No,Some of them
+468,25-Jun,Maybe,Yes,Yes
+469,100-500,Yes,Some of them,No
+470,100-500,No,Some of them,Yes
+471,More than 1000,Maybe,Some of them,Yes
+472,25-Jun,Yes,No,No
+473,More than 1000,Yes,Some of them,Some of them
+474,25-Jun,Maybe,Some of them,Yes
+475,More than 1000,Maybe,No,No
+476,25-Jun,Yes,Some of them,No
+477,26-100,No,Yes,Yes
+478,500-1000,Yes,No,No
+479,100-500,Maybe,Some of them,Yes
+480,26-100,No,Yes,Yes
+481,More than 1000,Yes,No,No
+482,5-Jan,Maybe,Some of them,Some of them
+483,25-Jun,Maybe,Some of them,No
+484,25-Jun,Maybe,No,No
+485,26-100,Maybe,Some of them,Some of them
+486,26-100,Yes,Some of them,No
+487,5-Jan,No,Yes,Yes
+488,25-Jun,Maybe,Some of them,Yes
+489,25-Jun,Maybe,Some of them,Some of them
+490,More than 1000,No,No,Some of them
+491,100-500,No,Some of them,Some of them
+492,26-100,Yes,Some of them,No
+493,5-Jan,No,Some of them,Some of them
+494,26-100,Maybe,Some of them,No
+495,More than 1000,Maybe,Some of them,Some of them
+496,More than 1000,Yes,Some of them,No
+497,5-Jan,Yes,Some of them,No
+498,More than 1000,No,Yes,Yes
+499,25-Jun,No,Some of them,Some of them
+500,26-100,Maybe,No,No
+501,More than 1000,Yes,Some of them,No
+502,26-100,No,No,Some of them
+503,More than 1000,No,Yes,Yes
+504,100-500,Yes,No,No
+505,More than 1000,Maybe,Some of them,No
+506,100-500,Maybe,Yes,Yes
+507,25-Jun,No,Yes,Yes
+508,More than 1000,No,Some of them,Yes
+509,More than 1000,No,Some of them,Yes
+510,500-1000,No,Some of them,Some of them
+511,25-Jun,Maybe,Some of them,No
+512,More than 1000,Maybe,No,No
+513,26-100,No,Yes,Yes
+514,More than 1000,Yes,No,No
+515,25-Jun,Maybe,Some of them,No
+516,500-1000,No,Some of them,Yes
+517,More than 1000,Maybe,Yes,Yes
+518,25-Jun,Yes,Some of them,Some of them
+519,26-100,Maybe,Yes,Yes
+520,More than 1000,Maybe,Some of them,Yes
+521,More than 1000,Maybe,Some of them,Some of them
+522,More than 1000,Maybe,No,No
+523,26-100,Maybe,No,No
+524,5-Jan,Maybe,Some of them,Yes
+525,500-1000,Maybe,Some of them,Some of them
+526,5-Jan,No,Some of them,Some of them
+527,26-100,Yes,No,No
+528,25-Jun,No,No,Some of them
+529,100-500,Maybe,Some of them,Yes
+530,25-Jun,No,Some of them,Yes
+531,100-500,No,Yes,Yes
+532,5-Jan,Yes,No,No
+533,25-Jun,No,Some of them,Yes
+534,26-100,Yes,No,No
+535,25-Jun,Yes,Some of them,Some of them
+536,26-100,Yes,Some of them,Yes
+537,More than 1000,Maybe,No,No
+538,25-Jun,Maybe,Some of them,Some of them
+539,500-1000,No,Some of them,Some of them
+540,100-500,Maybe,No,No
+541,100-500,No,Yes,Yes
+542,25-Jun,No,Yes,Yes
+543,100-500,Yes,Some of them,Some of them
+544,100-500,Yes,Some of them,Some of them
+545,25-Jun,Maybe,No,Some of them
+546,26-100,No,Yes,Yes
+547,More than 1000,Yes,Some of them,Yes
+548,More than 1000,No,Some of them,Yes
+549,26-100,Maybe,Some of them,Some of them
+550,500-1000,Maybe,Some of them,Some of them
+551,25-Jun,No,Some of them,Yes
+552,5-Jan,Maybe,Some of them,Some of them
+553,26-100,Maybe,Some of them,Some of them
+554,100-500,Maybe,Some of them,Some of them
+555,More than 1000,Maybe,Some of them,Some of them
+556,More than 1000,No,Some of them,Yes
+557,26-100,Yes,Some of them,No
+558,25-Jun,No,Some of them,Yes
+559,More than 1000,Maybe,Some of them,Some of them
+560,25-Jun,Maybe,Some of them,No
+561,100-500,No,Some of them,No
+562,More than 1000,No,Some of them,Yes
+563,26-100,No,Some of them,Some of them
+564,26-100,No,Some of them,Some of them
+565,More than 1000,Maybe,Some of them,No
+566,500-1000,Yes,Yes,Yes
+567,More than 1000,No,Yes,Some of them
+568,More than 1000,Maybe,No,Some of them
+569,100-500,Maybe,Some of them,No
+570,5-Jan,Maybe,Some of them,Yes
+571,More than 1000,Maybe,Yes,Yes
+572,500-1000,No,Some of them,Yes
+573,26-100,No,Yes,Yes
+574,26-100,No,No,No
+575,26-100,No,Yes,Yes
+576,26-100,No,Yes,Yes
+577,25-Jun,No,Some of them,Yes
+578,26-100,Yes,Some of them,No
+579,26-100,Maybe,Some of them,Some of them
+580,More than 1000,Maybe,Some of them,Some of them
+581,100-500,No,Some of them,Yes
+582,More than 1000,Maybe,Some of them,No
+583,25-Jun,No,Some of them,Yes
+584,5-Jan,Yes,Some of them,Yes
+585,26-100,Maybe,Yes,Yes
+586,100-500,Maybe,Some of them,No
+587,26-100,Maybe,Some of them,Some of them
+588,25-Jun,Maybe,Yes,Yes
+589,25-Jun,No,Yes,Yes
+590,26-100,Maybe,Some of them,Some of them
+591,26-100,Yes,Some of them,Some of them
+592,5-Jan,Maybe,Some of them,No
+593,More than 1000,Maybe,Some of them,Some of them
+594,100-500,No,Some of them,Yes
+595,100-500,No,Some of them,Some of them
+596,100-500,Yes,No,No
+597,26-100,Yes,No,No
+598,500-1000,No,Yes,Yes
+599,100-500,Yes,Some of them,No
+600,100-500,No,Some of them,Yes
+601,25-Jun,No,Yes,Yes
+602,100-500,Yes,No,No
+603,5-Jan,No,Yes,Yes
+604,More than 1000,Maybe,No,No
+605,100-500,Maybe,Some of them,Some of them
+606,5-Jan,Yes,Some of them,Some of them
+607,26-100,Maybe,Some of them,No
+608,26-100,No,Yes,Yes
+609,5-Jan,Yes,No,No
+610,25-Jun,No,Some of them,Yes
+611,25-Jun,No,Some of them,Yes
+612,More than 1000,Maybe,Some of them,No
+613,26-100,Maybe,Some of them,No
+614,More than 1000,Yes,Some of them,No
+615,25-Jun,No,Yes,Yes
+616,26-100,No,Some of them,Some of them
+617,100-500,Yes,Some of them,No
+618,26-100,Maybe,Some of them,Some of them
+619,100-500,No,Some of them,Yes
+620,100-500,No,Some of them,Some of them
+621,5-Jan,No,Some of them,Yes
+622,26-100,Maybe,Some of them,Some of them
+623,More than 1000,Yes,No,No
+624,100-500,No,Some of them,Some of them
+625,500-1000,Maybe,No,Some of them
+626,100-500,Yes,Some of them,Some of them
+627,25-Jun,No,Some of them,Some of them
+628,26-100,Yes,Some of them,No
+629,26-100,Yes,Some of them,Some of them
+630,100-500,Maybe,No,Some of them
+631,25-Jun,Yes,Some of them,Some of them
+632,25-Jun,No,Yes,Yes
+633,100-500,Maybe,Some of them,Yes
+634,100-500,No,Some of them,Yes
+635,26-100,No,Some of them,Some of them
+636,25-Jun,No,Some of them,Yes
+637,26-100,No,Some of them,Yes
+638,5-Jan,No,Some of them,Yes
+639,5-Jan,Yes,No,No
+640,26-100,No,Some of them,Yes
+641,26-100,Maybe,Some of them,Some of them
+642,More than 1000,Yes,Some of them,Some of them
+643,26-100,Yes,No,No
+644,100-500,Maybe,Some of them,No
+645,25-Jun,Yes,No,No
+646,26-100,Maybe,Some of them,Some of them
+647,26-100,No,Some of them,Some of them
+648,100-500,No,Yes,Yes
+649,25-Jun,No,No,Some of them
+650,More than 1000,No,Some of them,Some of them
+651,100-500,Maybe,No,No
+652,5-Jan,No,Some of them,Yes
+653,500-1000,Yes,No,No
+654,500-1000,Maybe,No,No
+655,25-Jun,Maybe,Yes,Yes
+656,5-Jan,No,Some of them,No
+657,5-Jan,No,Some of them,Yes
+658,More than 1000,Maybe,Some of them,Yes
+659,25-Jun,No,Some of them,Yes
+660,More than 1000,No,Some of them,Some of them
+661,5-Jan,No,Some of them,Yes
+662,More than 1000,Maybe,Some of them,Some of them
+663,5-Jan,Maybe,Some of them,Yes
+664,More than 1000,No,Some of them,Some of them
+665,26-100,Maybe,Some of them,No
+666,5-Jan,Maybe,Some of them,Some of them
+667,More than 1000,No,No,No
+668,26-100,Maybe,No,No
+669,100-500,No,Some of them,Yes
+670,26-100,No,Some of them,No
+671,25-Jun,Maybe,No,No
+672,100-500,No,Some of them,Some of them
+673,100-500,Maybe,Some of them,No
+674,26-100,Maybe,Some of them,Some of them
+675,26-100,No,Some of them,Yes
+676,26-100,Maybe,Some of them,Yes
+677,25-Jun,Yes,No,No
+678,5-Jan,No,Yes,Yes
+679,5-Jan,No,Yes,Yes
+680,26-100,Maybe,Some of them,Some of them
+681,More than 1000,No,Some of them,Yes
+682,26-100,Maybe,No,No
+683,More than 1000,No,No,Yes
+684,25-Jun,Yes,Some of them,No
+685,More than 1000,Yes,No,No
+686,More than 1000,No,Some of them,Yes
+687,100-500,Maybe,Some of them,Yes
+688,26-100,Maybe,Some of them,No
+689,25-Jun,No,Yes,Yes
+690,25-Jun,Maybe,Some of them,Some of them
+691,5-Jan,No,Yes,Yes
+692,26-100,No,Some of them,No
+693,More than 1000,No,Some of them,Yes
+694,25-Jun,Yes,No,No
+695,26-100,No,No,Yes
+696,100-500,Maybe,Some of them,Some of them
+697,More than 1000,Yes,No,No
+698,500-1000,Maybe,Some of them,No
+699,25-Jun,Maybe,Some of them,No
+700,100-500,Maybe,Some of them,Yes
+701,5-Jan,No,Yes,Yes
+702,100-500,Maybe,Yes,Yes
+703,26-100,No,Some of them,Yes
+704,26-100,Yes,No,No
+705,100-500,Maybe,Yes,Yes
+706,26-100,Yes,Some of them,No
+707,5-Jan,No,Yes,Yes
+708,26-100,Yes,Some of them,No
+709,26-100,No,Yes,Yes
+710,25-Jun,Maybe,Some of them,Yes
+711,25-Jun,No,Yes,Yes
+712,100-500,No,Some of them,Yes
+713,25-Jun,Maybe,Some of them,Some of them
+714,5-Jan,Yes,Some of them,No
+715,26-100,Yes,No,No
+716,500-1000,Maybe,Some of them,Yes
+717,25-Jun,No,Yes,Yes
+718,25-Jun,No,Some of them,Yes
+719,26-100,No,Yes,Yes
+720,25-Jun,Maybe,Some of them,Some of them
+721,More than 1000,Yes,Some of them,No
+722,5-Jan,Maybe,Yes,Yes
+723,25-Jun,Yes,Some of them,Yes
+724,5-Jan,No,Some of them,Yes
+725,100-500,No,Some of them,Some of them
+726,25-Jun,Maybe,Some of them,Some of them
+727,26-100,Yes,No,No
+728,More than 1000,No,Yes,Yes
+729,5-Jan,Yes,Yes,No
+730,25-Jun,Yes,Yes,Yes
+731,26-100,Maybe,Yes,Some of them
+732,25-Jun,No,Yes,Yes
+733,26-100,No,Yes,Yes
+734,100-500,No,Yes,Yes
+735,100-500,No,Yes,Some of them
+736,More than 1000,No,Some of them,Yes
+737,26-100,Maybe,Some of them,No
+738,25-Jun,Maybe,Yes,Some of them
+739,More than 1000,Yes,No,No
+740,26-100,No,Some of them,Yes
+741,25-Jun,Yes,No,No
+742,100-500,No,No,Some of them
+743,26-100,Maybe,Some of them,Yes
+744,100-500,Maybe,Some of them,Some of them
+745,26-100,No,Some of them,Some of them
+746,25-Jun,No,Some of them,Yes
+747,25-Jun,Maybe,Some of them,No
+748,25-Jun,No,Some of them,Yes
+749,26-100,No,Some of them,Yes
+750,26-100,No,Some of them,Yes
+751,More than 1000,No,Some of them,No
+752,100-500,Maybe,Some of them,Some of them
+753,25-Jun,No,Some of them,Yes
+754,More than 1000,No,Some of them,Yes
+755,26-100,Maybe,Some of them,Yes
+756,26-100,Maybe,No,No
+757,More than 1000,Yes,No,No
+758,26-100,Maybe,No,Some of them
+759,More than 1000,Yes,Some of them,Some of them
+760,5-Jan,No,No,No
+761,26-100,Maybe,Yes,Some of them
+762,5-Jan,No,Yes,Yes
+763,5-Jan,Yes,No,No
+764,100-500,Yes,Some of them,No
+765,25-Jun,No,Some of them,Yes
+766,5-Jan,Maybe,Some of them,No
+767,26-100,No,Some of them,No
+768,25-Jun,Maybe,Some of them,Some of them
+769,26-100,No,Some of them,Yes
+770,500-1000,Maybe,Some of them,Some of them
+771,5-Jan,Maybe,Yes,Yes
+772,More than 1000,Maybe,Some of them,Some of them
+773,More than 1000,No,Some of them,Some of them
+774,25-Jun,Yes,Some of them,Yes
+775,100-500,Yes,Some of them,Yes
+776,25-Jun,Maybe,No,No
+777,More than 1000,No,Yes,Some of them
+778,More than 1000,Maybe,Some of them,Yes
+779,25-Jun,No,Yes,Yes
+780,26-100,No,Yes,Yes
+781,25-Jun,No,Yes,Yes
+782,More than 1000,No,Some of them,Yes
+783,5-Jan,No,Yes,Yes
+784,25-Jun,No,Some of them,Yes
+785,More than 1000,Maybe,Some of them,Some of them
+786,5-Jan,No,No,Yes
+787,26-100,Maybe,Some of them,Some of them
+788,100-500,Maybe,Yes,Yes
+789,More than 1000,No,Some of them,Some of them
+790,100-500,No,Some of them,Yes
+791,More than 1000,Maybe,Some of them,Some of them
+792,25-Jun,Yes,Some of them,Some of them
+793,100-500,Yes,No,Some of them
+794,More than 1000,Yes,Some of them,Some of them
+795,26-100,Maybe,Some of them,Yes
+796,100-500,Yes,Some of them,Yes
+797,26-100,Maybe,Some of them,Yes
+798,26-100,Maybe,Some of them,Yes
+799,100-500,Maybe,Some of them,No
+800,100-500,Yes,Yes,Yes
+801,25-Jun,No,Some of them,Yes
+802,26-100,Yes,No,No
+803,More than 1000,No,Some of them,No
+804,26-100,Maybe,Some of them,Some of them
+805,26-100,Yes,Some of them,Some of them
+806,100-500,Maybe,Some of them,Yes
+807,25-Jun,No,No,Some of them
+808,26-100,No,Yes,Yes
+809,More than 1000,Maybe,Some of them,Some of them
+810,25-Jun,Maybe,Some of them,No
+811,100-500,No,Some of them,Some of them
+812,5-Jan,Yes,Some of them,Some of them
+813,25-Jun,Maybe,Some of them,Some of them
+814,5-Jan,Maybe,Some of them,No
+815,26-100,Yes,No,No
+816,500-1000,Maybe,Some of them,Yes
+817,5-Jan,Yes,Some of them,No
+818,25-Jun,No,Some of them,Some of them
+819,5-Jan,No,Some of them,Some of them
+820,100-500,Yes,Some of them,No
+821,5-Jan,No,Some of them,Some of them
+822,More than 1000,Yes,No,No
+823,More than 1000,No,Some of them,Yes
+824,More than 1000,No,Some of them,Yes
+825,26-100,Yes,No,Some of them
+826,26-100,No,Some of them,Yes
+827,5-Jan,Yes,Some of them,No
+828,25-Jun,Maybe,Some of them,No
+829,5-Jan,No,Some of them,Yes
+830,More than 1000,Maybe,Some of them,No
+831,100-500,Maybe,Some of them,Some of them
+832,25-Jun,No,Some of them,Yes
+833,100-500,No,Yes,Yes
+834,5-Jan,Yes,No,No
+835,500-1000,Maybe,Some of them,Yes
+836,25-Jun,No,Some of them,Yes
+837,100-500,Yes,No,No
+838,More than 1000,Maybe,Some of them,Yes
+839,More than 1000,No,Some of them,Yes
+840,More than 1000,Maybe,Some of them,Yes
+841,25-Jun,No,Yes,Yes
+842,100-500,No,Yes,Yes
+843,More than 1000,Maybe,Some of them,No
+844,26-100,No,Some of them,Some of them
+845,26-100,Yes,Some of them,No
+846,100-500,Maybe,Some of them,No
+847,5-Jan,No,Yes,No
+848,5-Jan,No,Yes,Yes
+849,More than 1000,No,Some of them,Some of them
+850,5-Jan,Maybe,No,No
+851,26-100,Maybe,No,Some of them
+852,25-Jun,Maybe,Some of them,Some of them
+853,25-Jun,Yes,Some of them,Some of them
+854,25-Jun,Maybe,Some of them,Some of them
+855,More than 1000,No,Some of them,Yes
+856,More than 1000,No,Yes,Yes
+857,25-Jun,No,Some of them,Yes
+858,100-500,Maybe,Some of them,Yes
+859,25-Jun,Yes,Some of them,No
+860,25-Jun,Yes,Some of them,No
+861,5-Jan,No,Yes,Yes
+862,100-500,Maybe,Some of them,Some of them
+863,25-Jun,Yes,Some of them,Yes
+864,More than 1000,Yes,No,No
+865,25-Jun,Yes,No,No
+866,25-Jun,Maybe,Some of them,Some of them
+867,5-Jan,Maybe,Some of them,Yes
+868,5-Jan,No,Some of them,Some of them
+869,More than 1000,No,Some of them,Yes
+870,More than 1000,No,Yes,Yes
+871,100-500,Maybe,Some of them,Some of them
+872,26-100,Maybe,Some of them,Some of them
+873,More than 1000,No,Some of them,Yes
+874,500-1000,Maybe,No,No
+875,25-Jun,Yes,No,No
+876,26-100,Maybe,Some of them,Some of them
+877,More than 1000,Maybe,No,Some of them
+878,More than 1000,Yes,No,No
+879,26-100,Maybe,No,No
+880,26-100,Maybe,Some of them,Some of them
+881,26-100,No,Some of them,Yes
+882,500-1000,Maybe,Some of them,Yes
+883,5-Jan,No,Some of them,Yes
+884,26-100,Maybe,Some of them,No
+885,500-1000,Maybe,No,No
+886,25-Jun,No,Some of them,Yes
+887,500-1000,No,Some of them,Yes
+888,100-500,No,Some of them,Yes
+889,More than 1000,Maybe,Some of them,Yes
+890,25-Jun,Maybe,Some of them,No
+891,5-Jan,Yes,Some of them,No
+892,100-500,No,Some of them,Yes
+893,100-500,Yes,Some of them,No
+894,500-1000,Maybe,Some of them,Some of them
+895,100-500,No,Some of them,Yes
+896,More than 1000,No,Some of them,Yes
+897,5-Jan,Maybe,Some of them,Some of them
+898,5-Jan,No,Some of them,Yes
+899,26-100,No,Some of them,Yes
+900,26-100,Yes,No,No
+901,26-100,Yes,Some of them,No
+902,5-Jan,Maybe,Some of them,Some of them
+903,5-Jan,No,No,No
+904,5-Jan,No,Some of them,Some of them
+905,More than 1000,Yes,No,No
+906,More than 1000,Yes,No,No
+907,More than 1000,Yes,No,No
+908,500-1000,Maybe,No,No
+909,More than 1000,Maybe,Yes,Yes
+910,25-Jun,Yes,Some of them,No
+911,25-Jun,Maybe,Some of them,No
+912,25-Jun,No,Yes,Yes
+913,26-100,No,Yes,Yes
+914,25-Jun,No,Some of them,Yes
+915,26-100,Yes,Some of them,No
+916,5-Jan,Maybe,Some of them,Some of them
+917,5-Jan,No,Some of them,Some of them
+918,More than 1000,No,Some of them,Yes
+919,More than 1000,Yes,No,No
+920,25-Jun,No,Some of them,Yes
+921,26-100,Maybe,Some of them,Some of them
+922,26-100,Maybe,Some of them,Some of them
+923,More than 1000,Yes,Some of them,Some of them
+924,500-1000,No,Yes,Yes
+925,More than 1000,Yes,No,No
+926,500-1000,Maybe,No,Some of them
+927,26-100,No,Some of them,Some of them
+928,100-500,No,Yes,Yes
+929,100-500,No,Some of them,Yes
+930,25-Jun,Maybe,Some of them,Yes
+931,5-Jan,No,Some of them,Yes
+932,100-500,Yes,Some of them,No
+933,100-500,Yes,No,Some of them
+934,More than 1000,Maybe,Some of them,Some of them
+935,5-Jan,Maybe,No,No
+936,25-Jun,Yes,No,No
+937,25-Jun,No,Yes,Yes
+938,More than 1000,Maybe,Some of them,Some of them
+939,25-Jun,Maybe,Some of them,Yes
+940,More than 1000,Maybe,Some of them,No
+941,More than 1000,Yes,Some of them,Some of them
+942,500-1000,Maybe,Some of them,Yes
+943,100-500,Yes,Some of them,No
+944,More than 1000,Maybe,Some of them,No
+945,26-100,Yes,Some of them,No
+946,More than 1000,No,Some of them,Some of them
+947,More than 1000,No,Yes,Yes
+948,More than 1000,Maybe,Some of them,Some of them
+949,25-Jun,Maybe,Some of them,Some of them
+950,26-100,No,Yes,Yes
+951,26-100,Yes,Some of them,Yes
+952,5-Jan,Yes,Some of them,Yes
+953,25-Jun,Yes,Some of them,No
+954,25-Jun,Maybe,Some of them,Yes
+955,26-100,No,Some of them,Yes
+956,More than 1000,Yes,No,No
+957,5-Jan,No,Yes,Some of them
+958,More than 1000,No,Some of them,Some of them
+959,More than 1000,No,Some of them,Yes
+960,25-Jun,No,No,Yes
+961,25-Jun,No,Some of them,Yes
+962,26-100,Yes,Yes,No
+963,5-Jan,Maybe,Some of them,Some of them
+964,More than 1000,Yes,No,Some of them
+965,5-Jan,Yes,Some of them,Some of them
+966,5-Jan,Maybe,Some of them,Yes
+967,25-Jun,No,Yes,Yes
+968,100-500,Maybe,Some of them,No
+969,5-Jan,No,Some of them,Yes
+970,More than 1000,Yes,No,No
+971,25-Jun,Yes,No,No
+972,25-Jun,No,Yes,Yes
+973,More than 1000,No,Yes,Yes
+974,25-Jun,No,Some of them,Yes
+975,500-1000,No,Some of them,Some of them
+976,More than 1000,Maybe,Some of them,Some of them
+977,500-1000,Maybe,No,Some of them
+978,25-Jun,Maybe,No,No
+979,26-100,Maybe,Yes,Yes
+980,5-Jan,Maybe,Some of them,Yes
+981,5-Jan,Yes,Some of them,Some of them
+982,26-100,Yes,Some of them,No
+983,100-500,Maybe,Some of them,Some of them
+984,26-100,No,Yes,Yes
+985,25-Jun,No,Yes,Yes
+986,500-1000,Yes,No,No
+987,25-Jun,Yes,No,No
+988,26-100,No,No,No
+989,5-Jan,Yes,Yes,Yes
+990,5-Jan,No,Some of them,Yes
+991,25-Jun,No,Yes,Yes
+992,26-100,No,Some of them,No
+993,5-Jan,Maybe,No,No
+994,26-100,Yes,No,No
+995,5-Jan,No,Some of them,Yes
+996,100-500,Maybe,Some of them,Yes
+997,More than 1000,Yes,No,No
+998,500-1000,Yes,No,No
+999,25-Jun,No,No,No
+1000,25-Jun,No,Yes,Yes
+1001,25-Jun,Maybe,Some of them,Yes
+1002,100-500,No,Yes,Yes
+1003,26-100,Maybe,Some of them,No
+1004,5-Jan,Yes,Some of them,Some of them
+1005,500-1000,Maybe,Yes,Yes
+1006,100-500,No,Yes,Yes
+1007,100-500,Yes,Some of them,No
+1008,25-Jun,No,Some of them,Yes
+1009,100-500,Yes,No,No
+1010,More than 1000,Maybe,No,Yes
+1011,5-Jan,Maybe,No,Some of them
+1012,More than 1000,Yes,Some of them,Some of them
+1013,26-100,No,Some of them,Yes
+1014,More than 1000,Yes,Some of them,Some of them
+1015,100-500,Maybe,Some of them,Yes
+1016,25-Jun,No,Yes,Yes
+1017,More than 1000,Yes,Some of them,Some of them
+1018,26-100,Maybe,Some of them,No
+1019,26-100,Yes,Some of them,Some of them
+1020,26-100,No,Some of them,Some of them
+1021,500-1000,Maybe,Some of them,Some of them
+1022,25-Jun,No,Yes,Yes
+1023,25-Jun,Maybe,No,No
+1024,26-100,Maybe,Some of them,Some of them
+1025,25-Jun,Maybe,Some of them,Some of them
+1026,More than 1000,Maybe,Some of them,Yes
+1027,5-Jan,No,Some of them,Yes
+1028,100-500,Yes,No,No
+1029,More than 1000,Maybe,Some of them,Yes
+1030,25-Jun,No,Some of them,Yes
+1031,25-Jun,No,Yes,Yes
+1032,More than 1000,Yes,Some of them,Some of them
+1033,26-100,Yes,No,No
+1034,100-500,Yes,No,No
+1035,25-Jun,Maybe,No,Some of them
+1036,26-100,No,Yes,Yes
+1037,More than 1000,Yes,Some of them,No
+1038,5-Jan,No,Some of them,Yes
+1039,25-Jun,No,No,No
+1040,26-100,Yes,Some of them,Some of them
+1041,25-Jun,No,Some of them,Yes
+1042,More than 1000,Yes,No,No
+1043,25-Jun,Maybe,Some of them,No
+1044,More than 1000,Maybe,Some of them,No
+1045,100-500,Maybe,Some of them,No
+1046,25-Jun,No,Some of them,Yes
+1047,100-500,No,Some of them,Some of them
+1048,5-Jan,No,Some of them,Some of them
+1049,5-Jan,No,Yes,Yes
+1050,More than 1000,No,Some of them,Yes
+1051,26-100,Yes,No,Some of them
+1052,More than 1000,No,Some of them,Some of them
+1053,5-Jan,No,Some of them,Some of them
+1054,More than 1000,Maybe,Some of them,No
+1055,500-1000,No,Some of them,Yes
+1056,25-Jun,Maybe,Some of them,Yes
+1057,25-Jun,Maybe,Some of them,Yes
+1058,More than 1000,Maybe,Some of them,No
+1059,25-Jun,No,Some of them,Some of them
+1060,More than 1000,No,Some of them,Yes
+1061,100-500,Maybe,Some of them,No
+1062,5-Jan,No,No,No
+1063,25-Jun,Maybe,Some of them,No
+1064,25-Jun,Maybe,Yes,Yes
+1065,25-Jun,No,Some of them,Yes
+1066,25-Jun,Maybe,No,Some of them
+1067,More than 1000,Maybe,No,Yes
+1068,26-100,Maybe,Some of them,Yes
+1069,26-100,Yes,Some of them,No
+1070,25-Jun,Maybe,Some of them,Some of them
+1071,More than 1000,Maybe,No,No
+1072,More than 1000,Maybe,Some of them,No
+1073,More than 1000,No,Some of them,Yes
+1074,100-500,Maybe,Some of them,No
+1075,More than 1000,Yes,No,No
+1076,5-Jan,Maybe,Some of them,Some of them
+1077,More than 1000,Maybe,Yes,Some of them
+1078,26-100,Yes,No,No
+1079,5-Jan,Maybe,Some of them,Yes
+1080,5-Jan,Maybe,Yes,Yes
+1081,5-Jan,No,Yes,Yes
+1082,More than 1000,Yes,No,No
+1083,26-100,No,Some of them,Some of them
+1084,5-Jan,Maybe,Some of them,Some of them
+1085,25-Jun,No,Yes,Yes
+1086,More than 1000,No,Yes,Yes
+1087,More than 1000,Yes,Some of them,No
+1088,26-100,No,Some of them,Yes
+1089,100-500,Maybe,Some of them,Some of them
+1090,5-Jan,No,Some of them,Some of them
+1091,100-500,Maybe,Some of them,Some of them
+1092,100-500,Yes,Yes,Yes
+1093,More than 1000,Yes,No,No
+1094,100-500,No,No,Yes
+1095,5-Jan,No,No,No
+1096,25-Jun,No,Yes,Yes
+1097,More than 1000,Maybe,Some of them,Some of them
+1098,More than 1000,No,Some of them,Yes
+1099,500-1000,No,Yes,Some of them
+1100,25-Jun,Maybe,Some of them,Yes
+1101,100-500,Maybe,Some of them,No
+1102,5-Jan,Yes,No,No
+1103,25-Jun,No,Yes,Some of them
+1104,25-Jun,Yes,Some of them,No
+1105,25-Jun,Maybe,No,Some of them
+1106,26-100,Maybe,Some of them,Yes
+1107,26-100,No,Yes,Yes
+1108,More than 1000,Yes,No,No
+1109,25-Jun,Maybe,Some of them,Some of them
+1110,25-Jun,No,Some of them,Yes
+1111,25-Jun,Maybe,Yes,Some of them
+1112,25-Jun,Maybe,Some of them,No
+1113,5-Jan,No,Yes,Yes
+1114,More than 1000,Maybe,Some of them,Some of them
+1115,26-100,Maybe,No,No
+1116,100-500,Maybe,Yes,Some of them
+1117,25-Jun,Yes,No,Some of them
+1118,More than 1000,Yes,No,Yes
+1119,5-Jan,Yes,No,No
+1120,5-Jan,No,Some of them,Yes
+1121,More than 1000,Maybe,Some of them,Some of them
+1122,100-500,Maybe,Some of them,Some of them
+1123,26-100,No,Some of them,Some of them
+1124,25-Jun,No,No,No
+1125,5-Jan,Maybe,Yes,Yes
+1126,26-100,No,Some of them,Some of them
+1127,5-Jan,Yes,Yes,Yes
+1128,25-Jun,Maybe,Some of them,Yes
+1129,More than 1000,Maybe,No,No
+1130,26-100,Yes,Some of them,Some of them
+1131,26-100,Maybe,No,No
+1132,More than 1000,Maybe,Some of them,No
+1133,26-100,Yes,No,No
+1134,26-100,Yes,No,No
+1135,More than 1000,Maybe,Yes,Yes
+1136,26-100,No,Some of them,Yes
+1137,25-Jun,Maybe,Some of them,Some of them
+1138,25-Jun,Maybe,No,No
+1139,More than 1000,Maybe,Some of them,No
+1140,26-100,No,Yes,Yes
+1141,More than 1000,Maybe,No,No
+1142,More than 1000,Yes,No,No
+1143,More than 1000,Maybe,No,No
+1144,More than 1000,No,Yes,Yes
+1145,26-100,Maybe,No,No
+1146,5-Jan,No,Some of them,Yes
+1147,More than 1000,Maybe,Some of them,Yes
+1148,More than 1000,Yes,No,Some of them
+1149,25-Jun,Maybe,No,Some of them
+1150,More than 1000,Maybe,Some of them,Some of them
+1151,25-Jun,Yes,Some of them,No
+1152,100-500,No,Yes,Yes
+1153,26-100,No,Some of them,Yes
+1154,26-100,Yes,Some of them,Some of them
+1155,25-Jun,No,Yes,Yes
+1156,5-Jan,Yes,Some of them,Some of them
+1157,25-Jun,No,Some of them,Some of them
+1158,25-Jun,No,No,No
+1159,More than 1000,Yes,No,No
+1160,26-100,Yes,Some of them,Some of them
+1161,100-500,Maybe,Some of them,No
+1162,26-100,Yes,No,No
+1163,25-Jun,Maybe,Some of them,Some of them
+1164,100-500,Maybe,Some of them,Some of them
+1165,More than 1000,Maybe,Yes,Yes
+1166,26-100,Maybe,Some of them,No
+1167,More than 1000,Maybe,Some of them,Some of them
+1168,25-Jun,Yes,No,No
+1169,More than 1000,Maybe,Some of them,No
+1170,More than 1000,Maybe,Some of them,Yes
+1171,More than 1000,Yes,No,No
+1172,26-100,No,Yes,Yes
+1173,5-Jan,Maybe,Yes,Yes
+1174,26-100,Yes,Some of them,No
+1175,25-Jun,No,Some of them,Yes
+1176,100-500,Maybe,No,No
+1177,26-100,No,Some of them,Yes
+1178,5-Jan,No,Some of them,Some of them
+1179,26-100,Maybe,Yes,Some of them
+1180,26-100,Maybe,Some of them,No
+1181,More than 1000,Maybe,Some of them,No
+1182,500-1000,Maybe,Some of them,Yes
+1183,5-Jan,Maybe,Some of them,Some of them
+1184,25-Jun,Yes,Some of them,Some of them
+1185,100-500,No,Some of them,Yes
+1186,5-Jan,Maybe,No,No
+1187,26-100,Maybe,Some of them,Some of them
+1188,26-100,Maybe,Some of them,Some of them
+1189,25-Jun,Maybe,Some of them,No
+1190,100-500,Maybe,Some of them,Some of them
+1191,More than 1000,Maybe,No,No
+1192,26-100,No,Some of them,Yes
+1193,26-100,No,Some of them,Yes
+1194,26-100,No,Some of them,Yes
+1195,500-1000,Yes,Some of them,Some of them
+1196,5-Jan,Maybe,Some of them,No
+1197,25-Jun,Yes,Some of them,Yes
+1198,26-100,Yes,Some of them,No
+1199,100-500,Maybe,Some of them,Yes
+1200,100-500,Yes,No,No
+1201,25-Jun,Yes,Some of them,No
+1202,5-Jan,No,Yes,Yes
+1203,100-500,Maybe,Some of them,Yes
+1204,5-Jan,Maybe,Some of them,Yes
+1205,25-Jun,No,Some of them,Yes
+1206,26-100,Maybe,Some of them,Yes
+1207,5-Jan,Maybe,Some of them,Yes
+1208,100-500,No,Some of them,Yes
+1209,26-100,Maybe,No,No
+1210,5-Jan,Maybe,No,No
+1211,More than 1000,Yes,Yes,Some of them
+1212,More than 1000,Maybe,Some of them,Yes
+1213,More than 1000,Yes,Some of them,No
+1214,26-100,Maybe,Some of them,No
+1215,25-Jun,Maybe,Some of them,Some of them
+1216,More than 1000,No,Some of them,Yes
+1217,26-100,Yes,Some of them,Some of them
+1218,25-Jun,Maybe,Some of them,Some of them
+1219,More than 1000,No,Yes,Yes
+1220,26-100,Maybe,Some of them,No
+1221,100-500,No,Some of them,Yes
+1222,5-Jan,No,Yes,Yes
+1223,26-100,Maybe,Some of them,Some of them
+1224,More than 1000,Maybe,Some of them,No
+1225,26-100,No,Yes,Some of them
+1226,More than 1000,Maybe,No,Some of them
+1227,More than 1000,Maybe,Some of them,Some of them
+1228,26-100,Yes,Some of them,Some of them
+1229,25-Jun,Yes,No,No
+1230,25-Jun,No,Yes,Yes
+1231,25-Jun,Maybe,Some of them,Some of them
+1232,More than 1000,No,Yes,Yes
+1233,25-Jun,No,Yes,Yes
+1234,25-Jun,Yes,No,No
+1235,26-100,Maybe,Yes,Some of them
+1236,More than 1000,Maybe,Some of them,No
+1237,26-100,Yes,No,No
+1238,More than 1000,Yes,Some of them,Yes
+1239,500-1000,Maybe,Yes,Yes
+1240,100-500,No,Some of them,No
+1241,25-Jun,Maybe,Some of them,No
+1242,26-100,Maybe,No,No
+1243,More than 1000,No,Some of them,Yes
+1244,More than 1000,Maybe,Some of them,Yes
+1245,100-500,Maybe,No,Yes
+1246,100-500,No,No,Some of them
+1247,25-Jun,Yes,Some of them,No
+1248,26-100,Yes,No,No
+1249,26-100,No,Yes,Yes
+1250,26-100,No,Some of them,Yes
+1251,100-500,No,Some of them,Yes
+1252,100-500,Yes,Some of them,No
+1253,More than 1000,Maybe,Some of them,Some of them
+1254,26-100,No,Some of them,Some of them
+1255,26-100,No,Some of them,Yes
+1256,More than 1000,Yes,No,No
+1257,100-500,Yes,No,No
+1258,26-100,Maybe,Some of them,No
