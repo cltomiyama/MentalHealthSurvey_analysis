@@ -1,1 +1,1 @@
-This directory contains all processed dataset(s).
+This directory contains all processed dataset(s). Processed datasets that are specific to a group member will end in their initials.
