@@ -1,6 +1,6 @@
 ## Gale's research questions:
-- Is there a relationship between providing more mental health resources and quality of employees' mental health in the tech industry?
-- Is there a relationship between employees' mental health and their knowledge of the mental health resources available?
+1. Is there a relationship between providing more mental health resources and quality of employees' mental health in the tech industry?
+2. Is there a relationship between employees' knowledge of the mental health resources available and the quality of mental health?
 
 ## Directory contents
 
