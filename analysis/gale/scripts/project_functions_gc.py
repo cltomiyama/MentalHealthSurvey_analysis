@@ -55,15 +55,15 @@ def score_resources(df):
         return 'Poor'
 
 def score_knowledge(df):
-    x = np.count_nonzero(df[['benefits', 'care_options', 'wellness_program', 'seek_help']] == 1)
-    if x >= 3:
-        return 'Knowledgeable'
-
-    elif (x == 1) or (x <= 2):
+    x = np.count_nonzero(df[['benefits', 'care_options', 'wellness_program', 'seek_help']] == 0)
+    if (x == 3) or (x == 4):
+        return 'Not knowledgeable'
+    
+    elif x == 2:
         return 'Somewhat knowledgeable'
 
     else:
-        return 'Not knowledgable'
+        return 'Knowledgeable'
     
     
 def code_mcq(df,col):
