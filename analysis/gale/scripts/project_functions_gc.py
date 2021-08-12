@@ -59,7 +59,7 @@ def score_knowledge(df):
     if x >= 3:
         return 'Knowledgeable'
 
-    elif x == 2:
+    elif (x == 1) or (x =< 2):
         return 'Somewhat knowledgeable'
 
     else:
