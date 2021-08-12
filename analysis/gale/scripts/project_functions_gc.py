@@ -110,12 +110,20 @@ def grouped_rel_freq_label(g, ax):
         x, y = p.get_xy() 
         ax.annotate(f'{height/100:.1%}', (x + width/2, y + height*1.02), ha='center')
         
-def count_rel_freq_df(df,col):
+def make_count_df(df,col):
     new_df = (df[col].value_counts().to_frame().rename_axis(col).rename(columns={col:'count'}).reset_index())
               
     new_df = new_df.assign(rel_freq = round(((new_df['count'] / new_df['count'].sum()) * 100),1))
 
     return new_df
+
+def grouped_count_df(df,col1,col2):
+    df1 = (df.groupby(col1)[col2]
+              .value_counts()
+              .to_frame()
+              .rename(columns={col2:'count'}))
+
+    return df1
 
 def make_relfreq_col(df):
     df['rel_freq'] = round(((df['count'] / df['count'].sum()) * 100),1)
@@ -127,6 +135,7 @@ def rel_freq_within_grp(df):
     df['withingrp_relfreq'] = df['withingrp_relfreq'].apply(lambda x : round(x,1))
 
     return df
+
 
 class display(object):
     # taken from class notes
