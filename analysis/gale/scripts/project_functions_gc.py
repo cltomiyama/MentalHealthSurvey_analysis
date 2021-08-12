@@ -47,7 +47,7 @@ def load_and_process(url_or_filepath):
 def score_resources(df):
     # reference: https://stackoverflow.com/questions/56739320/pandas-check-if-a-value-exists-in-multiple-columns-for-each-row
     
-    x = np.count_nonzero(df[['benefits', 'care_options', 'wellness_program', 'seek_help']] == 1)
+    x = np.count_nonzero(df[['benefits', 'wellness_program', 'seek_help']] == 1)
     if x >= 2:
         return 'Good'
 

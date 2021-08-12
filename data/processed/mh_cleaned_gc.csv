@@ -1,19 +1,19 @@
 treatment,work_interfere,benefits,care_options,wellness_program,seek_help,condition,resources,knowledge
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
-Yes,Often,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
+Yes,Often,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Rarely,1,0,0,1,Yes,Good,Somewhat knowledgeable
 No,N/A,0,0,2,0,No,Poor,Not knowledgeable
-Yes,Rarely,1,1,0,0,Yes,Good,Somewhat knowledgeable
+Yes,Rarely,1,1,0,0,Yes,Poor,Somewhat knowledgeable
 Yes,Sometimes,0,0,2,0,Yes,Poor,Not knowledgeable
 No,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 No,Never,2,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Rarely,2,1,2,2,Yes,Poor,Knowledgeable
 No,Rarely,2,2,2,2,Yes,Poor,Knowledgeable
 No,N/A,2,1,2,2,No,Poor,Knowledgeable
-No,N/A,1,1,2,0,No,Good,Knowledgeable
+No,N/A,1,1,2,0,No,Poor,Knowledgeable
 Yes,Rarely,1,1,2,1,Yes,Good,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 No,N/A,1,0,0,1,No,Good,Somewhat knowledgeable
@@ -29,7 +29,7 @@ No,N/A,0,0,0,0,No,Poor,Not knowledgeable
 No,N/A,0,2,0,0,No,Poor,Not knowledgeable
 No,Never,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
-Yes,Rarely,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Rarely,1,1,2,2,Yes,Poor,Knowledgeable
 No,N/A,0,2,2,2,No,Poor,Knowledgeable
 Yes,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
 Yes,Often,0,2,2,2,Yes,Poor,Knowledgeable
@@ -42,7 +42,7 @@ Yes,Often,2,0,2,2,Yes,Poor,Knowledgeable
 No,Sometimes,1,2,0,1,Yes,Good,Knowledgeable
 No,Never,2,2,2,2,Yes,Poor,Knowledgeable
 No,Never,0,0,0,0,Yes,Poor,Not knowledgeable
-No,Rarely,1,1,2,2,Yes,Good,Knowledgeable
+No,Rarely,1,1,2,2,Yes,Poor,Knowledgeable
 No,N/A,2,2,2,0,No,Poor,Knowledgeable
 No,Never,0,0,1,0,Yes,Poor,Not knowledgeable
 No,N/A,2,1,2,2,No,Poor,Knowledgeable
@@ -54,13 +54,13 @@ No,Never,1,0,1,0,Yes,Good,Somewhat knowledgeable
 No,Never,2,2,2,2,Yes,Poor,Knowledgeable
 No,N/A,0,0,2,2,No,Poor,Somewhat knowledgeable
 Yes,Rarely,1,0,2,0,Yes,Poor,Somewhat knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 No,N/A,0,2,2,0,No,Poor,Somewhat knowledgeable
 No,Never,1,1,1,1,Yes,Good,Knowledgeable
 Yes,Sometimes,2,1,2,2,Yes,Poor,Knowledgeable
 No,N/A,0,2,2,2,No,Poor,Knowledgeable
-No,N/A,1,1,2,2,No,Good,Knowledgeable
-Yes,Sometimes,1,1,2,0,Yes,Good,Knowledgeable
+No,N/A,1,1,2,2,No,Poor,Knowledgeable
+Yes,Sometimes,1,1,2,0,Yes,Poor,Knowledgeable
 No,Never,0,2,2,0,Yes,Poor,Somewhat knowledgeable
 No,Rarely,0,0,2,0,Yes,Poor,Not knowledgeable
 Yes,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
@@ -75,10 +75,10 @@ Yes,Sometimes,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 Yes,Rarely,2,2,2,2,Yes,Poor,Knowledgeable
 No,Never,1,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,2,1,1,Yes,Good,Knowledgeable
-Yes,Sometimes,1,1,2,0,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,0,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
 Yes,Rarely,1,1,2,1,Yes,Good,Knowledgeable
-No,Never,1,1,2,0,Yes,Good,Knowledgeable
+No,Never,1,1,2,0,Yes,Poor,Knowledgeable
 No,N/A,0,2,2,0,No,Poor,Somewhat knowledgeable
 No,Never,0,2,2,0,Yes,Poor,Somewhat knowledgeable
 Yes,Rarely,2,2,2,2,Yes,Poor,Knowledgeable
@@ -92,7 +92,7 @@ No,N/A,2,2,2,2,No,Poor,Knowledgeable
 Yes,Rarely,1,1,2,1,Yes,Good,Knowledgeable
 No,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 No,Rarely,2,1,2,2,Yes,Poor,Knowledgeable
 No,Never,0,0,0,0,Yes,Poor,Not knowledgeable
 No,N/A,2,1,2,2,No,Poor,Knowledgeable
@@ -118,7 +118,7 @@ No,Rarely,0,2,2,2,Yes,Poor,Knowledgeable
 No,Never,2,2,2,2,Yes,Poor,Knowledgeable
 No,N/A,2,1,2,2,No,Poor,Knowledgeable
 No,Rarely,0,0,1,0,Yes,Poor,Not knowledgeable
-Yes,Sometimes,1,1,0,0,Yes,Good,Somewhat knowledgeable
+Yes,Sometimes,1,1,0,0,Yes,Poor,Somewhat knowledgeable
 Yes,Never,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 No,N/A,0,2,2,0,No,Poor,Somewhat knowledgeable
 No,Never,0,0,2,0,Yes,Poor,Not knowledgeable
@@ -140,7 +140,7 @@ Yes,Rarely,2,2,2,2,Yes,Poor,Knowledgeable
 No,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 No,Never,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 No,Rarely,1,2,2,2,Yes,Poor,Knowledgeable
-No,N/A,1,1,2,2,No,Good,Knowledgeable
+No,N/A,1,1,2,2,No,Poor,Knowledgeable
 Yes,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,2,2,2,Yes,Poor,Knowledgeable
 Yes,Often,2,0,2,2,Yes,Poor,Knowledgeable
@@ -163,17 +163,17 @@ No,N/A,0,2,0,2,No,Poor,Somewhat knowledgeable
 No,Rarely,2,1,2,2,Yes,Poor,Knowledgeable
 No,Never,1,0,2,0,Yes,Poor,Somewhat knowledgeable
 Yes,Sometimes,1,2,2,1,Yes,Good,Knowledgeable
-Yes,Rarely,1,1,2,0,Yes,Good,Knowledgeable
+Yes,Rarely,1,1,2,0,Yes,Poor,Knowledgeable
 No,Sometimes,0,0,2,0,Yes,Poor,Not knowledgeable
 No,N/A,0,2,0,0,No,Poor,Not knowledgeable
 No,Never,2,2,2,2,Yes,Poor,Knowledgeable
-Yes,Often,1,1,2,0,Yes,Good,Knowledgeable
+Yes,Often,1,1,2,0,Yes,Poor,Knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
 No,N/A,0,2,2,2,No,Poor,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
-No,Never,1,1,0,0,Yes,Good,Somewhat knowledgeable
+No,Never,1,1,0,0,Yes,Poor,Somewhat knowledgeable
 Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 No,N/A,1,2,2,0,No,Poor,Knowledgeable
@@ -181,7 +181,7 @@ Yes,Rarely,1,1,1,0,Yes,Good,Knowledgeable
 No,Sometimes,0,2,0,0,Yes,Poor,Not knowledgeable
 No,Often,2,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgeable
-No,Never,2,1,2,1,Yes,Good,Knowledgeable
+No,Never,2,1,2,1,Yes,Poor,Knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
 Yes,Often,2,1,2,2,Yes,Poor,Knowledgeable
 Yes,Rarely,1,2,2,2,Yes,Poor,Knowledgeable
@@ -189,8 +189,8 @@ No,Sometimes,2,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
 Yes,Rarely,2,1,2,2,Yes,Poor,Knowledgeable
 No,N/A,2,1,2,0,No,Poor,Knowledgeable
-Yes,Sometimes,1,1,0,2,Yes,Good,Knowledgeable
-Yes,Often,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,0,2,Yes,Poor,Knowledgeable
+Yes,Often,1,1,2,2,Yes,Poor,Knowledgeable
 No,Never,2,2,2,2,Yes,Poor,Knowledgeable
 No,N/A,1,1,1,1,No,Good,Knowledgeable
 No,Sometimes,2,1,2,2,Yes,Poor,Knowledgeable
@@ -200,14 +200,14 @@ No,Sometimes,2,1,2,2,Yes,Poor,Knowledgeable
 No,Sometimes,0,2,2,0,Yes,Poor,Somewhat knowledgeable
 No,Never,2,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,0,2,2,0,Yes,Poor,Somewhat knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 Yes,Rarely,1,0,0,0,Yes,Poor,Not knowledgeable
 No,Never,0,0,0,0,Yes,Poor,Not knowledgeable
 Yes,Sometimes,2,1,2,2,Yes,Poor,Knowledgeable
 Yes,Rarely,1,1,1,0,Yes,Good,Knowledgeable
 No,Never,0,2,2,0,Yes,Poor,Somewhat knowledgeable
-Yes,Sometimes,1,1,0,0,Yes,Good,Somewhat knowledgeable
+Yes,Sometimes,1,1,0,0,Yes,Poor,Somewhat knowledgeable
 No,Never,1,2,2,0,Yes,Poor,Knowledgeable
 Yes,Never,1,0,0,0,Yes,Poor,Not knowledgeable
 No,N/A,0,0,2,0,No,Poor,Not knowledgeable
@@ -238,19 +238,19 @@ No,N/A,0,0,0,0,No,Poor,Not knowledgeable
 No,Never,1,1,1,1,Yes,Good,Knowledgeable
 Yes,Sometimes,0,0,0,1,Yes,Poor,Not knowledgeable
 No,N/A,1,0,1,1,No,Good,Knowledgeable
-Yes,Sometimes,1,1,2,0,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,0,Yes,Poor,Knowledgeable
 No,Never,1,0,1,0,Yes,Good,Somewhat knowledgeable
 Yes,Sometimes,0,2,2,0,Yes,Poor,Somewhat knowledgeable
-No,N/A,1,1,0,0,No,Good,Somewhat knowledgeable
+No,N/A,1,1,0,0,No,Poor,Somewhat knowledgeable
 No,N/A,1,1,1,1,No,Good,Knowledgeable
 No,Sometimes,2,1,2,2,Yes,Poor,Knowledgeable
 No,Sometimes,0,0,0,0,Yes,Poor,Not knowledgeable
 No,N/A,0,0,0,0,No,Poor,Not knowledgeable
 No,Rarely,0,2,2,2,Yes,Poor,Knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Never,0,2,1,1,Yes,Good,Knowledgeable
 No,Sometimes,0,2,0,0,Yes,Poor,Not knowledgeable
-Yes,Sometimes,1,1,0,0,Yes,Good,Somewhat knowledgeable
+Yes,Sometimes,1,1,0,0,Yes,Poor,Somewhat knowledgeable
 Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
 No,Never,2,2,2,0,Yes,Poor,Knowledgeable
 Yes,Often,1,0,0,1,Yes,Good,Somewhat knowledgeable
@@ -259,7 +259,7 @@ Yes,Sometimes,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 Yes,Sometimes,1,1,0,1,Yes,Good,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
-Yes,Often,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Often,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,0,0,2,0,Yes,Poor,Not knowledgeable
 No,N/A,1,2,1,1,No,Good,Knowledgeable
 Yes,Often,2,1,2,2,Yes,Poor,Knowledgeable
@@ -269,8 +269,8 @@ Yes,Often,1,2,1,1,Yes,Good,Knowledgeable
 Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
 Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
 Yes,Rarely,0,0,0,2,Yes,Poor,Not knowledgeable
-Yes,Never,1,1,0,0,Yes,Good,Somewhat knowledgeable
-Yes,Rarely,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Never,1,1,0,0,Yes,Poor,Somewhat knowledgeable
+Yes,Rarely,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
 Yes,Never,1,1,2,1,Yes,Good,Knowledgeable
 Yes,Never,1,0,2,0,Yes,Poor,Somewhat knowledgeable
@@ -278,7 +278,7 @@ Yes,Rarely,1,2,1,1,Yes,Good,Knowledgeable
 Yes,Sometimes,1,2,2,2,Yes,Poor,Knowledgeable
 Yes,Often,2,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
-Yes,Rarely,1,1,2,0,Yes,Good,Knowledgeable
+Yes,Rarely,1,1,2,0,Yes,Poor,Knowledgeable
 No,Never,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 Yes,Sometimes,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 Yes,Rarely,1,1,2,1,Yes,Good,Knowledgeable
@@ -288,16 +288,16 @@ No,N/A,0,2,2,2,No,Poor,Knowledgeable
 No,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 No,Never,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgeable
-Yes,Often,1,1,2,2,Yes,Good,Knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Often,1,1,2,2,Yes,Poor,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 No,N/A,0,2,2,0,No,Poor,Somewhat knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
 No,N/A,1,1,2,1,No,Good,Knowledgeable
 Yes,Never,1,1,1,1,Yes,Good,Knowledgeable
 No,N/A,0,2,0,0,No,Poor,Not knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
-Yes,Often,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Often,1,1,2,2,Yes,Poor,Knowledgeable
 No,Never,0,0,0,0,Yes,Poor,Not knowledgeable
 Yes,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgeable
@@ -318,16 +318,16 @@ Yes,Sometimes,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 No,Never,0,2,2,0,Yes,Poor,Somewhat knowledgeable
 No,N/A,0,0,0,0,No,Poor,Not knowledgeable
 No,N/A,0,0,0,0,No,Poor,Not knowledgeable
-Yes,Sometimes,1,1,2,0,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,0,Yes,Poor,Knowledgeable
 Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
 No,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 No,Rarely,1,2,1,0,Yes,Good,Knowledgeable
 Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
 No,N/A,1,2,0,2,No,Poor,Knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 No,Often,1,2,2,0,Yes,Poor,Knowledgeable
 No,N/A,1,0,0,0,No,Poor,Not knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Rarely,1,1,1,2,Yes,Good,Knowledgeable
 No,Never,1,1,1,0,Yes,Good,Knowledgeable
 Yes,Often,1,1,1,2,Yes,Good,Knowledgeable
@@ -343,10 +343,10 @@ No,Never,1,0,1,1,Yes,Good,Knowledgeable
 No,Sometimes,2,1,2,2,Yes,Poor,Knowledgeable
 No,Never,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 Yes,Sometimes,0,2,1,0,Yes,Poor,Somewhat knowledgeable
-Yes,Rarely,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Rarely,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 No,Never,2,1,2,2,Yes,Poor,Knowledgeable
-Yes,Rarely,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Rarely,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
 Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
 No,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
@@ -357,7 +357,7 @@ Yes,Sometimes,2,0,2,2,Yes,Poor,Knowledgeable
 No,N/A,0,0,2,2,No,Poor,Somewhat knowledgeable
 Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
 Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgeable
-Yes,Rarely,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Rarely,1,1,2,2,Yes,Poor,Knowledgeable
 No,Never,0,2,2,0,Yes,Poor,Somewhat knowledgeable
 Yes,Sometimes,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 No,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
@@ -366,7 +366,7 @@ No,N/A,2,2,2,2,No,Poor,Knowledgeable
 No,N/A,0,0,0,0,No,Poor,Not knowledgeable
 Yes,Often,1,0,0,2,Yes,Poor,Somewhat knowledgeable
 No,Rarely,0,0,0,0,Yes,Poor,Not knowledgeable
-Yes,N/A,1,1,2,2,No,Good,Knowledgeable
+Yes,N/A,1,1,2,2,No,Poor,Knowledgeable
 No,N/A,2,0,2,0,No,Poor,Somewhat knowledgeable
 Yes,Sometimes,2,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
@@ -380,12 +380,12 @@ No,Never,1,1,1,1,Yes,Good,Knowledgeable
 Yes,Sometimes,1,0,1,1,Yes,Good,Knowledgeable
 No,N/A,0,2,2,0,No,Poor,Somewhat knowledgeable
 Yes,Rarely,1,0,1,1,Yes,Good,Knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Often,2,1,2,2,Yes,Poor,Knowledgeable
 No,Never,1,1,0,1,Yes,Good,Knowledgeable
 No,Rarely,0,0,0,0,Yes,Poor,Not knowledgeable
 Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
-Yes,Sometimes,2,1,1,2,Yes,Good,Knowledgeable
+Yes,Sometimes,2,1,1,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
 Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
@@ -395,8 +395,8 @@ Yes,Sometimes,2,1,2,2,Yes,Poor,Knowledgeable
 Yes,Often,1,1,1,1,Yes,Good,Knowledgeable
 Yes,Never,0,2,2,0,Yes,Poor,Somewhat knowledgeable
 No,Never,0,2,2,2,Yes,Poor,Knowledgeable
-Yes,Sometimes,1,1,2,0,Yes,Good,Knowledgeable
-Yes,Rarely,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,0,Yes,Poor,Knowledgeable
+Yes,Rarely,1,1,2,2,Yes,Poor,Knowledgeable
 No,Never,0,2,2,2,Yes,Poor,Knowledgeable
 Yes,Often,1,2,2,0,Yes,Poor,Knowledgeable
 Yes,Rarely,2,0,2,2,Yes,Poor,Knowledgeable
@@ -407,7 +407,7 @@ No,N/A,1,1,1,1,No,Good,Knowledgeable
 No,Often,2,2,0,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
-Yes,Sometimes,2,1,1,2,Yes,Good,Knowledgeable
+Yes,Sometimes,2,1,1,2,Yes,Poor,Knowledgeable
 Yes,Rarely,2,2,2,2,Yes,Poor,Knowledgeable
 No,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
 No,N/A,0,2,0,0,No,Poor,Not knowledgeable
@@ -417,7 +417,7 @@ Yes,Sometimes,0,2,2,0,Yes,Poor,Somewhat knowledgeable
 No,Never,0,0,0,0,Yes,Poor,Not knowledgeable
 Yes,Rarely,0,0,2,0,Yes,Poor,Not knowledgeable
 No,Never,2,2,2,2,Yes,Poor,Knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,0,1,0,Yes,Good,Somewhat knowledgeable
 Yes,Sometimes,1,2,2,1,Yes,Good,Knowledgeable
 No,Sometimes,1,0,0,0,Yes,Poor,Not knowledgeable
@@ -425,7 +425,7 @@ Yes,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
 Yes,Rarely,2,1,2,2,Yes,Poor,Knowledgeable
 Yes,Often,1,1,1,1,Yes,Good,Knowledgeable
 No,Sometimes,0,0,0,1,Yes,Poor,Not knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 No,Never,2,1,2,2,Yes,Poor,Knowledgeable
 No,Never,0,2,2,0,Yes,Poor,Somewhat knowledgeable
 No,N/A,0,2,0,2,No,Poor,Somewhat knowledgeable
@@ -438,7 +438,7 @@ Yes,Often,2,2,2,2,Yes,Poor,Knowledgeable
 No,Never,1,1,1,2,Yes,Good,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,2,1,2,2,Yes,Poor,Knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,0,1,1,Yes,Good,Knowledgeable
@@ -459,21 +459,21 @@ No,Sometimes,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 No,Rarely,1,2,2,2,Yes,Poor,Knowledgeable
 No,Never,1,2,1,0,Yes,Good,Knowledgeable
 No,Often,2,0,2,0,Yes,Poor,Somewhat knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 No,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
-Yes,Often,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Often,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
 Yes,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
 Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
 No,Sometimes,2,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,0,2,0,Yes,Poor,Somewhat knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
-Yes,Rarely,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Rarely,1,1,2,2,Yes,Poor,Knowledgeable
 No,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
-Yes,Sometimes,1,1,2,0,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,0,Yes,Poor,Knowledgeable
 No,Never,2,2,2,2,Yes,Poor,Knowledgeable
 Yes,Often,2,2,2,2,Yes,Poor,Knowledgeable
-No,N/A,1,1,2,2,No,Good,Knowledgeable
+No,N/A,1,1,2,2,No,Poor,Knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
 No,Never,1,1,2,1,Yes,Good,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
@@ -482,7 +482,7 @@ No,Often,2,2,2,2,Yes,Poor,Knowledgeable
 Yes,Never,0,0,0,0,Yes,Poor,Not knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
 No,Rarely,2,2,2,2,Yes,Poor,Knowledgeable
-Yes,Sometimes,1,1,2,0,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,0,Yes,Poor,Knowledgeable
 No,N/A,0,2,2,0,No,Poor,Somewhat knowledgeable
 No,Rarely,1,1,1,1,Yes,Good,Knowledgeable
 No,Never,0,2,2,0,Yes,Poor,Somewhat knowledgeable
@@ -514,11 +514,11 @@ No,N/A,2,2,2,2,No,Poor,Knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
 No,N/A,0,2,2,0,No,Poor,Somewhat knowledgeable
 No,N/A,2,2,2,0,No,Poor,Knowledgeable
-Yes,Sometimes,1,1,0,0,Yes,Good,Somewhat knowledgeable
+Yes,Sometimes,1,1,0,0,Yes,Poor,Somewhat knowledgeable
 Yes,Rarely,0,2,2,2,Yes,Poor,Knowledgeable
 No,Never,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 No,N/A,0,0,2,0,No,Poor,Not knowledgeable
-Yes,Often,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Often,1,1,2,2,Yes,Poor,Knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
 No,N/A,0,0,0,0,No,Poor,Not knowledgeable
 No,Never,0,2,2,0,Yes,Poor,Somewhat knowledgeable
@@ -541,13 +541,13 @@ No,N/A,2,2,2,1,No,Poor,Knowledgeable
 Yes,Sometimes,2,1,2,2,Yes,Poor,Knowledgeable
 No,N/A,2,1,2,2,No,Poor,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
-Yes,Sometimes,1,1,2,0,Yes,Good,Knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,0,Yes,Poor,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 No,N/A,1,0,2,0,No,Poor,Somewhat knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
 Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
 Yes,Sometimes,0,0,2,2,Yes,Poor,Somewhat knowledgeable
-No,N/A,1,1,2,2,No,Good,Knowledgeable
+No,N/A,1,1,2,2,No,Poor,Knowledgeable
 No,N/A,0,0,1,1,No,Good,Somewhat knowledgeable
 Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgeable
 No,Never,1,1,1,1,Yes,Good,Knowledgeable
@@ -567,13 +567,13 @@ Yes,Never,0,2,2,0,Yes,Poor,Somewhat knowledgeable
 Yes,Sometimes,2,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgeable
 No,N/A,0,2,2,2,No,Poor,Knowledgeable
-Yes,Sometimes,1,1,0,0,Yes,Good,Somewhat knowledgeable
+Yes,Sometimes,1,1,0,0,Yes,Poor,Somewhat knowledgeable
 Yes,Never,1,1,1,1,Yes,Good,Knowledgeable
 No,Rarely,0,0,2,2,Yes,Poor,Somewhat knowledgeable
-Yes,Sometimes,1,1,0,0,Yes,Good,Somewhat knowledgeable
+Yes,Sometimes,1,1,0,0,Yes,Poor,Somewhat knowledgeable
 Yes,Often,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgeable
-No,Never,1,1,2,2,Yes,Good,Knowledgeable
+No,Never,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Often,1,2,2,0,Yes,Poor,Knowledgeable
 No,N/A,0,2,2,2,No,Poor,Knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
@@ -601,16 +601,16 @@ No,Never,1,0,2,0,Yes,Poor,Somewhat knowledgeable
 Yes,Rarely,2,1,2,2,Yes,Poor,Knowledgeable
 Yes,Rarely,1,0,0,2,Yes,Poor,Somewhat knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
-Yes,Often,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Often,1,1,2,2,Yes,Poor,Knowledgeable
 No,N/A,0,2,2,0,No,Poor,Somewhat knowledgeable
 No,Rarely,1,1,1,1,Yes,Good,Knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 No,Sometimes,0,0,1,0,Yes,Poor,Not knowledgeable
 No,Sometimes,0,0,0,0,Yes,Poor,Not knowledgeable
 Yes,Sometimes,0,2,1,0,Yes,Poor,Somewhat knowledgeable
 No,Rarely,1,1,1,1,Yes,Good,Knowledgeable
 Yes,Sometimes,2,1,2,2,Yes,Poor,Knowledgeable
-No,N/A,1,1,2,0,No,Good,Knowledgeable
+No,N/A,1,1,2,0,No,Poor,Knowledgeable
 No,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 No,N/A,0,0,2,2,No,Poor,Somewhat knowledgeable
 No,N/A,1,1,1,1,No,Good,Knowledgeable
@@ -619,17 +619,17 @@ No,N/A,0,0,0,2,No,Poor,Not knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
 Yes,Often,2,1,2,2,Yes,Poor,Knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 No,N/A,2,1,2,2,No,Poor,Knowledgeable
 Yes,Rarely,1,1,0,1,Yes,Good,Knowledgeable
 Yes,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
 No,N/A,0,0,0,0,No,Poor,Not knowledgeable
 No,N/A,1,2,1,2,No,Good,Knowledgeable
-Yes,Never,1,1,2,0,Yes,Good,Knowledgeable
+Yes,Never,1,1,2,0,Yes,Poor,Knowledgeable
 Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgeable
-No,Never,1,1,0,0,Yes,Good,Somewhat knowledgeable
+No,Never,1,1,0,0,Yes,Poor,Somewhat knowledgeable
 No,Never,1,2,1,0,Yes,Good,Knowledgeable
-Yes,Sometimes,1,1,2,0,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,0,Yes,Poor,Knowledgeable
 Yes,Rarely,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 No,Sometimes,1,2,1,1,Yes,Good,Knowledgeable
 No,N/A,0,0,0,0,No,Poor,Not knowledgeable
@@ -641,13 +641,13 @@ Yes,Rarely,2,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
 No,N/A,1,2,1,1,No,Good,Knowledgeable
 Yes,Sometimes,1,1,1,2,Yes,Good,Knowledgeable
-Yes,Rarely,1,1,0,0,Yes,Good,Somewhat knowledgeable
+Yes,Rarely,1,1,0,0,Yes,Poor,Somewhat knowledgeable
 Yes,Never,1,1,1,1,Yes,Good,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 Yes,Rarely,1,1,2,1,Yes,Good,Knowledgeable
 Yes,Often,2,2,2,2,Yes,Poor,Knowledgeable
-Yes,Sometimes,0,1,2,1,Yes,Good,Knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,0,1,2,1,Yes,Poor,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 No,N/A,1,1,1,1,No,Good,Knowledgeable
 Yes,Often,0,0,2,0,Yes,Poor,Not knowledgeable
@@ -665,15 +665,15 @@ Yes,Often,0,2,2,0,Yes,Poor,Somewhat knowledgeable
 Yes,N/A,0,2,2,0,No,Poor,Somewhat knowledgeable
 Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
 Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
-Yes,Rarely,1,1,0,0,Yes,Good,Somewhat knowledgeable
+Yes,Rarely,1,1,0,0,Yes,Poor,Somewhat knowledgeable
 Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
-Yes,Sometimes,1,1,2,0,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,0,Yes,Poor,Knowledgeable
 No,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
 Yes,Sometimes,0,2,0,0,Yes,Poor,Not knowledgeable
-Yes,Often,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Often,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Rarely,1,1,1,1,Yes,Good,Knowledgeable
 Yes,Sometimes,1,1,0,1,Yes,Good,Knowledgeable
-Yes,Sometimes,1,1,0,0,Yes,Good,Somewhat knowledgeable
+Yes,Sometimes,1,1,0,0,Yes,Poor,Somewhat knowledgeable
 Yes,Rarely,2,1,2,2,Yes,Poor,Knowledgeable
 Yes,Rarely,0,2,2,0,Yes,Poor,Somewhat knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
@@ -701,12 +701,12 @@ No,N/A,2,2,2,2,No,Poor,Knowledgeable
 No,N/A,1,2,2,1,No,Good,Knowledgeable
 Yes,Sometimes,1,1,1,0,Yes,Good,Knowledgeable
 Yes,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
-Yes,Rarely,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Rarely,1,1,2,2,Yes,Poor,Knowledgeable
 No,Rarely,2,2,2,2,Yes,Poor,Knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
-Yes,Often,1,1,2,0,Yes,Good,Knowledgeable
+Yes,Often,1,1,2,0,Yes,Poor,Knowledgeable
 Yes,Sometimes,0,2,2,0,Yes,Poor,Somewhat knowledgeable
-Yes,Often,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Often,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,0,2,2,0,Yes,Poor,Somewhat knowledgeable
 Yes,Sometimes,2,1,2,2,Yes,Poor,Knowledgeable
 No,Never,0,2,2,0,Yes,Poor,Somewhat knowledgeable
@@ -737,14 +737,14 @@ No,N/A,2,2,2,2,No,Poor,Knowledgeable
 Yes,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
 No,N/A,1,2,0,1,No,Good,Knowledgeable
 Yes,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,0,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,2,0,2,2,Yes,Poor,Knowledgeable
 No,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Often,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 No,Never,0,0,0,0,Yes,Poor,Not knowledgeable
-Yes,Sometimes,1,1,2,0,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,0,Yes,Poor,Knowledgeable
 No,Never,0,2,2,0,Yes,Poor,Somewhat knowledgeable
 Yes,Often,1,0,0,0,Yes,Poor,Not knowledgeable
 Yes,Rarely,1,1,0,1,Yes,Good,Knowledgeable
@@ -756,16 +756,16 @@ No,N/A,2,2,2,2,No,Poor,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 No,Sometimes,1,0,2,1,Yes,Good,Knowledgeable
 No,Rarely,1,1,1,1,Yes,Good,Knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,1,1,1,Yes,Good,Knowledgeable
 Yes,Often,1,1,1,1,Yes,Good,Knowledgeable
-Yes,Sometimes,1,1,2,0,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,0,Yes,Poor,Knowledgeable
 Yes,Often,2,1,2,2,Yes,Poor,Knowledgeable
 Yes,Often,0,0,0,1,Yes,Poor,Not knowledgeable
 No,N/A,0,2,2,2,No,Poor,Knowledgeable
 Yes,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,1,1,0,Yes,Good,Knowledgeable
-Yes,Sometimes,1,1,0,0,Yes,Good,Somewhat knowledgeable
+Yes,Sometimes,1,1,0,0,Yes,Poor,Somewhat knowledgeable
 Yes,Often,2,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,1,1,0,Yes,Good,Knowledgeable
 Yes,Sometimes,1,2,2,1,Yes,Good,Knowledgeable
@@ -778,13 +778,13 @@ No,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
 No,Never,1,2,2,2,Yes,Poor,Knowledgeable
 Yes,Rarely,2,1,2,0,Yes,Poor,Knowledgeable
 Yes,Rarely,2,2,0,0,Yes,Poor,Somewhat knowledgeable
-Yes,Often,1,1,0,0,Yes,Good,Somewhat knowledgeable
+Yes,Often,1,1,0,0,Yes,Poor,Somewhat knowledgeable
 No,Often,2,2,2,2,Yes,Poor,Knowledgeable
-Yes,Sometimes,1,1,2,0,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,0,Yes,Poor,Knowledgeable
 Yes,Often,1,2,2,2,Yes,Poor,Knowledgeable
 No,N/A,2,0,2,2,No,Poor,Knowledgeable
 Yes,Sometimes,0,2,0,0,Yes,Poor,Not knowledgeable
-No,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+No,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Never,0,0,2,0,Yes,Poor,Not knowledgeable
 Yes,Sometimes,0,1,2,0,Yes,Poor,Somewhat knowledgeable
 No,Never,2,1,2,2,Yes,Poor,Knowledgeable
@@ -793,9 +793,9 @@ No,N/A,0,0,0,0,No,Poor,Not knowledgeable
 Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgeable
 No,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
-Yes,Rarely,1,1,2,2,Yes,Good,Knowledgeable
-No,Rarely,2,1,2,1,Yes,Good,Knowledgeable
-No,Rarely,2,1,2,1,Yes,Good,Knowledgeable
+Yes,Rarely,1,1,2,2,Yes,Poor,Knowledgeable
+No,Rarely,2,1,2,1,Yes,Poor,Knowledgeable
+No,Rarely,2,1,2,1,Yes,Poor,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
 Yes,Sometimes,0,0,2,2,Yes,Poor,Somewhat knowledgeable
@@ -810,14 +810,14 @@ Yes,Rarely,0,0,2,0,Yes,Poor,Not knowledgeable
 Yes,Never,0,0,2,0,Yes,Poor,Not knowledgeable
 Yes,Rarely,2,1,2,2,Yes,Poor,Knowledgeable
 No,Never,0,2,2,0,Yes,Poor,Somewhat knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 No,Never,1,2,2,1,Yes,Good,Knowledgeable
 No,N/A,0,0,2,2,No,Poor,Somewhat knowledgeable
 Yes,Sometimes,0,2,2,0,Yes,Poor,Somewhat knowledgeable
 No,Sometimes,1,2,1,0,Yes,Good,Knowledgeable
 No,Never,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 No,Often,2,2,2,2,Yes,Poor,Knowledgeable
-Yes,Sometimes,1,1,2,0,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,0,Yes,Poor,Knowledgeable
 No,N/A,0,0,2,2,No,Poor,Somewhat knowledgeable
 Yes,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
@@ -825,12 +825,12 @@ No,N/A,0,2,2,2,No,Poor,Knowledgeable
 Yes,Rarely,1,2,2,2,Yes,Poor,Knowledgeable
 No,Never,2,2,2,0,Yes,Poor,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,2,2,2,2,Yes,Poor,Knowledgeable
 Yes,Often,2,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,2,2,2,Yes,Poor,Knowledgeable
 No,N/A,0,0,2,2,No,Poor,Somewhat knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
 No,Sometimes,1,0,1,1,Yes,Good,Knowledgeable
 No,Never,0,2,2,2,Yes,Poor,Knowledgeable
@@ -851,7 +851,7 @@ Yes,Sometimes,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
 No,Never,0,0,2,2,Yes,Poor,Somewhat knowledgeable
 No,Sometimes,0,2,2,2,Yes,Poor,Knowledgeable
-Yes,Often,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Often,1,1,2,2,Yes,Poor,Knowledgeable
 No,N/A,2,0,2,2,No,Poor,Knowledgeable
 No,Never,2,1,2,2,Yes,Poor,Knowledgeable
 No,N/A,2,0,2,2,No,Poor,Knowledgeable
@@ -860,11 +860,11 @@ Yes,Often,0,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,0,0,0,0,Yes,Poor,Not knowledgeable
 No,Never,0,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,1,2,1,Yes,Good,Knowledgeable
-Yes,Rarely,2,1,1,2,Yes,Good,Knowledgeable
+Yes,Rarely,2,1,1,2,Yes,Poor,Knowledgeable
 No,Never,1,1,0,1,Yes,Good,Knowledgeable
 Yes,Sometimes,0,1,2,2,Yes,Poor,Knowledgeable
 No,N/A,2,2,2,2,No,Poor,Knowledgeable
-Yes,Sometimes,2,1,2,1,Yes,Good,Knowledgeable
+Yes,Sometimes,2,1,2,1,Yes,Poor,Knowledgeable
 Yes,Rarely,2,1,2,2,Yes,Poor,Knowledgeable
 Yes,Often,1,1,1,0,Yes,Good,Knowledgeable
 Yes,Often,0,2,1,0,Yes,Poor,Somewhat knowledgeable
@@ -876,9 +876,9 @@ Yes,Rarely,1,1,2,1,Yes,Good,Knowledgeable
 No,Never,1,0,0,1,Yes,Good,Somewhat knowledgeable
 Yes,Often,2,2,2,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,2,2,0,Yes,Poor,Knowledgeable
-Yes,Sometimes,1,1,0,2,Yes,Good,Knowledgeable
+Yes,Sometimes,1,1,0,2,Yes,Poor,Knowledgeable
 Yes,Sometimes,1,1,1,2,Yes,Good,Knowledgeable
 Yes,N/A,2,2,2,2,No,Poor,Knowledgeable
-Yes,Often,1,1,2,2,Yes,Good,Knowledgeable
-Yes,Sometimes,1,1,2,2,Yes,Good,Knowledgeable
+Yes,Often,1,1,2,2,Yes,Poor,Knowledgeable
+Yes,Sometimes,1,1,2,2,Yes,Poor,Knowledgeable
 No,N/A,2,1,2,2,No,Poor,Knowledgeable
