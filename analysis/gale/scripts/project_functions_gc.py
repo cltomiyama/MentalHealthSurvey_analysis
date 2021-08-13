@@ -154,3 +154,6 @@ class display(object):
     def __repr__(self):
         return '\n\n'.join(a + '\n' + repr(eval(a))
                            for a in self.args)
+    
+def exportpng(filename):
+    plt.savefig(f'../../images/gale/{filename}', bbox_inches='tight')
