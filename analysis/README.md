@@ -75,7 +75,7 @@ Conclusion: Based of from the analysis carried out obove it is fair two say that
 
 ## Gale
 
-### Research questions
+#### Research questions
 
 1. Is there a relationship between providing more mental health resources and quality of employees' mental health in the tech industry?
 2. Is there a relationship between employees' knowledge of the mental health resources available and the quality of mental health?
@@ -86,7 +86,8 @@ Conclusion: Based of from the analysis carried out obove it is fair two say that
 
 *Comparison of amount of employer-provided mental health resources between those with a mental health condition and those without a mental health condition*
 
-![figure 1](../../images/gale/1_resource_cond.png)
+![figure 1](https://github.com/data301-2021-summer2/project-group37-project/blob/main/images/gale/1_resource_cond.png?raw=true)
+
 
 *Note.* Frequencies of insufficient ("Poor") and sufficient ("Good") amounts of employer-provided mental health resources are shown, with a comparison of how these frequencies differ between those with a mental health condition and those without a mental health condition. Categories for amount of mental health resources are shown on the x-axis, and frequencies on the y-axis. Frequencies are relative to each of these two groups.
 
@@ -97,9 +98,9 @@ Generally, employers seem to not provide enough resources for mental health, and
 
 *Comparison of how often employees' mental health conditions interfere with work, depending on amount of employer-provided mental health resources*
 
-![figure 2](../../images/gale/1_resource_interfere.png)
+![figure 2](https://github.com/data301-2021-summer2/project-group37-project/blob/main/images/gale/1_resource_interfere.png?raw=true)
 
-*Note.* Frequencies of different responses to the question, "If you have a mental health condition, do you feel that it interferes with your work?" across respondents with sufficient amounts of mental health resources provided ("Good") and respondents with insufficient mental health resources provided ("Poor"). Responses are shown on the x-axis, and frequencies on the y-axis. Frequencies are relative to the groups that are based on whether resource provision is "Good" or "Poor."
+*Note.* Y-axis shows frequencies of different responses to the question, "If you have a mental health condition, do you feel that it interferes with your work?" across respondents with sufficient amounts of mental health resources provided ("Good") and respondents with insufficient mental health resources provided ("Poor"). Frequencies are relative to the groups that are based on whether resource provision is "Good" (left graph) or "Poor" (right graph).
 
 Respondents who are provided with sufficient amounts of mental health resources generally feel like their mental health conditions interfere with their work less. This is most obvious looking at the frequency of respondents who feel that their condition "often" interferes with their work. Whereas 6.6% of those with sufficient mental health resources feel that their condition often interferes with their work, 14.2% of those with poorer mental health resources feel this way. 
 
@@ -110,9 +111,9 @@ Frequencies of "Never" and "Rarely" responses are also higher among respondents 
 
 *Frequency of seeking treatment for mental health conditions, across those with insufficient mental health resources and those with sufficient mental health resources*
 
-![figure 3](../../images/gale/1_resource_interfere.png)
+![figure 3](https://github.com/data301-2021-summer2/project-group37-project/blob/main/images/gale/1_resource_treatmt.png?raw=true)
 
-*Note.* Figure shows frequencies of those who have sought mental health treatment and those who have not. Categories of treatment status are shown on the x-axis, and frequencies on the y-axis. The graph on the left shows frequencies among those with "Good" resource provision, and the graph on the right shows frequencies among those with "Poor" resource provision.
+*Note.* Figure shows frequencies of those who have sought mental health treatment and those who have not on the y-axis. The graph on the left shows frequencies among those with "Good" resource provision, and the graph on the right shows frequencies among those with "Poor" resource provision.
 
 Regardless of whether they have insufficient of sufficient mental health resources, the majority of respondents with a mental health condition have sought treatment. In terms of treatment status, being provided with insufficient or sufficient amounts of mental health resources does not appear to make much of a difference. 63.8% of those with sufficient resource provision 62.8% of those with insufficient resource provision have sought treatment.
 
@@ -121,17 +122,46 @@ Regardless of whether they have insufficient of sufficient mental health resourc
 
 - Generally, employers in the tech industry do not provide enough mental health resources for their employees.
 - Analyses show that being provided with more mental health resources is negatively associated with the frequency of mental health interfering with work. In other words, the more resources that are provided to employees, the less mental health concerns interfere with work.
-- Knowledge of what mental health resources are available seems to contribute to the improvement of handling mental health issues. Thus, employers might need to be more intentional about informing employees about the resources available.
-
-Although some relationships were found, the data was limited in providing explanations for the directions of these relationships. For example, the 
-
+- Therefore, the more resources that employers provide to support employees with mental health, the less mental health conditions might interfere with work.
 
 ### 2. Is there a relationship between employees' knowledge of the mental health resources available and the quality of mental health?
 
-**Figure**
+**Figure 4**
 
+*Comparison of knowledge of mental health resources between those with a mental health condition and those without a mental health condition*
 
+![figure 4](https://github.com/data301-2021-summer2/project-group37-project/blob/main/images/gale/2_knowledge_cond.png?raw=true)
 
-### Further study
+*Note.* Frequencies of different levels of knowledge regarding employer-provided mental health resources are shown on the y-axis. The graph on the left shows frequencies among those with a mental health condition, and the graph on the right shows frequencies among those without a mental health condition.
 
-- Responses to how often mental health interferes with work might have been shaped by company's expectations. For further study, it would be insightful to investigate the relationship between mental health interfering with work and workplace expectations and attitudes regarding mental health, and see if there is any mediating effect of mental health resources and/or knowledge of mental health resources.
+Those with a mental health condition demonstrate higher knowledge about mental health resources than those without a mental health condition. 75% of those with a mental health condition and 56.6% of those without a mental health condition are "Knowledgeable" about mental health resources. This might be because respondents with a mental health condition have an incentive to seek out more information about mental health resources available.
+
+**Figure 5**
+
+*Comparison of how often employees' mental health conditions interfere with work, across different levels of knowledge on employer-provided mental health resources*
+
+![figure 5](https://github.com/data301-2021-summer2/project-group37-project/blob/main/images/gale/2_knowledge_interfere.png?raw=true)
+
+*Note.* Frequencies of different responses to the question, "If you have a mental health condition, do you feel that it interferes with your work?" among those with a mental health condition are shown on the y-axis. Frequencies are relative to different levels of knowledge: "Not knowledgeable" (left graph), "Somewhat knowledgeable" (middle graph) and "Knowledgeable" (right graph).
+
+The more knowledge that respondents have about mental health resources, the more likely they are to feel that their mental health condition interferes with their work "often." This is surprising, because I expected that more knowledge about mental health would lower the degree to which mental health conditions interfere with work. However, this finding might be due to a number of reasons. For example, employees who struggle more with mental health might thus seek out more information. This could also explain why proportions of respondents who feel that their conditions "never" interfere with their work are higher in the "Not knowledgeable" and "Somewhat knowledgeable" categories—respondents whose mental health conditions do not interfere too much might not feel the need to seek out mental health resources at work.
+
+Furthermore, looking at mental health "rarely" interfering with work, we see that the "Knowledgeable" category, compared to "Not knowledgeable" or "Somewhat knowledgeable," has the highest proportion of respondents who indicate that their condition rarely interferes with their work. Again, it's hard to determine the exact reasons, but it may be possible that this group of respondents were able to improve their conditions through their knowledge.
+
+**Figure 6**
+
+*Comparison of knowledge of mental health resources between those with a mental health condition and those without a mental health condition*
+
+![figure 6](https://github.com/data301-2021-summer2/project-group37-project/blob/main/images/gale/2_knowledge_treatmt.png?raw=true)
+
+*Note.* Frequencies of those who have sought mental health treatment and those who have not are on the y-axis. Frequencies are relative to different levels of knowledge: "Not knowledgeable" (left), "Somewhat knowledgeable" (middle), and "Knowledgable" (right).
+
+Respondents who are more knowledgable about their employer's mental health resources are more likely to have sought treatment for a mental health condition. 66.3% of those who are "Knowledgeable" have sought treatment, compared to 57.6% in the "Somewhat knowledgeable" category and 51.8% in the "Not knowledgeable" category. Thus, having more knowledge about employer-provided mental health resources might enable respondents to find treatment for their mental health conditions.
+
+Because the data was gathered only at one point in time for each participant, it's difficult to judge the state of mental health before and after treatment, as well as the effects of knowing more about available resources. Some respondents might have been responding after having undergone treatment (see discussion of Figure 5), while others might know more but have not pursued treatment yet. However, data from Figure 6 does show us that being more knowledgeable is positively associated with getting treatment.
+
+**Conclusions**
+- Respondents with a mental health condition are more likely to have more knowledge about employer-provided mental health resources.
+- How much knowledge respondents have about available mental health resources is positively associated with seeking treatment.
+- Having more knowledge about available mental health resources does not necessarily reduce how often mental health conditions interfere with work. However, more research might be needed to look at before-and-after effects of learning about mental health resources.
+- Therefore, although knowing more about available mental health resources might open up avenues for treatment, knowledge alone might not necessarily improve mental health, and other factors and variables may play a part.
