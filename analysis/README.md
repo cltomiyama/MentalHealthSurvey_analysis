@@ -76,7 +76,7 @@ Graph2: From hear we can see that most companies tend to have a number of employ
 
 ### 3. Age of employee vs Mental health consequences.  
 
-![graph2](graph2mohammed.jpg)
+![graph3](graph3mohammed.jpg)
 
 Graph3: This shows that older aged employees are more likely to develop mental issues than younger people. This may not be particularly due to nay of the factors that have been investigated so far but may be due to the fact that as employees age there ability to coop with stress decress and well as there physical ability of being bale to get severla tasks done on time. Older aged employees as well tend to be wonaitng maore support compared to youmger employees which they dont get bacuase companies are not able to provide them with that tyoe of support.  
 
