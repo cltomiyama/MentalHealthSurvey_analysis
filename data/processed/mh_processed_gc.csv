@@ -1,0 +1,884 @@
+,treatment,work_interfere,benefits,care_options,wellness_program,seek_help,condition,resources,knowledge
+0,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+1,Yes,Often,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+2,Yes,Rarely,Yes,Don't know,Don't know,Yes,Yes,Good,Somewhat knowledgeable
+3,No,N/A,Don't know,Don't know,No,Don't know,No,Poor,Not knowledgeable
+4,Yes,Rarely,Yes,Yes,Don't know,Don't know,Yes,Poor,Somewhat knowledgeable
+5,Yes,Sometimes,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+6,No,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+7,No,Never,No,No,No,No,Yes,Poor,Knowledgeable
+8,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+9,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+10,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+11,Yes,Rarely,No,Yes,No,No,Yes,Poor,Knowledgeable
+12,No,Rarely,No,No,No,No,Yes,Poor,Knowledgeable
+13,No,N/A,No,Yes,No,No,No,Poor,Knowledgeable
+14,No,N/A,Yes,Yes,No,Don't know,No,Poor,Knowledgeable
+15,Yes,Rarely,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+16,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+17,No,N/A,Yes,Don't know,Don't know,Yes,No,Good,Somewhat knowledgeable
+18,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+19,No,Often,No,Don't know,No,No,Yes,Poor,Knowledgeable
+20,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+21,Yes,Sometimes,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+22,No,N/A,Don't know,Don't know,No,No,No,Poor,Somewhat knowledgeable
+23,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+24,Yes,Rarely,Yes,No,No,Don't know,Yes,Poor,Knowledgeable
+25,Yes,Often,No,Yes,No,No,Yes,Poor,Knowledgeable
+26,No,N/A,Don't know,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+27,No,N/A,Don't know,No,Don't know,Don't know,No,Poor,Not knowledgeable
+28,No,Never,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+29,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+30,Yes,Rarely,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+31,No,N/A,Don't know,No,No,No,No,Poor,Knowledgeable
+32,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+33,Yes,Often,Don't know,No,No,No,Yes,Poor,Knowledgeable
+34,Yes,Sometimes,Don't know,Don't know,Yes,Yes,Yes,Good,Somewhat knowledgeable
+35,No,Never,Yes,Don't know,No,Yes,Yes,Good,Knowledgeable
+36,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+37,No,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+38,No,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+39,Yes,Often,No,Don't know,No,No,Yes,Poor,Knowledgeable
+40,No,Sometimes,Yes,No,Don't know,Yes,Yes,Good,Knowledgeable
+41,No,Never,No,No,No,No,Yes,Poor,Knowledgeable
+42,No,Never,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+43,No,Rarely,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+44,No,N/A,No,No,No,Don't know,No,Poor,Knowledgeable
+45,No,Never,Don't know,Don't know,Yes,Don't know,Yes,Poor,Not knowledgeable
+46,No,N/A,No,Yes,No,No,No,Poor,Knowledgeable
+47,No,N/A,Yes,Yes,Yes,Yes,No,Good,Knowledgeable
+48,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+49,No,Never,Don't know,No,Don't know,Don't know,Yes,Poor,Not knowledgeable
+50,No,Sometimes,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+51,No,Never,Yes,Don't know,Yes,Don't know,Yes,Good,Somewhat knowledgeable
+52,No,Never,No,No,No,No,Yes,Poor,Knowledgeable
+53,No,N/A,Don't know,Don't know,No,No,No,Poor,Somewhat knowledgeable
+54,Yes,Rarely,Yes,Don't know,No,Don't know,Yes,Poor,Somewhat knowledgeable
+55,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+56,No,N/A,Don't know,No,No,Don't know,No,Poor,Somewhat knowledgeable
+57,No,Never,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+58,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+59,No,N/A,Don't know,No,No,No,No,Poor,Knowledgeable
+60,No,N/A,Yes,Yes,No,No,No,Poor,Knowledgeable
+61,Yes,Sometimes,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+62,No,Never,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+63,No,Rarely,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+64,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+65,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+66,Yes,Often,No,Yes,No,No,Yes,Poor,Knowledgeable
+67,No,Never,Yes,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+68,No,N/A,Don't know,No,Don't know,Don't know,No,Poor,Not knowledgeable
+69,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+70,No,Never,Yes,Don't know,Yes,Don't know,Yes,Good,Somewhat knowledgeable
+71,No,Rarely,Yes,Don't know,No,No,Yes,Poor,Knowledgeable
+72,Yes,Sometimes,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+73,Yes,Rarely,No,No,No,No,Yes,Poor,Knowledgeable
+74,No,Never,Yes,No,No,No,Yes,Poor,Knowledgeable
+75,Yes,Sometimes,Yes,No,Yes,Yes,Yes,Good,Knowledgeable
+76,Yes,Sometimes,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+77,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+78,Yes,Rarely,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+79,No,Never,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+80,No,N/A,Don't know,No,No,Don't know,No,Poor,Somewhat knowledgeable
+81,No,Never,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+82,Yes,Rarely,No,No,No,No,Yes,Poor,Knowledgeable
+83,No,N/A,Don't know,Don't know,No,Don't know,No,Poor,Not knowledgeable
+84,No,Never,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+85,No,N/A,Don't know,No,No,No,No,Poor,Knowledgeable
+86,Yes,Sometimes,Don't know,No,Don't know,Don't know,Yes,Poor,Not knowledgeable
+87,No,Often,Yes,No,No,No,Yes,Poor,Knowledgeable
+88,No,Never,Yes,No,Yes,Yes,Yes,Good,Knowledgeable
+89,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+90,Yes,Rarely,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+91,No,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+92,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+93,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+94,No,Rarely,No,Yes,No,No,Yes,Poor,Knowledgeable
+95,No,Never,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+96,No,N/A,No,Yes,No,No,No,Poor,Knowledgeable
+97,Yes,Never,Don't know,No,No,No,Yes,Poor,Knowledgeable
+98,No,Never,Don't know,No,No,No,Yes,Poor,Knowledgeable
+99,Yes,Often,Yes,Don't know,No,No,Yes,Poor,Knowledgeable
+100,No,N/A,Don't know,No,No,Don't know,No,Poor,Somewhat knowledgeable
+101,No,N/A,Don't know,No,Don't know,No,No,Poor,Somewhat knowledgeable
+102,Yes,Sometimes,Don't know,No,Don't know,Don't know,Yes,Poor,Not knowledgeable
+103,No,N/A,Don't know,Don't know,No,Don't know,No,Poor,Not knowledgeable
+104,No,Never,No,No,No,No,Yes,Poor,Knowledgeable
+105,Yes,Rarely,No,Yes,Yes,Yes,Yes,Good,Knowledgeable
+106,No,N/A,Don't know,Don't know,No,Don't know,No,Poor,Not knowledgeable
+107,No,Never,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+108,No,Rarely,No,No,No,No,Yes,Poor,Knowledgeable
+109,No,Never,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+110,Yes,Sometimes,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+111,Yes,Rarely,No,Yes,No,No,Yes,Poor,Knowledgeable
+112,Yes,Sometimes,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+113,Yes,Sometimes,Yes,No,No,No,Yes,Poor,Knowledgeable
+114,No,Never,Yes,No,No,Yes,Yes,Good,Knowledgeable
+115,No,Rarely,Don't know,No,No,No,Yes,Poor,Knowledgeable
+116,No,Never,No,No,No,No,Yes,Poor,Knowledgeable
+117,No,N/A,No,Yes,No,No,No,Poor,Knowledgeable
+118,No,Rarely,Don't know,Don't know,Yes,Don't know,Yes,Poor,Not knowledgeable
+119,Yes,Sometimes,Yes,Yes,Don't know,Don't know,Yes,Poor,Somewhat knowledgeable
+120,Yes,Never,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+121,No,N/A,Don't know,No,No,Don't know,No,Poor,Somewhat knowledgeable
+122,No,Never,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+123,Yes,Often,Yes,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+124,Yes,Sometimes,Yes,No,No,No,Yes,Poor,Knowledgeable
+125,No,N/A,Don't know,No,No,No,No,Poor,Knowledgeable
+126,No,Never,No,No,No,No,Yes,Poor,Knowledgeable
+127,No,Never,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+128,Yes,Sometimes,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+129,Yes,Often,Yes,Don't know,No,Don't know,Yes,Poor,Somewhat knowledgeable
+130,No,N/A,Yes,No,No,No,No,Poor,Knowledgeable
+131,No,Sometimes,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+132,No,N/A,No,Yes,No,No,No,Poor,Knowledgeable
+133,No,N/A,Don't know,No,No,No,No,Poor,Knowledgeable
+134,Yes,Never,Yes,Don't know,Don't know,No,Yes,Poor,Somewhat knowledgeable
+135,Yes,Sometimes,Yes,No,No,No,Yes,Poor,Knowledgeable
+136,No,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+137,Yes,Rarely,No,No,No,No,Yes,Poor,Knowledgeable
+138,No,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+139,No,Never,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+140,No,Rarely,Yes,No,No,No,Yes,Poor,Knowledgeable
+141,No,N/A,Yes,Yes,No,No,No,Poor,Knowledgeable
+142,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+143,Yes,Sometimes,Yes,No,No,No,Yes,Poor,Knowledgeable
+144,Yes,Often,No,Don't know,No,No,Yes,Poor,Knowledgeable
+145,No,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+146,No,N/A,Don't know,No,Don't know,Don't know,No,Poor,Not knowledgeable
+147,Yes,Sometimes,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+148,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+149,Yes,Often,No,Yes,No,No,Yes,Poor,Knowledgeable
+150,No,Never,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+151,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+152,No,N/A,Yes,Yes,Yes,Yes,No,Good,Knowledgeable
+153,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+154,No,N/A,Yes,Don't know,No,No,No,Poor,Knowledgeable
+155,No,N/A,Yes,No,No,No,No,Poor,Knowledgeable
+156,No,N/A,Don't know,No,No,No,No,Poor,Knowledgeable
+157,No,Rarely,Don't know,No,No,No,Yes,Poor,Knowledgeable
+158,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+159,No,Never,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+160,No,N/A,Don't know,No,Don't know,No,No,Poor,Somewhat knowledgeable
+161,No,Rarely,No,Yes,No,No,Yes,Poor,Knowledgeable
+162,No,Never,Yes,Don't know,No,Don't know,Yes,Poor,Somewhat knowledgeable
+163,Yes,Sometimes,Yes,No,No,Yes,Yes,Good,Knowledgeable
+164,Yes,Rarely,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+165,No,Sometimes,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+166,No,N/A,Don't know,No,Don't know,Don't know,No,Poor,Not knowledgeable
+167,No,Never,No,No,No,No,Yes,Poor,Knowledgeable
+168,Yes,Often,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+169,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+170,No,N/A,Don't know,No,No,No,No,Poor,Knowledgeable
+171,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+172,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+173,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+174,No,Never,Yes,Yes,Don't know,Don't know,Yes,Poor,Somewhat knowledgeable
+175,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+176,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+177,No,N/A,Yes,No,No,Don't know,No,Poor,Knowledgeable
+178,Yes,Rarely,Yes,Yes,Yes,Don't know,Yes,Good,Knowledgeable
+179,No,Sometimes,Don't know,No,Don't know,Don't know,Yes,Poor,Not knowledgeable
+180,No,Often,No,No,No,No,Yes,Poor,Knowledgeable
+181,Yes,Sometimes,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+182,No,Never,No,Yes,No,Yes,Yes,Poor,Knowledgeable
+183,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+184,Yes,Often,No,Yes,No,No,Yes,Poor,Knowledgeable
+185,Yes,Rarely,Yes,No,No,No,Yes,Poor,Knowledgeable
+186,No,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+187,Yes,Sometimes,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+188,Yes,Rarely,No,Yes,No,No,Yes,Poor,Knowledgeable
+189,No,N/A,No,Yes,No,Don't know,No,Poor,Knowledgeable
+190,Yes,Sometimes,Yes,Yes,Don't know,No,Yes,Poor,Knowledgeable
+191,Yes,Often,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+192,No,Never,No,No,No,No,Yes,Poor,Knowledgeable
+193,No,N/A,Yes,Yes,Yes,Yes,No,Good,Knowledgeable
+194,No,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+195,Yes,Rarely,Yes,No,No,No,Yes,Poor,Knowledgeable
+196,No,N/A,Yes,No,Yes,Yes,No,Good,Knowledgeable
+197,No,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+198,No,Sometimes,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+199,No,Never,No,No,No,No,Yes,Poor,Knowledgeable
+200,Yes,Sometimes,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+201,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+202,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+203,Yes,Rarely,Yes,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+204,No,Never,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+205,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+206,Yes,Rarely,Yes,Yes,Yes,Don't know,Yes,Good,Knowledgeable
+207,No,Never,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+208,Yes,Sometimes,Yes,Yes,Don't know,Don't know,Yes,Poor,Somewhat knowledgeable
+209,No,Never,Yes,No,No,Don't know,Yes,Poor,Knowledgeable
+210,Yes,Never,Yes,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+211,No,N/A,Don't know,Don't know,No,Don't know,No,Poor,Not knowledgeable
+212,Yes,Sometimes,Yes,Yes,Yes,Don't know,Yes,Good,Knowledgeable
+213,No,N/A,Yes,No,Don't know,Yes,No,Good,Knowledgeable
+214,Yes,Sometimes,Yes,No,Yes,Yes,Yes,Good,Knowledgeable
+215,No,Never,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+216,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+217,Yes,Sometimes,Yes,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+218,No,Rarely,Yes,Don't know,No,Don't know,Yes,Poor,Somewhat knowledgeable
+219,Yes,Rarely,Yes,Yes,Don't know,Yes,Yes,Good,Knowledgeable
+220,Yes,Often,Yes,No,No,Don't know,Yes,Poor,Knowledgeable
+221,Yes,Rarely,Yes,Don't know,No,No,Yes,Poor,Knowledgeable
+222,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+223,No,N/A,Don't know,Don't know,No,Don't know,No,Poor,Not knowledgeable
+224,No,Sometimes,Yes,Don't know,Yes,Yes,Yes,Good,Knowledgeable
+225,Yes,Rarely,Yes,Don't know,Don't know,Yes,Yes,Good,Somewhat knowledgeable
+226,Yes,Sometimes,Yes,Don't know,No,Don't know,Yes,Poor,Somewhat knowledgeable
+227,No,N/A,Don't know,No,Don't know,Don't know,No,Poor,Not knowledgeable
+228,Yes,Often,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+229,No,N/A,No,Yes,No,No,No,Poor,Knowledgeable
+230,Yes,Rarely,Yes,Yes,Don't know,Yes,Yes,Good,Knowledgeable
+231,Yes,Sometimes,Yes,No,No,Don't know,Yes,Poor,Knowledgeable
+232,No,Never,Yes,Don't know,Don't know,Yes,Yes,Good,Somewhat knowledgeable
+233,Yes,Sometimes,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+234,Yes,Rarely,Yes,No,Don't know,No,Yes,Poor,Knowledgeable
+235,No,N/A,Don't know,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+236,No,Never,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+237,Yes,Sometimes,Don't know,Don't know,Don't know,Yes,Yes,Poor,Not knowledgeable
+238,No,N/A,Yes,Don't know,Yes,Yes,No,Good,Knowledgeable
+239,Yes,Sometimes,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+240,No,Never,Yes,Don't know,Yes,Don't know,Yes,Good,Somewhat knowledgeable
+241,Yes,Sometimes,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+242,No,N/A,Yes,Yes,Don't know,Don't know,No,Poor,Somewhat knowledgeable
+243,No,N/A,Yes,Yes,Yes,Yes,No,Good,Knowledgeable
+244,No,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+245,No,Sometimes,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+246,No,N/A,Don't know,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+247,No,Rarely,Don't know,No,No,No,Yes,Poor,Knowledgeable
+248,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+249,Yes,Never,Don't know,No,Yes,Yes,Yes,Good,Knowledgeable
+250,No,Sometimes,Don't know,No,Don't know,Don't know,Yes,Poor,Not knowledgeable
+251,Yes,Sometimes,Yes,Yes,Don't know,Don't know,Yes,Poor,Somewhat knowledgeable
+252,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+253,No,Never,No,No,No,Don't know,Yes,Poor,Knowledgeable
+254,Yes,Often,Yes,Don't know,Don't know,Yes,Yes,Good,Somewhat knowledgeable
+255,No,Sometimes,Yes,Yes,Yes,No,Yes,Good,Knowledgeable
+256,Yes,Sometimes,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+257,Yes,Sometimes,Yes,Yes,Don't know,Yes,Yes,Good,Knowledgeable
+258,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+259,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+260,Yes,Often,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+261,Yes,Sometimes,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+262,No,N/A,Yes,No,Yes,Yes,No,Good,Knowledgeable
+263,Yes,Often,No,Yes,No,No,Yes,Poor,Knowledgeable
+264,Yes,Rarely,Yes,No,No,Don't know,Yes,Poor,Knowledgeable
+265,No,N/A,Yes,No,Yes,Yes,No,Good,Knowledgeable
+266,Yes,Often,Yes,No,Yes,Yes,Yes,Good,Knowledgeable
+267,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+268,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+269,Yes,Rarely,Don't know,Don't know,Don't know,No,Yes,Poor,Not knowledgeable
+270,Yes,Never,Yes,Yes,Don't know,Don't know,Yes,Poor,Somewhat knowledgeable
+271,Yes,Rarely,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+272,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+273,Yes,Never,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+274,Yes,Never,Yes,Don't know,No,Don't know,Yes,Poor,Somewhat knowledgeable
+275,Yes,Rarely,Yes,No,Yes,Yes,Yes,Good,Knowledgeable
+276,Yes,Sometimes,Yes,No,No,No,Yes,Poor,Knowledgeable
+277,Yes,Often,No,No,No,No,Yes,Poor,Knowledgeable
+278,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+279,Yes,Rarely,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+280,No,Never,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+281,Yes,Sometimes,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+282,Yes,Rarely,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+283,No,Never,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+284,Yes,Often,Don't know,No,Don't know,Don't know,Yes,Poor,Not knowledgeable
+285,No,N/A,Don't know,No,No,No,No,Poor,Knowledgeable
+286,No,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+287,No,Never,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+288,Yes,Sometimes,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+289,Yes,Often,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+290,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+291,No,N/A,Don't know,No,No,Don't know,No,Poor,Somewhat knowledgeable
+292,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+293,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+294,No,N/A,Yes,Yes,No,Yes,No,Good,Knowledgeable
+295,Yes,Never,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+296,No,N/A,Don't know,No,Don't know,Don't know,No,Poor,Not knowledgeable
+297,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+298,Yes,Often,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+299,No,Never,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+300,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+301,Yes,Sometimes,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+302,No,Often,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+303,Yes,Sometimes,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+304,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+305,No,Never,No,No,No,No,Yes,Poor,Knowledgeable
+306,Yes,Sometimes,No,Yes,No,Don't know,Yes,Poor,Knowledgeable
+307,Yes,Rarely,Yes,No,No,No,Yes,Poor,Knowledgeable
+308,No,N/A,Don't know,No,Don't know,No,No,Poor,Somewhat knowledgeable
+309,Yes,Sometimes,Yes,Yes,Yes,No,Yes,Good,Knowledgeable
+310,Yes,Sometimes,No,No,No,Don't know,Yes,Poor,Knowledgeable
+311,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+312,No,N/A,Yes,Yes,Yes,Yes,No,Good,Knowledgeable
+313,Yes,Rarely,No,No,No,No,Yes,Poor,Knowledgeable
+314,No,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+315,Yes,Sometimes,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+316,No,Never,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+317,No,N/A,Don't know,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+318,No,N/A,Don't know,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+319,Yes,Sometimes,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+320,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+321,No,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+322,No,Rarely,Yes,No,Yes,Don't know,Yes,Good,Knowledgeable
+323,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+324,No,N/A,Yes,No,Don't know,No,No,Poor,Knowledgeable
+325,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+326,No,Often,Yes,No,No,Don't know,Yes,Poor,Knowledgeable
+327,No,N/A,Yes,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+328,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+329,Yes,Rarely,Yes,Yes,Yes,No,Yes,Good,Knowledgeable
+330,No,Never,Yes,Yes,Yes,Don't know,Yes,Good,Knowledgeable
+331,Yes,Often,Yes,Yes,Yes,No,Yes,Good,Knowledgeable
+332,Yes,Sometimes,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+333,Yes,Sometimes,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+334,No,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+335,No,Rarely,No,Yes,No,No,Yes,Poor,Knowledgeable
+336,No,Never,Yes,No,No,No,Yes,Poor,Knowledgeable
+337,No,Never,No,No,No,No,Yes,Poor,Knowledgeable
+338,No,N/A,Yes,No,No,No,No,Poor,Knowledgeable
+339,No,N/A,Don't know,No,Don't know,Don't know,No,Poor,Not knowledgeable
+340,No,Never,Yes,Don't know,Yes,Yes,Yes,Good,Knowledgeable
+341,No,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+342,No,Never,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+343,Yes,Sometimes,Don't know,No,Yes,Don't know,Yes,Poor,Somewhat knowledgeable
+344,Yes,Rarely,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+345,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+346,No,Never,No,Yes,No,No,Yes,Poor,Knowledgeable
+347,Yes,Rarely,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+348,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+349,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+350,No,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+351,Yes,Sometimes,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+352,No,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+353,Yes,Sometimes,Yes,Don't know,Yes,Yes,Yes,Good,Knowledgeable
+354,Yes,Sometimes,No,Don't know,No,No,Yes,Poor,Knowledgeable
+355,No,N/A,Don't know,Don't know,No,No,No,Poor,Somewhat knowledgeable
+356,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+357,Yes,Sometimes,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+358,Yes,Rarely,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+359,No,Never,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+360,Yes,Sometimes,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+361,No,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+362,No,N/A,Yes,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+363,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+364,No,N/A,Don't know,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+365,Yes,Often,Yes,Don't know,Don't know,No,Yes,Poor,Somewhat knowledgeable
+366,No,Rarely,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+367,Yes,N/A,Yes,Yes,No,No,No,Poor,Knowledgeable
+368,No,N/A,No,Don't know,No,Don't know,No,Poor,Somewhat knowledgeable
+369,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+370,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+371,Yes,Sometimes,Yes,No,No,No,Yes,Poor,Knowledgeable
+372,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+373,No,N/A,Yes,Don't know,Yes,Don't know,No,Good,Somewhat knowledgeable
+374,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+375,No,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+376,No,N/A,Don't know,Don't know,No,Don't know,No,Poor,Not knowledgeable
+377,No,Never,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+378,Yes,Sometimes,Yes,Don't know,Yes,Yes,Yes,Good,Knowledgeable
+379,No,N/A,Don't know,No,No,Don't know,No,Poor,Somewhat knowledgeable
+380,Yes,Rarely,Yes,Don't know,Yes,Yes,Yes,Good,Knowledgeable
+381,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+382,Yes,Often,No,Yes,No,No,Yes,Poor,Knowledgeable
+383,No,Never,Yes,Yes,Don't know,Yes,Yes,Good,Knowledgeable
+384,No,Rarely,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+385,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+386,Yes,Sometimes,No,Yes,Yes,No,Yes,Poor,Knowledgeable
+387,Yes,Sometimes,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+388,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+389,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+390,No,Rarely,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+391,No,Never,Don't know,Don't know,Don't know,No,Yes,Poor,Not knowledgeable
+392,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+393,Yes,Often,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+394,Yes,Never,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+395,No,Never,Don't know,No,No,No,Yes,Poor,Knowledgeable
+396,Yes,Sometimes,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+397,Yes,Rarely,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+398,No,Never,Don't know,No,No,No,Yes,Poor,Knowledgeable
+399,Yes,Often,Yes,No,No,Don't know,Yes,Poor,Knowledgeable
+400,Yes,Rarely,No,Don't know,No,No,Yes,Poor,Knowledgeable
+401,No,N/A,Don't know,Don't know,No,No,No,Poor,Somewhat knowledgeable
+402,No,Never,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+403,Yes,Sometimes,Yes,No,No,Yes,Yes,Good,Knowledgeable
+404,No,N/A,Yes,Yes,Yes,Yes,No,Good,Knowledgeable
+405,No,Often,No,No,Don't know,No,Yes,Poor,Knowledgeable
+406,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+407,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+408,Yes,Sometimes,No,Yes,Yes,No,Yes,Poor,Knowledgeable
+409,Yes,Rarely,No,No,No,No,Yes,Poor,Knowledgeable
+410,No,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+411,No,N/A,Don't know,No,Don't know,Don't know,No,Poor,Not knowledgeable
+412,Yes,Sometimes,No,Don't know,No,Don't know,Yes,Poor,Somewhat knowledgeable
+413,No,N/A,Don't know,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+414,Yes,Sometimes,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+415,No,Never,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+416,Yes,Rarely,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+417,No,Never,No,No,No,No,Yes,Poor,Knowledgeable
+418,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+419,Yes,Sometimes,Yes,Don't know,Yes,Don't know,Yes,Good,Somewhat knowledgeable
+420,Yes,Sometimes,Yes,No,No,Yes,Yes,Good,Knowledgeable
+421,No,Sometimes,Yes,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+422,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+423,Yes,Rarely,No,Yes,No,No,Yes,Poor,Knowledgeable
+424,Yes,Often,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+425,No,Sometimes,Don't know,Don't know,Don't know,Yes,Yes,Poor,Not knowledgeable
+426,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+427,No,Never,No,Yes,No,No,Yes,Poor,Knowledgeable
+428,No,Never,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+429,No,N/A,Don't know,No,Don't know,No,No,Poor,Somewhat knowledgeable
+430,No,Sometimes,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+431,Yes,Often,Yes,No,No,No,Yes,Poor,Knowledgeable
+432,No,N/A,Don't know,No,No,Don't know,No,Poor,Somewhat knowledgeable
+433,No,Never,No,Yes,No,No,Yes,Poor,Knowledgeable
+434,No,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+435,Yes,Often,No,No,No,No,Yes,Poor,Knowledgeable
+436,No,Never,Yes,Yes,Yes,No,Yes,Good,Knowledgeable
+437,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+438,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+439,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+440,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+441,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+442,Yes,Sometimes,Yes,Don't know,Yes,Yes,Yes,Good,Knowledgeable
+443,No,Never,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+444,No,Rarely,Yes,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+445,Yes,Sometimes,Yes,Don't know,No,No,Yes,Poor,Knowledgeable
+446,No,N/A,Don't know,No,No,Don't know,No,Poor,Somewhat knowledgeable
+447,No,N/A,Don't know,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+448,Yes,Rarely,No,No,No,Don't know,Yes,Poor,Knowledgeable
+449,No,Often,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+450,No,N/A,Yes,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+451,No,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+452,No,Sometimes,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+453,No,N/A,Don't know,No,No,No,No,Poor,Knowledgeable
+454,No,Never,No,No,No,No,Yes,Poor,Knowledgeable
+455,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+456,No,Sometimes,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+457,No,Rarely,Yes,No,No,No,Yes,Poor,Knowledgeable
+458,No,Never,Yes,No,Yes,Don't know,Yes,Good,Knowledgeable
+459,No,Often,No,Don't know,No,Don't know,Yes,Poor,Somewhat knowledgeable
+460,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+461,No,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+462,Yes,Often,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+463,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+464,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+465,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+466,No,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+467,Yes,Sometimes,Yes,Don't know,No,Don't know,Yes,Poor,Somewhat knowledgeable
+468,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+469,Yes,Rarely,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+470,No,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+471,Yes,Sometimes,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+472,No,Never,No,No,No,No,Yes,Poor,Knowledgeable
+473,Yes,Often,No,No,No,No,Yes,Poor,Knowledgeable
+474,No,N/A,Yes,Yes,No,No,No,Poor,Knowledgeable
+475,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+476,No,Never,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+477,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+478,No,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+479,No,Often,No,No,No,No,Yes,Poor,Knowledgeable
+480,Yes,Never,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+481,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+482,No,Rarely,No,No,No,No,Yes,Poor,Knowledgeable
+483,Yes,Sometimes,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+484,No,N/A,Don't know,No,No,Don't know,No,Poor,Somewhat knowledgeable
+485,No,Rarely,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+486,No,Never,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+487,No,Never,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+488,Yes,Sometimes,No,No,Don't know,No,Yes,Poor,Knowledgeable
+489,No,N/A,Don't know,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+490,No,Never,No,No,No,No,Yes,Poor,Knowledgeable
+491,No,N/A,Don't know,No,No,No,No,Poor,Knowledgeable
+492,No,Never,No,Don't know,No,Don't know,Yes,Poor,Somewhat knowledgeable
+493,No,Sometimes,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+494,No,N/A,Yes,Don't know,Don't know,Yes,No,Good,Somewhat knowledgeable
+495,No,Never,Don't know,No,Don't know,Don't know,Yes,Poor,Not knowledgeable
+496,No,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+497,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+498,Yes,Rarely,Don't know,No,No,No,Yes,Poor,Knowledgeable
+499,Yes,Often,Yes,Don't know,No,Yes,Yes,Good,Knowledgeable
+500,Yes,Rarely,No,No,No,No,Yes,Poor,Knowledgeable
+501,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+502,Yes,Sometimes,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+503,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+504,Yes,Sometimes,Yes,Don't know,Yes,Yes,Yes,Good,Knowledgeable
+505,No,N/A,Don't know,No,No,No,No,Poor,Knowledgeable
+506,Yes,Sometimes,Don't know,Don't know,Yes,Don't know,Yes,Poor,Not knowledgeable
+507,Yes,Sometimes,Yes,No,No,No,Yes,Poor,Knowledgeable
+508,No,Never,No,No,No,No,Yes,Poor,Knowledgeable
+509,No,N/A,Don't know,No,No,Don't know,No,Poor,Somewhat knowledgeable
+510,No,N/A,Yes,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+511,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+512,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+513,No,N/A,Don't know,No,No,Don't know,No,Poor,Somewhat knowledgeable
+514,No,N/A,No,No,No,Don't know,No,Poor,Knowledgeable
+515,Yes,Sometimes,Yes,Yes,Don't know,Don't know,Yes,Poor,Somewhat knowledgeable
+516,Yes,Rarely,Don't know,No,No,No,Yes,Poor,Knowledgeable
+517,No,Never,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+518,No,N/A,Don't know,Don't know,No,Don't know,No,Poor,Not knowledgeable
+519,Yes,Often,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+520,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+521,No,N/A,Don't know,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+522,No,Never,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+523,No,Never,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+524,No,N/A,Yes,Yes,Don't know,Yes,No,Good,Knowledgeable
+525,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+526,No,N/A,Yes,Don't know,No,Don't know,No,Poor,Somewhat knowledgeable
+527,No,N/A,Don't know,No,No,No,No,Poor,Knowledgeable
+528,No,N/A,No,Yes,No,No,No,Poor,Knowledgeable
+529,Yes,Never,Don't know,No,Yes,Don't know,Yes,Poor,Somewhat knowledgeable
+530,No,Never,No,No,No,No,Yes,Poor,Knowledgeable
+531,No,Rarely,Don't know,No,No,No,Yes,Poor,Knowledgeable
+532,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+533,Yes,Often,No,No,No,No,Yes,Poor,Knowledgeable
+534,No,N/A,No,No,Yes,No,No,Poor,Knowledgeable
+535,No,N/A,Don't know,Don't know,No,No,No,Poor,Somewhat knowledgeable
+536,No,N/A,Don't know,Don't know,No,No,No,Poor,Somewhat knowledgeable
+537,Yes,Sometimes,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+538,No,N/A,No,No,No,Yes,No,Poor,Knowledgeable
+539,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+540,No,N/A,No,Yes,No,No,No,Poor,Knowledgeable
+541,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+542,Yes,Sometimes,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+543,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+544,No,N/A,Yes,Don't know,No,Don't know,No,Poor,Somewhat knowledgeable
+545,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+546,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+547,Yes,Sometimes,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+548,No,N/A,Yes,Yes,No,No,No,Poor,Knowledgeable
+549,No,N/A,Don't know,Don't know,Yes,Yes,No,Good,Somewhat knowledgeable
+550,Yes,Sometimes,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+551,No,Never,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+552,Yes,Sometimes,Yes,No,Yes,Don't know,Yes,Good,Knowledgeable
+553,No,Rarely,No,No,No,No,Yes,Poor,Knowledgeable
+554,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+555,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+556,Yes,Sometimes,Don't know,Don't know,Yes,Don't know,Yes,Poor,Not knowledgeable
+557,No,Never,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+558,Yes,Never,Yes,No,No,No,Yes,Poor,Knowledgeable
+559,No,Never,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+560,Yes,Rarely,No,No,No,No,Yes,Poor,Knowledgeable
+561,No,Sometimes,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+562,No,N/A,Don't know,Don't know,No,Yes,No,Poor,Somewhat knowledgeable
+563,No,N/A,Don't know,No,No,No,No,Poor,Knowledgeable
+564,Yes,Never,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+565,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+566,Yes,Sometimes,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+567,No,N/A,Don't know,No,No,No,No,Poor,Knowledgeable
+568,Yes,Sometimes,Yes,Yes,Don't know,Don't know,Yes,Poor,Somewhat knowledgeable
+569,Yes,Never,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+570,No,Rarely,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+571,Yes,Sometimes,Yes,Yes,Don't know,Don't know,Yes,Poor,Somewhat knowledgeable
+572,Yes,Often,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+573,Yes,Sometimes,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+574,No,Never,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+575,Yes,Often,Yes,No,No,Don't know,Yes,Poor,Knowledgeable
+576,No,N/A,Don't know,No,No,No,No,Poor,Knowledgeable
+577,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+578,Yes,Sometimes,Don't know,No,Don't know,Don't know,Yes,Poor,Not knowledgeable
+579,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+580,No,N/A,Yes,No,No,No,No,Poor,Knowledgeable
+581,No,N/A,Yes,Yes,Yes,Yes,No,Good,Knowledgeable
+582,No,N/A,Don't know,Don't know,No,Don't know,No,Poor,Not knowledgeable
+583,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+584,No,N/A,Don't know,No,No,Don't know,No,Poor,Somewhat knowledgeable
+585,No,N/A,Don't know,Don't know,No,Don't know,No,Poor,Not knowledgeable
+586,No,Sometimes,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+587,No,Never,Don't know,No,No,No,Yes,Poor,Knowledgeable
+588,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+589,Yes,Never,No,Yes,No,No,Yes,Poor,Knowledgeable
+590,No,Sometimes,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+591,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+592,No,Never,No,Yes,No,No,Yes,Poor,Knowledgeable
+593,No,N/A,Don't know,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+594,No,N/A,Yes,No,Yes,Yes,No,Good,Knowledgeable
+595,No,Often,Don't know,No,No,No,Yes,Poor,Knowledgeable
+596,No,Never,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+597,Yes,Rarely,Don't know,No,No,No,Yes,Poor,Knowledgeable
+598,No,Never,Yes,Don't know,No,Don't know,Yes,Poor,Somewhat knowledgeable
+599,Yes,Rarely,No,Yes,No,No,Yes,Poor,Knowledgeable
+600,Yes,Rarely,Yes,Don't know,Don't know,No,Yes,Poor,Somewhat knowledgeable
+601,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+602,Yes,Often,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+603,No,N/A,Don't know,No,No,Don't know,No,Poor,Somewhat knowledgeable
+604,No,Rarely,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+605,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+606,No,Sometimes,Don't know,Don't know,Yes,Don't know,Yes,Poor,Not knowledgeable
+607,No,Sometimes,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+608,Yes,Sometimes,Don't know,No,Yes,Don't know,Yes,Poor,Somewhat knowledgeable
+609,No,Rarely,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+610,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+611,No,N/A,Yes,Yes,No,Don't know,No,Poor,Knowledgeable
+612,No,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+613,No,N/A,Don't know,Don't know,No,No,No,Poor,Somewhat knowledgeable
+614,No,N/A,Yes,Yes,Yes,Yes,No,Good,Knowledgeable
+615,No,Never,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+616,No,N/A,Don't know,Don't know,Don't know,No,No,Poor,Not knowledgeable
+617,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+618,Yes,Often,No,Yes,No,No,Yes,Poor,Knowledgeable
+619,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+620,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+621,No,N/A,No,Yes,No,No,No,Poor,Knowledgeable
+622,Yes,Rarely,Yes,Yes,Don't know,Yes,Yes,Good,Knowledgeable
+623,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+624,No,N/A,Don't know,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+625,No,N/A,Yes,No,Yes,No,No,Good,Knowledgeable
+626,Yes,Never,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+627,Yes,Sometimes,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+628,No,Never,Yes,Yes,Don't know,Don't know,Yes,Poor,Somewhat knowledgeable
+629,No,Never,Yes,No,Yes,Don't know,Yes,Good,Knowledgeable
+630,Yes,Sometimes,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+631,Yes,Rarely,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+632,No,Sometimes,Yes,No,Yes,Yes,Yes,Good,Knowledgeable
+633,No,N/A,Don't know,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+634,No,Never,Yes,No,Don't know,Yes,Yes,Good,Knowledgeable
+635,Yes,Often,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+636,No,Never,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+637,No,Sometimes,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+638,Yes,Rarely,No,No,No,No,Yes,Poor,Knowledgeable
+639,Yes,Sometimes,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+640,No,N/A,Yes,No,Yes,Yes,No,Good,Knowledgeable
+641,Yes,Sometimes,Yes,Yes,Yes,No,Yes,Good,Knowledgeable
+642,Yes,Rarely,Yes,Yes,Don't know,Don't know,Yes,Poor,Somewhat knowledgeable
+643,Yes,Never,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+644,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+645,Yes,Rarely,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+646,Yes,Often,No,No,No,No,Yes,Poor,Knowledgeable
+647,Yes,Sometimes,Don't know,Yes,No,Yes,Yes,Poor,Knowledgeable
+648,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+649,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+650,No,N/A,Yes,Yes,Yes,Yes,No,Good,Knowledgeable
+651,Yes,Often,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+652,No,Sometimes,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+653,No,N/A,Yes,No,Don't know,Don't know,No,Poor,Somewhat knowledgeable
+654,No,Sometimes,Yes,No,Yes,No,Yes,Good,Knowledgeable
+655,No,N/A,Yes,Yes,Yes,Yes,No,Good,Knowledgeable
+656,No,N/A,Yes,No,No,No,No,Poor,Knowledgeable
+657,No,Never,Don't know,No,Don't know,Don't know,Yes,Poor,Not knowledgeable
+658,No,Often,Don't know,No,No,Yes,Yes,Poor,Knowledgeable
+659,Yes,Sometimes,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+660,Yes,Sometimes,No,Don't know,No,No,Yes,Poor,Knowledgeable
+661,Yes,Sometimes,Don't know,Don't know,No,Yes,Yes,Poor,Somewhat knowledgeable
+662,Yes,Often,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+663,Yes,N/A,Don't know,No,No,Don't know,No,Poor,Somewhat knowledgeable
+664,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+665,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+666,Yes,Rarely,Yes,Yes,Don't know,Don't know,Yes,Poor,Somewhat knowledgeable
+667,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+668,Yes,Sometimes,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+669,No,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+670,Yes,Sometimes,Don't know,No,Don't know,Don't know,Yes,Poor,Not knowledgeable
+671,Yes,Often,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+672,Yes,Rarely,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+673,Yes,Sometimes,Yes,Yes,Don't know,Yes,Yes,Good,Knowledgeable
+674,Yes,Sometimes,Yes,Yes,Don't know,Don't know,Yes,Poor,Somewhat knowledgeable
+675,Yes,Rarely,No,Yes,No,No,Yes,Poor,Knowledgeable
+676,Yes,Rarely,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+677,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+678,Yes,Often,Don't know,Don't know,Yes,No,Yes,Poor,Somewhat knowledgeable
+679,Yes,Rarely,Yes,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+680,No,N/A,Don't know,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+681,No,N/A,Don't know,No,No,No,No,Poor,Knowledgeable
+682,No,Never,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+683,No,Sometimes,No,Don't know,No,No,Yes,Poor,Knowledgeable
+684,Yes,Rarely,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+685,No,Never,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+686,No,N/A,Don't know,Don't know,No,No,No,Poor,Somewhat knowledgeable
+687,No,N/A,Don't know,No,Don't know,Don't know,No,Poor,Not knowledgeable
+688,No,Never,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+689,No,Never,Yes,No,No,No,Yes,Poor,Knowledgeable
+690,Yes,Often,No,No,No,No,Yes,Poor,Knowledgeable
+691,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+692,Yes,Often,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+693,No,Never,Yes,Don't know,Yes,No,Yes,Good,Knowledgeable
+694,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+695,No,Rarely,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+696,No,Often,No,No,No,No,Yes,Poor,Knowledgeable
+697,No,Sometimes,Yes,Don't know,Yes,Yes,Yes,Good,Knowledgeable
+698,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+699,No,N/A,Yes,No,No,Yes,No,Good,Knowledgeable
+700,Yes,Sometimes,Yes,Yes,Yes,Don't know,Yes,Good,Knowledgeable
+701,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+702,Yes,Rarely,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+703,No,Rarely,No,No,No,No,Yes,Poor,Knowledgeable
+704,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+705,Yes,Often,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+706,Yes,Sometimes,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+707,Yes,Often,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+708,Yes,Sometimes,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+709,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+710,No,Never,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+711,No,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+712,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+713,No,N/A,Don't know,Don't know,No,No,No,Poor,Somewhat knowledgeable
+714,No,Sometimes,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+715,No,Sometimes,Yes,Don't know,Yes,Yes,Yes,Good,Knowledgeable
+716,No,N/A,Don't know,Don't know,No,No,No,Poor,Somewhat knowledgeable
+717,No,N/A,Don't know,Don't know,No,No,No,Poor,Somewhat knowledgeable
+718,Yes,Sometimes,Yes,No,No,No,Yes,Poor,Knowledgeable
+719,No,Rarely,Don't know,No,No,No,Yes,Poor,Knowledgeable
+720,No,Never,Don't know,No,No,No,Yes,Poor,Knowledgeable
+721,No,Never,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+722,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+723,No,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+724,Yes,Sometimes,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+725,No,Never,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+726,No,Sometimes,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+727,No,Never,Yes,Yes,Yes,No,Yes,Good,Knowledgeable
+728,No,N/A,Don't know,Don't know,No,No,No,Poor,Somewhat knowledgeable
+729,Yes,Rarely,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+730,Yes,Often,No,No,No,No,Yes,Poor,Knowledgeable
+731,No,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+732,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+733,No,Sometimes,No,Don't know,No,No,Yes,Poor,Knowledgeable
+734,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+735,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+736,No,N/A,Yes,No,Don't know,Yes,No,Good,Knowledgeable
+737,Yes,Sometimes,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+738,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+739,Yes,Sometimes,Yes,Don't know,No,No,Yes,Poor,Knowledgeable
+740,Yes,Sometimes,No,Don't know,No,No,Yes,Poor,Knowledgeable
+741,No,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+742,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+743,Yes,Often,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+744,No,Never,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+745,Yes,Sometimes,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+746,No,Never,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+747,Yes,Often,Yes,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+748,Yes,Rarely,Yes,Yes,Don't know,Yes,Yes,Good,Knowledgeable
+749,Yes,Sometimes,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+750,Yes,Often,Don't know,No,No,No,Yes,Poor,Knowledgeable
+751,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+752,No,Never,Yes,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+753,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+754,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+755,No,Sometimes,Yes,Don't know,No,Yes,Yes,Good,Knowledgeable
+756,No,Rarely,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+757,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+758,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+759,Yes,Often,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+760,Yes,Sometimes,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+761,Yes,Often,No,Yes,No,No,Yes,Poor,Knowledgeable
+762,Yes,Often,Don't know,Don't know,Don't know,Yes,Yes,Poor,Not knowledgeable
+763,No,N/A,Don't know,No,No,No,No,Poor,Knowledgeable
+764,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+765,Yes,Sometimes,Yes,Yes,Yes,Don't know,Yes,Good,Knowledgeable
+766,Yes,Sometimes,Yes,Yes,Don't know,Don't know,Yes,Poor,Somewhat knowledgeable
+767,Yes,Often,No,Yes,No,No,Yes,Poor,Knowledgeable
+768,Yes,Sometimes,Yes,Yes,Yes,Don't know,Yes,Good,Knowledgeable
+769,Yes,Sometimes,Yes,No,No,Yes,Yes,Good,Knowledgeable
+770,Yes,Rarely,Don't know,No,No,No,Yes,Poor,Knowledgeable
+771,Yes,Sometimes,Yes,Don't know,Yes,Don't know,Yes,Good,Somewhat knowledgeable
+772,No,Never,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+773,No,N/A,Yes,Don't know,No,Yes,No,Good,Knowledgeable
+774,No,Sometimes,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+775,No,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+776,No,Never,Yes,No,No,No,Yes,Poor,Knowledgeable
+777,Yes,Rarely,No,Yes,No,Don't know,Yes,Poor,Knowledgeable
+778,Yes,Rarely,No,No,Don't know,Don't know,Yes,Poor,Somewhat knowledgeable
+779,Yes,Often,Yes,Yes,Don't know,Don't know,Yes,Poor,Somewhat knowledgeable
+780,No,Often,No,No,No,No,Yes,Poor,Knowledgeable
+781,Yes,Sometimes,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+782,Yes,Often,Yes,No,No,No,Yes,Poor,Knowledgeable
+783,No,N/A,No,Don't know,No,No,No,Poor,Knowledgeable
+784,Yes,Sometimes,Don't know,No,Don't know,Don't know,Yes,Poor,Not knowledgeable
+785,No,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+786,Yes,Never,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+787,Yes,Sometimes,Don't know,Yes,No,Don't know,Yes,Poor,Somewhat knowledgeable
+788,No,Never,No,Yes,No,No,Yes,Poor,Knowledgeable
+789,Yes,Never,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+790,No,N/A,Don't know,Don't know,Don't know,Don't know,No,Poor,Not knowledgeable
+791,Yes,Sometimes,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+792,No,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+793,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+794,Yes,Rarely,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+795,No,Rarely,No,Yes,No,Yes,Yes,Poor,Knowledgeable
+796,No,Rarely,No,Yes,No,Yes,Yes,Poor,Knowledgeable
+797,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+798,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+799,Yes,Sometimes,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+800,Yes,Often,No,Yes,No,No,Yes,Poor,Knowledgeable
+801,No,Rarely,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+802,No,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+803,Yes,Sometimes,No,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+804,No,Rarely,Yes,Don't know,No,Don't know,Yes,Poor,Somewhat knowledgeable
+805,Yes,Sometimes,Yes,Yes,Yes,Yes,Yes,Good,Knowledgeable
+806,No,Never,No,No,No,No,Yes,Poor,Knowledgeable
+807,Yes,Rarely,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+808,Yes,Never,Don't know,Don't know,No,Don't know,Yes,Poor,Not knowledgeable
+809,Yes,Rarely,No,Yes,No,No,Yes,Poor,Knowledgeable
+810,No,Never,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+811,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+812,No,Never,Yes,No,No,Yes,Yes,Good,Knowledgeable
+813,No,N/A,Don't know,Don't know,No,No,No,Poor,Somewhat knowledgeable
+814,Yes,Sometimes,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+815,No,Sometimes,Yes,No,Yes,Don't know,Yes,Good,Knowledgeable
+816,No,Never,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+817,No,Often,No,No,No,No,Yes,Poor,Knowledgeable
+818,Yes,Sometimes,Yes,Yes,No,Don't know,Yes,Poor,Knowledgeable
+819,No,N/A,Don't know,Don't know,No,No,No,Poor,Somewhat knowledgeable
+820,Yes,Sometimes,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+821,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+822,No,N/A,Don't know,No,No,No,No,Poor,Knowledgeable
+823,Yes,Rarely,Yes,No,No,No,Yes,Poor,Knowledgeable
+824,No,Never,No,No,No,Don't know,Yes,Poor,Knowledgeable
+825,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+826,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+827,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+828,Yes,Often,No,Yes,No,No,Yes,Poor,Knowledgeable
+829,Yes,Sometimes,Yes,No,No,No,Yes,Poor,Knowledgeable
+830,No,N/A,Don't know,Don't know,No,No,No,Poor,Somewhat knowledgeable
+831,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+832,Yes,Sometimes,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+833,No,Sometimes,Yes,Don't know,Yes,Yes,Yes,Good,Knowledgeable
+834,No,Never,Don't know,No,No,No,Yes,Poor,Knowledgeable
+835,No,Never,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+836,No,N/A,Don't know,Don't know,No,No,No,Poor,Somewhat knowledgeable
+837,No,Rarely,Don't know,No,No,No,Yes,Poor,Knowledgeable
+838,Yes,Often,No,No,No,No,Yes,Poor,Knowledgeable
+839,Yes,Often,Yes,Don't know,No,Don't know,Yes,Poor,Somewhat knowledgeable
+840,No,N/A,Don't know,Don't know,No,Don't know,No,Poor,Not knowledgeable
+841,Yes,Often,No,Yes,No,No,Yes,Poor,Knowledgeable
+842,Yes,Rarely,Yes,No,No,No,Yes,Poor,Knowledgeable
+843,No,N/A,Don't know,Don't know,No,No,No,Poor,Somewhat knowledgeable
+844,Yes,Never,No,No,No,No,Yes,Poor,Knowledgeable
+845,Yes,Sometimes,No,No,No,No,Yes,Poor,Knowledgeable
+846,Yes,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+847,No,Often,No,Yes,No,No,Yes,Poor,Knowledgeable
+848,Yes,Sometimes,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+849,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+850,No,Never,Don't know,Don't know,No,No,Yes,Poor,Somewhat knowledgeable
+851,No,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+852,Yes,Often,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+853,No,N/A,No,Don't know,No,No,No,Poor,Knowledgeable
+854,No,Never,No,Yes,No,No,Yes,Poor,Knowledgeable
+855,No,N/A,No,Don't know,No,No,No,Poor,Knowledgeable
+856,Yes,Sometimes,Yes,No,Yes,Yes,Yes,Good,Knowledgeable
+857,Yes,Often,Don't know,No,No,No,Yes,Poor,Knowledgeable
+858,Yes,Sometimes,Don't know,Don't know,Don't know,Don't know,Yes,Poor,Not knowledgeable
+859,No,Never,Don't know,No,No,No,Yes,Poor,Knowledgeable
+860,Yes,Sometimes,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+861,Yes,Rarely,No,Yes,Yes,No,Yes,Poor,Knowledgeable
+862,No,Never,Yes,Yes,Don't know,Yes,Yes,Good,Knowledgeable
+863,Yes,Sometimes,Don't know,Yes,No,No,Yes,Poor,Knowledgeable
+864,No,N/A,No,No,No,No,No,Poor,Knowledgeable
+865,Yes,Sometimes,No,Yes,No,Yes,Yes,Poor,Knowledgeable
+866,Yes,Rarely,No,Yes,No,No,Yes,Poor,Knowledgeable
+867,Yes,Often,Yes,Yes,Yes,Don't know,Yes,Good,Knowledgeable
+868,Yes,Often,Don't know,No,Yes,Don't know,Yes,Poor,Somewhat knowledgeable
+869,No,Sometimes,No,Yes,No,No,Yes,Poor,Knowledgeable
+870,No,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+871,Yes,Sometimes,Don't know,No,No,No,Yes,Poor,Knowledgeable
+872,Yes,Rarely,Don't know,No,No,Don't know,Yes,Poor,Somewhat knowledgeable
+873,Yes,Rarely,Yes,Yes,No,Yes,Yes,Good,Knowledgeable
+874,No,Never,Yes,Don't know,Don't know,Yes,Yes,Good,Somewhat knowledgeable
+875,Yes,Often,No,No,No,No,Yes,Poor,Knowledgeable
+876,Yes,Sometimes,Yes,No,No,Don't know,Yes,Poor,Knowledgeable
+877,Yes,Sometimes,Yes,Yes,Don't know,No,Yes,Poor,Knowledgeable
+878,Yes,Sometimes,Yes,Yes,Yes,No,Yes,Good,Knowledgeable
+879,Yes,N/A,No,No,No,No,No,Poor,Knowledgeable
+880,Yes,Often,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+881,Yes,Sometimes,Yes,Yes,No,No,Yes,Poor,Knowledgeable
+882,No,N/A,No,Yes,No,No,No,Poor,Knowledgeable
