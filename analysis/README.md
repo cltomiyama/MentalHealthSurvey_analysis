@@ -58,7 +58,7 @@ Research question: Is there a correlation between the number of employees in a c
 **Research question:**What does this data tell us are the biggest factors that affects the mental health of employees?
 
 **Hypothesis:**
-    My prediction is that people are more likely to develop mental health issues as they age or especially as they dont go on leave. As people age to they tend to be alble to get more work benfits since they have accumulated more work experience and are therefore more likely will want to confine any issues with mental health as they may not able to disclose it to public. Some people of which recive benefits as well may not be developing mental health problems. 
+    My prediction is that people are more likely to develop mental health issues as they age or especially as they dont go on leave. As people age to they tend to be alble to get more work benfits since they have accumulated more work experience and are therefore more likely will want to confine any issues with mental health as they may not able to disclose it to public. Some people of which recive benefits as well may not be developing mental health problems. One largely contributing factor towards an employee developing mental health problems is the lack of presence of wellness programs that provide support to an employess mental health.
 
 **Anaysis:** 
 
@@ -107,7 +107,7 @@ Graph7: Emplyees that are in Wellnees programs are far less likely t develop men
 **Conclusion:** 
 
 Based of from the analysis carried out obove it is fair two say that the biggest factors that affect there being a consequence on an employees mental
-health are, companies that do not allow there employees to work remotly, do not give a chance to employees to go on work and being in a wellness program. Other more note worthy factors that are worth considereing is age and propably number of employees. Although as portrayed earlier in the research that has been carried out having a greater or lower number emplyees reveals an insufficient amount of information of weather an employees is likely to develop mental health problems. Being in a well ness program definely looks to have the most effect on employeees developing mental healh problems since the gets what ever support he needs buy talking about any mental health problems throught the program. Bassed of from this conclusion obtained from this analyais that has been carried out companies should be aware that having well ness programs from employees is essential for there mental health and well being. 
+health are, companies that do not allow there employees to work remotly, do not give a chance to employees to go on work leave and being in a wellness program. Other more note worthy factors that are worth considereing is age and propably number of employees. Although as portrayed earlier in the research that has been carried out having a greater or lower number emplyees reveals an insufficient amount of information of weather an employees is likely to develop mental health problems. Being in a well ness program definely looks to have the most effect on employeees developing mental healh problems since the gets what ever support he needs buy talking about any mental health problems throught the program. Bassed of from this conclusion obtained from this analyais that has been carried out companies should be aware that having well ness programs from employees is essential for there mental health and well being. 
 
 ## Gale
 
