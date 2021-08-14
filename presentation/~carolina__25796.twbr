@@ -1,0 +1,923 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20212.21.0712.0907                               -->
+<workbook source-build='2021.2.1 (20212.21.0712.0907)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='mht_processed_ct' inline='true' name='federated.10iqunx1diuart194mrd41moq84v' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='mht_processed_ct' name='textscan.0ca3iv31bzphi919sgilt0tau1fb'>
+            <connection class='textscan' cleaning='yes' compat='no' csvFile='C:/Users/cltom/OneDrive/Documents/COSC301/project-group37-project/data/processed/mht_processed_ct.csv' dataRefreshTime='' directory='C:/Users/alraw/Documents/COSC301/project-group37-project/data/processed' filename='mht_processed_ct.csv' interpretationMode='8' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0ca3iv31bzphi919sgilt0tau1fb' name='mht_processed_ct.csv' table='[mht_processed_ct#csv$]' type='table'>
+          <columns character-set='UTF-8' gridOrigin='A1:E1260:no:A1:E1260:1' header='no' locale='en_CA' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='Number of employees' ordinal='1' />
+            <column datatype='string' name='consequence' ordinal='2' />
+            <column datatype='string' name='coworkers' ordinal='3' />
+            <column datatype='string' name='supervisor' ordinal='4' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.0ca3iv31bzphi919sgilt0tau1fb' name='mht_processed_ct.csv' table='[mht_processed_ct#csv$]' type='table'>
+          <columns character-set='UTF-8' gridOrigin='A1:E1260:no:A1:E1260:1' header='no' locale='en_CA' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='Number of employees' ordinal='1' />
+            <column datatype='string' name='consequence' ordinal='2' />
+            <column datatype='string' name='coworkers' ordinal='3' />
+            <column datatype='string' name='supervisor' ordinal='4' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[mht_processed_ct.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:E1260:no:A1:E1260:1&quot;</attribute>
+              <attribute datatype='integer' name='lost'>0</attribute>
+              <attribute datatype='integer' name='outcome'>1</attribute>
+              <attribute datatype='integer' name='processed'>1259</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[mht_processed_ct.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Number of employees</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Number of employees]</local-name>
+            <parent-name>[mht_processed_ct.csv]</parent-name>
+            <remote-alias>Number of employees</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RCA_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>consequence</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[consequence]</local-name>
+            <parent-name>[mht_processed_ct.csv]</parent-name>
+            <remote-alias>consequence</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RCA_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>coworkers</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[coworkers]</local-name>
+            <parent-name>[mht_processed_ct.csv]</parent-name>
+            <remote-alias>coworkers</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RCA_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>supervisor</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[supervisor]</local-name>
+            <parent-name>[mht_processed_ct.csv]</parent-name>
+            <remote-alias>supervisor</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RCA_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[Number of employees]' role='dimension' type='nominal'>
+        <aliases>
+          <alias key='&quot;More than 1000&quot;' value='&gt; 1000' />
+        </aliases>
+      </column>
+      <_.fcp.ObjectModelTableType.true...column caption='mht_processed_ct.csv' datatype='table' name='[__tableau_internal_object_id__].[mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E]' role='measure' type='quantitative' />
+      <column caption='Mental health consequence' datatype='string' name='[consequence]' role='dimension' type='nominal' />
+      <column caption='Coworkers' datatype='string' name='[coworkers]' role='dimension' type='nominal' />
+      <column caption='Supervisor' datatype='string' name='[supervisor]' role='dimension' type='nominal' />
+      <column-instance column='[Coworkers Set]' derivation='InOut' name='[io:Coworkers Set:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Mental health consequence Set]' derivation='InOut' name='[io:Mental health consequence Set:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Supervisor Set]' derivation='InOut' name='[io:Supervisor Set:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Number of employees]' derivation='None' name='[none:Number of employees:nk]' pivot='key' type='nominal' />
+      <column-instance column='[consequence]' derivation='None' name='[none:consequence:nk]' pivot='key' type='nominal' />
+      <column-instance column='[coworkers]' derivation='None' name='[none:coworkers:nk]' pivot='key' type='nominal' />
+      <column-instance column='[supervisor]' derivation='None' name='[none:supervisor:nk]' pivot='key' type='nominal' />
+      <group caption='Coworkers Set' name='[Coworkers Set]' name-style='unqualified' user:ui-builder='filter-group'>
+        <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+          <groupfilter function='member' level='[none:coworkers:nk]' member='&quot;Some of them&quot;' />
+          <groupfilter function='member' level='[none:coworkers:nk]' member='&quot;Yes&quot;' />
+        </groupfilter>
+      </group>
+      <group hidden='true' name='[Inclusions (IN/OUT(Coworkers Set),IN/OUT(Mental health consequence Set),IN/OUT(Supervisor Set),Number of employees)]' name-style='unqualified' user:auto-column='include'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[io:Coworkers Set:nk]' />
+          <groupfilter function='level-members' level='[io:Mental health consequence Set:nk]' />
+          <groupfilter function='level-members' level='[io:Supervisor Set:nk]' />
+          <groupfilter function='level-members' level='[none:Number of employees:nk]' />
+        </groupfilter>
+      </group>
+      <group caption='Mental health consequence Set' name='[Mental health consequence Set]' name-style='unqualified' user:ui-builder='filter-group'>
+        <groupfilter function='member' level='[none:consequence:nk]' member='&quot;Yes&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+      </group>
+      <group caption='Set 1' name='[Set 1]' name-style='unqualified' user:ui-builder='lasso-group'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='member' level='[io:Coworkers Set:nk]' member='true' />
+          <groupfilter function='crossjoin'>
+            <groupfilter function='member' level='[io:Mental health consequence Set:nk]' member='true' />
+            <groupfilter function='crossjoin'>
+              <groupfilter function='member' level='[io:Supervisor Set:nk]' member='true' />
+              <groupfilter function='union'>
+                <groupfilter function='member' level='[Number of employees]' member='&quot;1-5&quot;' />
+                <groupfilter function='member' level='[Number of employees]' member='&quot;100-500&quot;' />
+                <groupfilter function='member' level='[Number of employees]' member='&quot;26-100&quot;' />
+                <groupfilter function='member' level='[Number of employees]' member='&quot;500-1000&quot;' />
+                <groupfilter function='member' level='[Number of employees]' member='&quot;6-25&quot;' />
+                <groupfilter function='member' level='[Number of employees]' member='&quot;More than 1000&quot;' />
+              </groupfilter>
+            </groupfilter>
+          </groupfilter>
+        </groupfilter>
+      </group>
+      <group caption='Supervisor Set' name='[Supervisor Set]' name-style='unqualified' user:ui-builder='filter-group'>
+        <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+          <groupfilter function='member' level='[none:supervisor:nk]' member='&quot;Some of them&quot;' />
+          <groupfilter function='member' level='[none:supervisor:nk]' member='&quot;Yes&quot;' />
+        </groupfilter>
+      </group>
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:consequence:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;Maybe&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Yes&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;No&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:supervisor:nk]' type='palette'>
+            <map to='#1ba3c6'>
+              <bucket>&quot;Yes&quot;</bucket>
+            </map>
+            <map to='#33a65c'>
+              <bucket>&quot;Some of them&quot;</bucket>
+            </map>
+            <map to='#f64971'>
+              <bucket>&quot;No&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:coworkers:nk]' type='palette'>
+            <map to='#4f7cba'>
+              <bucket>&quot;Yes&quot;</bucket>
+            </map>
+            <map to='#eb73b3'>
+              <bucket>&quot;Some of them&quot;</bucket>
+            </map>
+            <map to='#f89217'>
+              <bucket>&quot;No&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Canada&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='mht_processed_ct.csv' id='mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E'>
+            <properties context=''>
+              <relation connection='textscan.0ca3iv31bzphi919sgilt0tau1fb' name='mht_processed_ct.csv' table='[mht_processed_ct#csv$]' type='table'>
+                <columns character-set='UTF-8' gridOrigin='A1:E1260:no:A1:E1260:1' header='no' locale='en_CA' separator=','>
+                  <column datatype='integer' name='F1' ordinal='0' />
+                  <column datatype='string' name='Number of employees' ordinal='1' />
+                  <column datatype='string' name='consequence' ordinal='2' />
+                  <column datatype='string' name='coworkers' ordinal='3' />
+                  <column datatype='string' name='supervisor' ordinal='4' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Number of employees vs. Mental health consequence vs. Supervisors</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='mht_processed_ct' name='federated.10iqunx1diuart194mrd41moq84v' />
+          </datasources>
+          <datasource-dependencies datasource='federated.10iqunx1diuart194mrd41moq84v'>
+            <column datatype='string' name='[Number of employees]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;More than 1000&quot;' value='&gt; 1000' />
+              </aliases>
+            </column>
+            <_.fcp.ObjectModelTableType.false...column caption='mht_processed_ct.csv' datatype='integer' name='[__tableau_internal_object_id__].[mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E:qk]' pivot='key' type='quantitative' />
+            <_.fcp.ObjectModelTableType.true...column caption='mht_processed_ct.csv' datatype='table' name='[__tableau_internal_object_id__].[mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E]' role='measure' type='quantitative' />
+            <column caption='Mental health consequence' datatype='string' name='[consequence]' role='dimension' type='nominal' />
+            <column-instance column='[Number of employees]' derivation='None' name='[none:Number of employees:nk]' pivot='key' type='nominal' />
+            <column-instance column='[consequence]' derivation='None' name='[none:consequence:nk]' pivot='key' type='nominal' />
+            <column-instance column='[supervisor]' derivation='None' name='[none:supervisor:nk]' pivot='key' type='nominal' />
+            <column caption='Supervisor' datatype='string' name='[supervisor]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <manual-sort column='[federated.10iqunx1diuart194mrd41moq84v].[none:consequence:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Yes&quot;</bucket>
+              <bucket>&quot;No&quot;</bucket>
+              <bucket>&quot;Maybe&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <manual-sort column='[federated.10iqunx1diuart194mrd41moq84v].[none:supervisor:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Yes&quot;</bucket>
+              <bucket>&quot;No&quot;</bucket>
+              <bucket>&quot;Some of them&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.10iqunx1diuart194mrd41moq84v].[__tableau_internal_object_id__].[cnt:mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E:qk]' scope='rows' value='Frequency' />
+          </style-rule>
+          <style-rule element='legend-title'>
+            <format attr='text-align' value='auto' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.10iqunx1diuart194mrd41moq84v].[none:supervisor:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.10iqunx1diuart194mrd41moq84v].[__tableau_internal_object_id__].[cnt:mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E:qk]</rows>
+        <cols>([federated.10iqunx1diuart194mrd41moq84v].[none:Number of employees:nk] / [federated.10iqunx1diuart194mrd41moq84v].[none:consequence:nk])</cols>
+      </table>
+      <simple-id uuid='{31CDE99A-E3AC-4931-9A4D-BFC4F2C379FE}' />
+    </worksheet>
+    <worksheet name='Sheet 2'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Number of employees vs. Supervisor vs. Coworkers</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='mht_processed_ct' name='federated.10iqunx1diuart194mrd41moq84v' />
+          </datasources>
+          <datasource-dependencies datasource='federated.10iqunx1diuart194mrd41moq84v'>
+            <column datatype='string' name='[Number of employees]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;More than 1000&quot;' value='&gt; 1000' />
+              </aliases>
+            </column>
+            <_.fcp.ObjectModelTableType.false...column caption='mht_processed_ct.csv' datatype='integer' name='[__tableau_internal_object_id__].[mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E:qk]' pivot='key' type='quantitative' />
+            <_.fcp.ObjectModelTableType.true...column caption='mht_processed_ct.csv' datatype='table' name='[__tableau_internal_object_id__].[mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E]' role='measure' type='quantitative' />
+            <column caption='Coworkers' datatype='string' name='[coworkers]' role='dimension' type='nominal' />
+            <column-instance column='[Number of employees]' derivation='None' name='[none:Number of employees:nk]' pivot='key' type='nominal' />
+            <column-instance column='[coworkers]' derivation='None' name='[none:coworkers:nk]' pivot='key' type='nominal' />
+            <column-instance column='[supervisor]' derivation='None' name='[none:supervisor:nk]' pivot='key' type='nominal' />
+            <column caption='Supervisor' datatype='string' name='[supervisor]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <manual-sort column='[federated.10iqunx1diuart194mrd41moq84v].[none:coworkers:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Yes&quot;</bucket>
+              <bucket>&quot;No&quot;</bucket>
+              <bucket>&quot;Some of them&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <manual-sort column='[federated.10iqunx1diuart194mrd41moq84v].[none:supervisor:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Yes&quot;</bucket>
+              <bucket>&quot;No&quot;</bucket>
+              <bucket>&quot;Some of them&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.10iqunx1diuart194mrd41moq84v].[__tableau_internal_object_id__].[cnt:mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E:qk]' scope='rows' value='Frequency' />
+            <format attr='width' field='[federated.10iqunx1diuart194mrd41moq84v].[__tableau_internal_object_id__].[cnt:mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E:qk]' value='48' />
+            <format attr='height' field='[federated.10iqunx1diuart194mrd41moq84v].[none:supervisor:nk]' value='82' />
+          </style-rule>
+          <style-rule element='legend-title'>
+            <format attr='text-align' value='center' />
+          </style-rule>
+          <style-rule element='legend-title-text'>
+            <format attr='color' field='[federated.10iqunx1diuart194mrd41moq84v].[none:coworkers:nk]' value='Coworkers'>
+              <formatted-text>
+                <run fontalignment='0'>Coworkers</run>
+              </formatted-text>
+            </format>
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.10iqunx1diuart194mrd41moq84v].[none:coworkers:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.10iqunx1diuart194mrd41moq84v].[__tableau_internal_object_id__].[cnt:mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E:qk]</rows>
+        <cols>([federated.10iqunx1diuart194mrd41moq84v].[none:Number of employees:nk] / [federated.10iqunx1diuart194mrd41moq84v].[none:supervisor:nk])</cols>
+      </table>
+      <simple-id uuid='{3AF8DE3A-0635-417A-9721-3E3B12894EA0}' />
+    </worksheet>
+    <worksheet name='Sheet 3'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontsize='10'>Number of employees vs. Coworkers</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='mht_processed_ct' name='federated.10iqunx1diuart194mrd41moq84v' />
+          </datasources>
+          <datasource-dependencies datasource='federated.10iqunx1diuart194mrd41moq84v'>
+            <column datatype='string' name='[Number of employees]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;More than 1000&quot;' value='&gt; 1000' />
+              </aliases>
+            </column>
+            <_.fcp.ObjectModelTableType.false...column caption='mht_processed_ct.csv' datatype='integer' name='[__tableau_internal_object_id__].[mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E:qk]' pivot='key' type='quantitative' />
+            <_.fcp.ObjectModelTableType.true...column caption='mht_processed_ct.csv' datatype='table' name='[__tableau_internal_object_id__].[mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E]' role='measure' type='quantitative' />
+            <column caption='Coworkers' datatype='string' name='[coworkers]' role='dimension' type='nominal' />
+            <column-instance column='[Number of employees]' derivation='None' name='[none:Number of employees:nk]' pivot='key' type='nominal' />
+            <column-instance column='[coworkers]' derivation='None' name='[none:coworkers:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <manual-sort column='[federated.10iqunx1diuart194mrd41moq84v].[none:coworkers:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Yes&quot;</bucket>
+              <bucket>&quot;No&quot;</bucket>
+              <bucket>&quot;Some of them&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='width' value='160' />
+            <format attr='height' field='[federated.10iqunx1diuart194mrd41moq84v].[none:Number of employees:nk]' value='103' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='width' field='[federated.10iqunx1diuart194mrd41moq84v].[none:Number of employees:nk]' value='68' />
+          </style-rule>
+          <style-rule element='field-labels-decoration'>
+            <format attr='font-style' value='normal' />
+            <format attr='font-weight' value='normal' />
+            <format attr='text-orientation' value='0' />
+            <format attr='text-align' value='left' />
+            <format attr='vertical-align' value='bottom' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='rows' value='false' />
+          </style-rule>
+          <style-rule element='legend-title-text'>
+            <format attr='size' field='[federated.10iqunx1diuart194mrd41moq84v].[__tableau_internal_object_id__].[cnt:mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E:qk]' value='Total size'>
+              <formatted-text>
+                <run>Total size</run>
+              </formatted-text>
+            </format>
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Pie' />
+            <encodings>
+              <color column='[federated.10iqunx1diuart194mrd41moq84v].[none:coworkers:nk]' />
+              <wedge-size column='[federated.10iqunx1diuart194mrd41moq84v].[__tableau_internal_object_id__].[cnt:mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E:qk]' />
+              <size column='[federated.10iqunx1diuart194mrd41moq84v].[__tableau_internal_object_id__].[cnt:mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+                <format attr='minheight' value='-1' />
+                <format attr='maxheight' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.10iqunx1diuart194mrd41moq84v].[none:Number of employees:nk]</rows>
+        <cols />
+      </table>
+      <simple-id uuid='{5E31E033-48E7-49C2-AB2E-0E3D6302439D}' />
+    </worksheet>
+    <worksheet name='Sheet 6'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Employees open to discuss mental health</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='mht_processed_ct' name='federated.10iqunx1diuart194mrd41moq84v' />
+          </datasources>
+          <datasource-dependencies datasource='federated.10iqunx1diuart194mrd41moq84v'>
+            <column datatype='string' name='[Number of employees]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;More than 1000&quot;' value='&gt; 1000' />
+              </aliases>
+            </column>
+            <column caption='Mental health consequence' datatype='string' name='[consequence]' role='dimension' type='nominal' />
+            <column caption='Coworkers' datatype='string' name='[coworkers]' role='dimension' type='nominal' />
+            <column-instance column='[Coworkers Set]' derivation='InOut' name='[io:Coworkers Set:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Mental health consequence Set]' derivation='InOut' name='[io:Mental health consequence Set:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Set 1]' derivation='InOut' name='[io:Set 1:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Supervisor Set]' derivation='InOut' name='[io:Supervisor Set:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Number of employees]' derivation='None' name='[none:Number of employees:nk]' pivot='key' type='nominal' />
+            <column-instance column='[consequence]' derivation='None' name='[none:consequence:nk]' pivot='key' type='nominal' />
+            <column-instance column='[coworkers]' derivation='None' name='[none:coworkers:nk]' pivot='key' type='nominal' />
+            <column-instance column='[supervisor]' derivation='None' name='[none:supervisor:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Number of employees]' derivation='Count' name='[pcto:cnt:Number of employees:qk:2]' pivot='key' type='quantitative'>
+              <table-calc ordering-field='[federated.10iqunx1diuart194mrd41moq84v].[io:Set 1:nk]' ordering-type='Field' type='PctTotal' />
+            </column-instance>
+            <column caption='Supervisor' datatype='string' name='[supervisor]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.10iqunx1diuart194mrd41moq84v].[io:Set 1:nk]' kind='hide'>
+            <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-manual-selection='true' user:ui-manual-selection-all-when-empty='true' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[io:Set 1:nk]' />
+              <groupfilter function='member' level='[io:Set 1:nk]' member='false' />
+            </groupfilter>
+          </filter>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.10iqunx1diuart194mrd41moq84v].[pcto:cnt:Number of employees:qk:2]' scope='cols' value='% of employees open to discuss mental health' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='height' field='[federated.10iqunx1diuart194mrd41moq84v].[none:Number of employees:nk]' value='29' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='width' field='[federated.10iqunx1diuart194mrd41moq84v].[none:Number of employees:nk]' value='60' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='display' field='[federated.10iqunx1diuart194mrd41moq84v].[io:Set 1:nk]' value='false' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='rows' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-color' value='#b07aa1' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='438' />
+                <format attr='maxwidth' value='438' />
+                <format attr='minheight' value='120' />
+                <format attr='maxheight' value='120' />
+                <format attr='aspect' value='0' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.10iqunx1diuart194mrd41moq84v].[io:Set 1:nk] / [federated.10iqunx1diuart194mrd41moq84v].[none:Number of employees:nk])</rows>
+        <cols>[federated.10iqunx1diuart194mrd41moq84v].[pcto:cnt:Number of employees:qk:2]</cols>
+      </table>
+      <simple-id uuid='{291E2EDF-21B7-485A-88C2-84F959C25FA2}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard name='Dashboard 1'>
+      <style />
+      <size sizing-mode='automatic' />
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='97612' id='42' param='horz' type-v2='layout-flow' w='98864' x='568' y='1194'>
+            <zone h='97612' id='14' type-v2='layout-basic' w='98864' x='568' y='1194'>
+              <zone h='48806' id='7' param='horz' type-v2='layout-flow' w='98864' x='568' y='1194'>
+                <zone fixed-size='518' h='48806' id='11' is-fixed='true' type-v2='layout-basic' w='98864' x='568' y='1194'>
+                  <zone fixed-size='351' forceUpdate='true' h='48806' id='20' is-fixed='true' type-v2='text' w='48014' x='568' y='1194'>
+                    <formatted-text>
+                      <run bold='true' fontcolor='#555555' fontsize='11'>Group 37 - Carolina Tomiyama</run>
+                      <run>Æ&#10;&#10;</run>
+                      <run bold='true'>Research Question: </run>
+                      <run>Is there a relevant correlation between the number of employees in a tech company and how open employees are ti discuss mental health?
+
+</run>
+                      <run bold='true'>Hypothesis: </run>
+                      <run>It is predicted that employees are less willing to discuss a mental health in the workplace as the number of employees increases. This is based on the fact that relations between coworkers, and employees and supervisors/employers are more distant and superficial in big companies.
+
+</run>
+                      <run bold='true'>Variables:</run>
+                      <run>
+- Mental health consequence: Do you think that discussing a mental health issue with your employer would have a negative consequence?
+- Coworkers: Would you be willing to discuss a mental health issue with your coworker?
+- Supervisor: Would you be willing to discuss a mental health issue with your direct supervisor?
+
+</run>
+                      <run bold='true'>Conclusion: </run>
+                      <run>Based on the openness for mental health discussion on the three variables, the analysis shows a negative correlation between the number of employees in a company and how open employees are to discuss mental health. The likelihood of an employee being open to discuss mental health decreases as the company size increases.
+
+</run>
+                    </formatted-text>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                  <zone fixed-size='427' h='43668' id='3' is-fixed='true' name='Sheet 1' show-title='false' w='50850' x='48582' y='6332'>
+                    <layout-cache minheight='244' type-h='scalable' type-w='cell' />
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                  <zone fixed-size='109' h='5138' id='8' is-fixed='true' name='Sheet 1' pane-specification-id='0' param='[federated.10iqunx1diuart194mrd41moq84v].[none:supervisor:nk]' type-v2='color' w='50850' x='48582' y='1194'>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                </zone>
+              </zone>
+              <zone h='43790' id='9' name='Sheet 2' show-title='false' w='44286' x='568' y='55016'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='48806' id='17' name='Sheet 3' w='18938' x='44854' y='50000'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone fixed-size='280' h='5016' id='10' is-fixed='true' name='Sheet 2' pane-specification-id='0' param='[federated.10iqunx1diuart194mrd41moq84v].[none:coworkers:nk]' type-v2='color' w='44286' x='568' y='50000'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='48806' id='59' name='Sheet 6' w='35640' x='63792' y='50000'>
+                <layout-cache has-max-size-w='true' maxwidth='500' minwidth='500' type-h='fixed' type-w='scalable' />
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='1400' minheight='1400' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='65' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97826' id='64' param='vert' type-v2='layout-flow' w='98808' x='596' y='1087'>
+                <zone fixed-size='351' forceUpdate='true' h='48913' id='20' type-v2='text' w='47988' x='596' y='1087'>
+                  <formatted-text>
+                    <run bold='true' fontcolor='#555555' fontsize='11'>Group 37 - Carolina Tomiyama</run>
+                    <run>Æ&#10;&#10;</run>
+                    <run bold='true'>Research Question: </run>
+                    <run>Is there a relevant correlation between the number of employees in a tech company and how open employees are ti discuss mental health?
+
+</run>
+                    <run bold='true'>Hypothesis: </run>
+                    <run>It is predicted that employees are less willing to discuss a mental health in the workplace as the number of employees increases. This is based on the fact that relations between coworkers, and employees and supervisors/employers are more distant and superficial in big companies.
+
+</run>
+                    <run bold='true'>Variables:</run>
+                    <run>
+- Mental health consequence: Do you think that discussing a mental health issue with your employer would have a negative consequence?
+- Coworkers: Would you be willing to discuss a mental health issue with your coworker?
+- Supervisor: Would you be willing to discuss a mental health issue with your direct supervisor?
+
+</run>
+                    <run bold='true'>Conclusion: </run>
+                    <run>Based on the openness for mental health discussion on the three variables, the analysis shows a negative correlation between the number of employees in a company and how open employees are to discuss mental health. The likelihood of an employee being open to discuss mental health decreases as the company size increases.
+
+</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='43763' id='3' is-fixed='true' name='Sheet 1' show-title='false' w='50820' x='48584' y='6237'>
+                  <layout-cache minheight='244' type-h='scalable' type-w='cell' />
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='109' h='5150' id='8' name='Sheet 1' pane-specification-id='0' param='[federated.10iqunx1diuart194mrd41moq84v].[none:supervisor:nk]' type-v2='color' w='50820' x='48584' y='1087'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='48913' id='17' is-fixed='true' name='Sheet 3' w='18927' x='44858' y='50000'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='48913' id='59' is-fixed='true' name='Sheet 6' w='35619' x='63785' y='50000'>
+                  <layout-cache has-max-size-w='true' maxwidth='500' minwidth='500' type-h='fixed' type-w='scalable' />
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='43886' id='9' is-fixed='true' name='Sheet 2' show-title='false' w='44262' x='596' y='55027'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='5027' id='10' name='Sheet 2' pane-specification-id='0' param='[federated.10iqunx1diuart194mrd41moq84v].[none:coworkers:nk]' type-v2='color' w='44262' x='596' y='50000'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{04232E8D-22E1-4C0E-BDD2-1AF8B2FD0370}' />
+    </dashboard>
+  </dashboards>
+  <windows show-side-pane='false' source-height='2'>
+    <window class='worksheet' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.10iqunx1diuart194mrd41moq84v].[none:supervisor:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{EBA21A5C-F2CB-43F5-8ED8-61946333575C}' />
+    </window>
+    <window class='worksheet' name='Sheet 2'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.10iqunx1diuart194mrd41moq84v].[none:coworkers:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{87E23D2D-321C-42B4-B115-478B6BA5AD2F}' />
+    </window>
+    <window class='worksheet' name='Sheet 3'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.10iqunx1diuart194mrd41moq84v].[none:coworkers:nk]' type='color' />
+            <card pane-specification-id='0' param='[federated.10iqunx1diuart194mrd41moq84v].[__tableau_internal_object_id__].[cnt:mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E:qk]' type='size' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{AB544BC5-3B5B-4D06-A973-2939B9AC1E96}' />
+    </window>
+    <window class='worksheet' name='Sheet 6'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{A60D4E2A-3110-4438-A3EA-C6A408E27903}' />
+    </window>
+    <window class='dashboard' maximized='true' name='Dashboard 1'>
+      <viewpoints>
+        <viewpoint name='Sheet 1'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='Sheet 2'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='Sheet 3' />
+        <viewpoint name='Sheet 6'>
+          <zoom type='entire-view' />
+        </viewpoint>
+      </viewpoints>
+      <active id='20' />
+      <simple-id uuid='{2337FD16-243F-4776-802F-C8EAF8B4425C}' />
+    </window>
+  </windows>
+</workbook>
