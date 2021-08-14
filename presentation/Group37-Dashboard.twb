@@ -1204,7 +1204,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='mht_processed_ct' name='textscan.0ca3iv31bzphi919sgilt0tau1fb'>
-            <connection class='textclean' cleaning='yes' compat='no' csvFile='C:/Users/cltom/OneDrive/Documents/COSC301/project-group37-project/data/processed/mht_processed_ct.csv' dataRefreshTime='' directory='C:/Users/cltom/OneDrive/Documents/COSC301/project-group37-project/data/processed' filename='C:/Users/cltom/AppData/Local/Temp/TableauTemp/1y1a7bq1d6idx31eh7nx91qumx05/mht_processed_ct.csv.xlsx' interpretationMode='8' password='' server='' validate='no' />
+            <connection class='textclean' cleaning='yes' compat='no' csvFile='C:/Users/cltom/OneDrive/Documents/COSC301/project-group37-project/data/processed/mht_processed_ct.csv' dataRefreshTime='' directory='C:/Users/cltom/OneDrive/Documents/COSC301/project-group37-project/data/processed' filename='C:/Users/cltom/AppData/Local/Temp/TableauTemp/04nts6e17g54e81c3td8p14cvpyb/mht_processed_ct.csv.xlsx' interpretationMode='8' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0ca3iv31bzphi919sgilt0tau1fb' name='mht_processed_ct.csv' table='[mht_processed_ct#csv$]' type='table'>
@@ -3305,8 +3305,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1700' minheight='1700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='38' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97826' id='37' param='vert' type-v2='layout-flow' w='98808' x='596' y='1087'>
+            <zone h='100000' id='42' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='41' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='9239' id='19' type-v2='text' w='98808' x='596' y='1087'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#555555' fontname='Century Gothic' fontsize='16'> Is there a relevant correlation between the number of employees in a tech company and how open employees are to discuss mental health?</run>
