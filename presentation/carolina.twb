@@ -28,7 +28,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='mht_processed_ct' name='textscan.0ca3iv31bzphi919sgilt0tau1fb'>
-            <connection class='textclean' cleaning='yes' compat='no' csvFile='C:/Users/cltom/OneDrive/Documents/COSC301/project-group37-project/data/processed/mht_processed_ct.csv' dataRefreshTime='' directory='C:/Users/cltom/OneDrive/Documents/COSC301/project-group37-project/data/processed' filename='C:/Users/cltom/AppData/Local/Temp/TableauTemp/094k2m90p9gbes16yjsfb1pprdy0/mht_processed_ct.csv.xlsx' interpretationMode='8' password='' server='' validate='no' />
+            <connection class='textclean' cleaning='yes' compat='no' csvFile='C:/Users/cltom/OneDrive/Documents/COSC301/project-group37-project/data/processed/mht_processed_ct.csv' dataRefreshTime='' directory='C:/Users/cltom/OneDrive/Documents/COSC301/project-group37-project/data/processed' filename='C:/Users/cltom/AppData/Local/Temp/TableauTemp/1gofyci1xdus8t1bj5gak0doh35m/mht_processed_ct.csv.xlsx' interpretationMode='8' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0ca3iv31bzphi919sgilt0tau1fb' name='mht_processed_ct.csv' table='[mht_processed_ct#csv$]' type='table'>
@@ -445,123 +445,121 @@
       <zones>
         <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
           <zone h='98000' id='42' param='horz' type-v2='layout-flow' w='98400' x='800' y='1000'>
-            <zone h='98000' id='19' param='horz' type-v2='layout-flow' w='98400' x='800' y='1000'>
-              <zone h='98000' id='14' type-v2='layout-basic' w='98400' x='800' y='1000'>
-                <zone h='45125' id='7' param='horz' type-v2='layout-flow' w='98400' x='800' y='5000'>
-                  <zone fixed-size='518' h='45125' id='11' is-fixed='true' type-v2='layout-basic' w='98400' x='800' y='5000'>
-                    <zone h='45125' id='6' param='horz' type-v2='layout-flow' w='98400' x='800' y='5000'>
-                      <zone fixed-size='351' forceUpdate='true' h='45125' id='20' is-fixed='true' type-v2='text' w='35900' x='800' y='5000'>
-                        <formatted-text>
-                          <run bold='true'>Research Question: </run>
-                          <run>Is there a relevant correlation between the number of employees in a tech company and how open employees are ti discuss mental health?
+            <zone h='98000' id='14' type-v2='layout-basic' w='98400' x='800' y='1000'>
+              <zone h='45125' id='7' param='horz' type-v2='layout-flow' w='98400' x='800' y='5000'>
+                <zone fixed-size='518' h='45125' id='11' is-fixed='true' type-v2='layout-basic' w='98400' x='800' y='5000'>
+                  <zone h='45125' id='6' param='horz' type-v2='layout-flow' w='98400' x='800' y='5000'>
+                    <zone fixed-size='351' forceUpdate='true' h='45125' id='20' is-fixed='true' type-v2='text' w='35900' x='800' y='5000'>
+                      <formatted-text>
+                        <run bold='true'>Research Question: </run>
+                        <run>Is there a relevant correlation between the number of employees in a tech company and how open employees are ti discuss mental health?
 
 </run>
-                          <run bold='true'>Hypothesis: </run>
-                          <run>It is predicted that employees are less willing to discuss a mental health in the workplace as the number of employees increases. This is based on the fact that relations between coworkers, and employees and supervisors/employers are more distant and superficial in big companies.
+                        <run bold='true'>Hypothesis: </run>
+                        <run>It is predicted that employees are less willing to discuss a mental health in the workplace as the number of employees increases. This is based on the fact that relations between coworkers, and employees and supervisors/employers are more distant and superficial in big companies.
 
 </run>
-                          <run bold='true'>Variables:</run>
-                          <run>
+                        <run bold='true'>Variables:</run>
+                        <run>
 - Mental health consequence: Do you think that discussing a mental health issue with your employer would have a negative consequence?
 - Coworkers: Would you be willing to discuss a mental health issue with your coworker?
 - Supervisor: Would you be willing to discuss a mental health issue with your direct supervisor?
 
 </run>
-                        </formatted-text>
-                        <zone-style>
-                          <format attr='border-color' value='#000000' />
-                          <format attr='border-style' value='none' />
-                          <format attr='border-width' value='0' />
-                          <format attr='margin' value='4' />
-                        </zone-style>
-                      </zone>
-                      <zone fixed-size='34' h='45125' id='40' is-fixed='true' type-v2='empty' w='4200' x='36700' y='5000'>
-                        <zone-style>
-                          <format attr='border-color' value='#000000' />
-                          <format attr='border-style' value='none' />
-                          <format attr='border-width' value='0' />
-                          <format attr='margin' value='4' />
-                        </zone-style>
-                      </zone>
-                      <zone h='45125' id='3' name='Sheet 1' w='58290' x='40900' y='5000'>
-                        <layout-cache cell-count-w='18' minheight='244' non-cell-size-w='60' type-h='scalable' type-w='cell' />
-                        <zone-style>
-                          <format attr='border-color' value='#000000' />
-                          <format attr='border-style' value='none' />
-                          <format attr='border-width' value='0' />
-                          <format attr='margin' value='4' />
-                        </zone-style>
-                      </zone>
+                      </formatted-text>
+                      <zone-style>
+                        <format attr='border-color' value='#000000' />
+                        <format attr='border-style' value='none' />
+                        <format attr='border-width' value='0' />
+                        <format attr='margin' value='4' />
+                      </zone-style>
+                    </zone>
+                    <zone fixed-size='34' h='45125' id='40' is-fixed='true' type-v2='empty' w='4200' x='36700' y='5000'>
+                      <zone-style>
+                        <format attr='border-color' value='#000000' />
+                        <format attr='border-style' value='none' />
+                        <format attr='border-width' value='0' />
+                        <format attr='margin' value='4' />
+                      </zone-style>
+                    </zone>
+                    <zone h='45125' id='3' name='Sheet 1' w='58290' x='40900' y='5000'>
+                      <layout-cache cell-count-w='18' minheight='244' non-cell-size-w='60' type-h='scalable' type-w='cell' />
+                      <zone-style>
+                        <format attr='border-color' value='#000000' />
+                        <format attr='border-style' value='none' />
+                        <format attr='border-width' value='0' />
+                        <format attr='margin' value='4' />
+                      </zone-style>
                     </zone>
                   </zone>
                 </zone>
-                <zone h='48875' id='9' name='Sheet 2' w='54500' x='800' y='50125'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-                <zone fixed-size='109' h='4000' id='8' is-fixed='true' name='Sheet 1' pane-specification-id='0' param='[federated.10iqunx1diuart194mrd41moq84v].[none:supervisor:nk]' type-v2='color' w='54001' x='45199' y='1000'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-                <zone h='48875' id='17' name='Sheet 3' w='28866' x='58533' y='50125'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-                <zone fixed-size='280' h='16375' id='10' is-fixed='true' name='Sheet 2' pane-specification-id='0' param='[federated.10iqunx1diuart194mrd41moq84v].[none:coworkers:nk]' type-v2='color' w='11801' x='87399' y='63500'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-                <zone forceUpdate='true' h='4000' id='22' type-v2='text' w='44399' x='800' y='1000'>
-                  <formatted-text>
-                    <run fontcolor='#555555' fontname='Tableau Bold' fontsize='12'>Group 37 - Carolina Tomiyama</run>
-                  </formatted-text>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-                <zone h='48875' id='39' type-v2='empty' w='3233' x='55300' y='50125'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-                <zone h='19125' id='43' name='Sheet 3' pane-specification-id='0' param='[federated.10iqunx1diuart194mrd41moq84v].[__tableau_internal_object_id__].[cnt:mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E:qk]' type-v2='size' w='11801' x='87399' y='79875'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-                <zone h='13375' id='44' type-v2='empty' w='11801' x='87399' y='50125'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
+              </zone>
+              <zone h='48875' id='9' name='Sheet 2' w='54500' x='800' y='50125'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone fixed-size='109' h='4000' id='8' is-fixed='true' name='Sheet 1' pane-specification-id='0' param='[federated.10iqunx1diuart194mrd41moq84v].[none:supervisor:nk]' type-v2='color' w='54001' x='45199' y='1000'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='48875' id='17' name='Sheet 3' w='28866' x='58533' y='50125'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone fixed-size='280' h='16375' id='10' is-fixed='true' name='Sheet 2' pane-specification-id='0' param='[federated.10iqunx1diuart194mrd41moq84v].[none:coworkers:nk]' type-v2='color' w='11801' x='87399' y='63500'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone forceUpdate='true' h='4000' id='22' type-v2='text' w='44399' x='800' y='1000'>
+                <formatted-text>
+                  <run fontcolor='#555555' fontname='Tableau Bold' fontsize='12'>Group 37 - Carolina Tomiyama</run>
+                </formatted-text>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='48875' id='39' type-v2='empty' w='3233' x='55300' y='50125'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='19125' id='43' name='Sheet 3' pane-specification-id='0' param='[federated.10iqunx1diuart194mrd41moq84v].[__tableau_internal_object_id__].[cnt:mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E:qk]' type-v2='size' w='11801' x='87399' y='79875'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='13375' id='44' type-v2='empty' w='11801' x='87399' y='50125'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
               </zone>
             </zone>
           </zone>
@@ -577,8 +575,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1250' minheight='1250' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='52' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='51' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='56' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='55' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone forceUpdate='true' h='4000' id='22' type-v2='text' w='44399' x='800' y='1000'>
                   <formatted-text>
                     <run fontcolor='#555555' fontname='Tableau Bold' fontsize='12'>Group 37 - Carolina Tomiyama</run>
@@ -823,11 +821,7 @@
             <bucket-selection />
           </highlight>
         </viewpoint>
-        <viewpoint name='Sheet 3'>
-          <highlight field='[federated.10iqunx1diuart194mrd41moq84v].[__tableau_internal_object_id__].[cnt:mht_processed_ct.csv_DF055BB336C942A190B32C1F2790AB9E:qk]' type='size'>
-            <bucket-selection />
-          </highlight>
-        </viewpoint>
+        <viewpoint name='Sheet 3' />
       </viewpoints>
       <active id='-1' />
       <simple-id uuid='{2337FD16-243F-4776-802F-C8EAF8B4425C}' />
