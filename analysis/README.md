@@ -116,6 +116,43 @@ health are, companies that do not allow there employees to work remotly, do not 
 1. Is there a relationship between providing more mental health resources and quality of employees' mental health in the tech industry?
 2. Is there a relationship between employees' knowledge of the mental health resources available and the quality of mental health?
 
+#### Hypotheses
+1. I speculate that there may be a positive relationship between how many mental health resources are provided by employers and the quality of mental health among employees. If employees are being provided with more mental health resources, then it seems reasonable that mental health should improve.
+2. Similar to RQ1, more knowledge of mental health resources available might provide employees with more opportunities to seek help for their mental health and enable them to do so. The mere reassurance of knowing that there is help available might even be enough to improve mental health slightly. Thus, I predict that more knowledge of mental health resources might be positively associated with employees' mental health.
+
+#### Explanation of analysis approach
+
+**How mental health was assessed**
+
+There was no question that directly asked about participants' mental health, so mental health was inferred based on whether participants judged the **work_interfere** question to be applicable to them. Data was grouped to give a count of those supposedly *with* a mental health condition (those who answered with anything but N/A) and those *without* a mental health condition (those who answered with N/A). This information is contained in the **condition** column, which tells us whether or not respondents might have a mental health condition.
+
+The **work_interfere** variable can also be used as a rough proxy for the severity of mental health conditions among respondents. I say "rough" because the question ("If you have a mental health condition, do you feel that it interferes with your work?") only looks at the severity and effects of mental health in the workplace, ignoring how it may manifest in other areas of one's life.
+
+Additionally, the **treatment** variable can tell us a little bit about the state of mental health among respondents. However, it's necessary to point out that not everyone who faces mental health issues will seek out treatment for said issues. From the EDA, it also seems like having sought treatment doesn't necessarily guarantee that mental health is less of a concern. Thus, this variable is also merely a rough proxy. It also seems more appropriate to deem it as an indication of resources available to respondents.
+<br><br>
+
+**How provision of mental health resources was assessed**
+
+In the **resources** column, if participants responded with "Yes" to 2 or more of the 4 questions that asked about the amount of mental health resources provided by employers (benefits, wellness_program, seek_help), provision of mental health resources is deemed "Good." If participants responded with "Yes" to less than 2 of these questions, provision is deemed "Poor."
+
+"Resources" include providing mental health benefits (**benefits**), communication about mental health (**wellness_program**), and resources on whether to seek further information and help (**seek_help**).
+<br><br>
+
+**How knowledge of mental health resources was assessed**
+
+Although the only question that directly asked about participants' knowledge of mental health resources was **care_options**, I created the **knowledge** column to categorize participants according to their knowledge of mental health resources. This was assessed based on how often respondents chose "Don't know" or "Not sure" to questions that assessed both knowledge and provision of mental health resources (benefits, care_options, wellness_program, seek_help). This isn't a perfect way of scoring knowledge, but it does give a general idea of the level of uncertainty, which I have chosen as an indication of the general state of knowledge regarding mental health resources.
+
+Here are the categories:
+
+| Level of knowledge | # of "Don't know"/"Not sure" responses (out of 4 questions) |
+| -------- | -----------|
+| "Not knowledgeable" | 3–4 |
+| "Somewhat knowledgeable" | 2 |
+| "Knowledgeable" | 0–1 |
+
+
+---
+
 ### 1. Is there a relationship between providing more mental health resources and quality of employees' mental health in the tech industry?
 
 **Figure 1**
@@ -159,6 +196,8 @@ Regardless of whether they have insufficient of sufficient mental health resourc
 - Generally, employers in the tech industry do not provide enough mental health resources for their employees.
 - Analyses show that being provided with more mental health resources is negatively associated with the frequency of mental health interfering with work. In other words, the more resources that are provided to employees, the less mental health concerns interfere with work.
 - Therefore, the more resources that employers provide to support employees with mental health, the less mental health conditions might interfere with work.
+
+---
 
 ### 2. Is there a relationship between employees' knowledge of the mental health resources available and the quality of mental health?
 
