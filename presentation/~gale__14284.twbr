@@ -1,0 +1,2716 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20212.21.0712.0907                               -->
+<workbook source-build='2021.2.1 (20212.21.0712.0907)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <BasicButtonObject />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+    <WorksheetBackgroundTransparency />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+    <color-palette custom='true' name='a1' type='regular'>
+      <color>#fded87</color>
+      <color>#84878c</color>
+      <color>#88c9f2</color>
+      <color>#dcecf2</color>
+      <color>#b4d9cb</color>
+      <color>#fe5f55</color>
+      <color>#ffb17a</color>
+    </color-palette>
+    <color-palette custom='true' name='a3' type='regular'>
+      <color>#ffb6b9</color>
+      <color>#fae3d9</color>
+      <color>#bbded6</color>
+      <color>#8ac6d1</color>
+      <color>#6581b8</color>
+    </color-palette>
+  </preferences>
+  <style>
+    <style-rule element='worksheet'>
+      <format attr='font-weight' value='normal' />
+      <format attr='font-size' value='9' />
+    </style-rule>
+    <style-rule element='title'>
+      <format attr='font-weight' value='normal' />
+      <format attr='font-family' value='FOT-Seurat Pro DB' />
+      <format attr='font-size' value='10' />
+    </style-rule>
+    <style-rule element='dash-title'>
+      <format attr='font-family' value='FOT-Seurat Pro DB' />
+    </style-rule>
+    <style-rule element='all'>
+      <format attr='font-family' value='Nunito' />
+      <format attr='color' value='#5a4b3e' />
+    </style-rule>
+  </style>
+  <datasources>
+    <datasource caption='mh_processed_gc' inline='true' name='federated.1v293tr0ze49yl10ljcvp008n6ti' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='mh_processed_gc' name='textscan.0ikbagi119tde01b1c6r710b6u94'>
+            <connection class='textscan' directory='C:/Users/cltom/OneDrive/Documents/COSC301/project-group37-project/data/processed' filename='mh_processed_gc.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0ikbagi119tde01b1c6r710b6u94' name='mh_processed_gc.csv' table='[mh_processed_gc#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='treatment' ordinal='1' />
+            <column datatype='string' name='work_interfere' ordinal='2' />
+            <column datatype='string' name='benefits' ordinal='3' />
+            <column datatype='string' name='care_options' ordinal='4' />
+            <column datatype='string' name='wellness_program' ordinal='5' />
+            <column datatype='string' name='seek_help' ordinal='6' />
+            <column datatype='string' name='condition' ordinal='7' />
+            <column datatype='string' name='resources' ordinal='8' />
+            <column datatype='string' name='knowledge' ordinal='9' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.0ikbagi119tde01b1c6r710b6u94' name='mh_processed_gc.csv' table='[mh_processed_gc#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='treatment' ordinal='1' />
+            <column datatype='string' name='work_interfere' ordinal='2' />
+            <column datatype='string' name='benefits' ordinal='3' />
+            <column datatype='string' name='care_options' ordinal='4' />
+            <column datatype='string' name='wellness_program' ordinal='5' />
+            <column datatype='string' name='seek_help' ordinal='6' />
+            <column datatype='string' name='condition' ordinal='7' />
+            <column datatype='string' name='resources' ordinal='8' />
+            <column datatype='string' name='knowledge' ordinal='9' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[mh_processed_gc.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[mh_processed_gc.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mh_processed_gc.csv_03D61C9597B54A67A20FEFA6C5A161D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>treatment</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[treatment]</local-name>
+            <parent-name>[mh_processed_gc.csv]</parent-name>
+            <remote-alias>treatment</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mh_processed_gc.csv_03D61C9597B54A67A20FEFA6C5A161D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>work_interfere</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[work_interfere]</local-name>
+            <parent-name>[mh_processed_gc.csv]</parent-name>
+            <remote-alias>work_interfere</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mh_processed_gc.csv_03D61C9597B54A67A20FEFA6C5A161D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>benefits</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[benefits]</local-name>
+            <parent-name>[mh_processed_gc.csv]</parent-name>
+            <remote-alias>benefits</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mh_processed_gc.csv_03D61C9597B54A67A20FEFA6C5A161D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>care_options</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[care_options]</local-name>
+            <parent-name>[mh_processed_gc.csv]</parent-name>
+            <remote-alias>care_options</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mh_processed_gc.csv_03D61C9597B54A67A20FEFA6C5A161D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>wellness_program</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[wellness_program]</local-name>
+            <parent-name>[mh_processed_gc.csv]</parent-name>
+            <remote-alias>wellness_program</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mh_processed_gc.csv_03D61C9597B54A67A20FEFA6C5A161D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>seek_help</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[seek_help]</local-name>
+            <parent-name>[mh_processed_gc.csv]</parent-name>
+            <remote-alias>seek_help</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mh_processed_gc.csv_03D61C9597B54A67A20FEFA6C5A161D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>condition</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[condition]</local-name>
+            <parent-name>[mh_processed_gc.csv]</parent-name>
+            <remote-alias>condition</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mh_processed_gc.csv_03D61C9597B54A67A20FEFA6C5A161D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>resources</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[resources]</local-name>
+            <parent-name>[mh_processed_gc.csv]</parent-name>
+            <remote-alias>resources</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mh_processed_gc.csv_03D61C9597B54A67A20FEFA6C5A161D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>knowledge</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[knowledge]</local-name>
+            <parent-name>[mh_processed_gc.csv]</parent-name>
+            <remote-alias>knowledge</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mh_processed_gc.csv_03D61C9597B54A67A20FEFA6C5A161D2]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='integer' name='[F1]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='mh_processed_gc.csv' datatype='table' name='[__tableau_internal_object_id__].[mh_processed_gc.csv_03D61C9597B54A67A20FEFA6C5A161D2]' role='measure' type='quantitative' />
+      <column caption='Mental health condition' datatype='string' name='[condition]' role='dimension' type='nominal'>
+        <aliases>
+          <alias key='&quot;No&quot;' value='No mental health condition' />
+          <alias key='&quot;Yes&quot;' value='Mental health condition' />
+        </aliases>
+      </column>
+      <column caption='Level of knowledge' datatype='string' name='[knowledge]' role='dimension' type='nominal' />
+      <column caption='Resources' datatype='string' name='[resources]' role='dimension' type='nominal'>
+        <aliases>
+          <alias key='&quot;Good&quot;' value='Sufficient' />
+          <alias key='&quot;Poor&quot;' value='Insufficient' />
+        </aliases>
+      </column>
+      <column datatype='string' name='[treatment]' role='dimension' type='nominal'>
+        <aliases>
+          <alias key='&quot;No&quot;' value='No treatment' />
+          <alias key='&quot;Yes&quot;' value='Sought treatment' />
+        </aliases>
+      </column>
+      <column caption='Frequency of mental health interfering with work' datatype='string' name='[work_interfere]' role='dimension' type='nominal' />
+      <column-instance column='[work_interfere]' derivation='Attribute' name='[attr:work_interfere:nk]' pivot='key' type='nominal' />
+      <column-instance column='[resources]' derivation='Count' name='[cnt:resources:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[condition]' derivation='None' name='[none:condition:nk]' pivot='key' type='nominal' />
+      <column-instance column='[knowledge]' derivation='None' name='[none:knowledge:nk]' pivot='key' type='nominal' />
+      <column-instance column='[resources]' derivation='None' name='[none:resources:nk]' pivot='key' type='nominal' />
+      <column-instance column='[treatment]' derivation='None' name='[none:treatment:nk]' pivot='key' type='nominal' />
+      <column-instance column='[work_interfere]' derivation='None' name='[none:work_interfere:nk]' pivot='key' type='nominal' />
+      <column-instance column='[F1]' derivation='Count' name='[pcto:cnt:F1:qk]' pivot='key' type='quantitative'>
+        <table-calc ordering-field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:work_interfere:nk]' ordering-type='Field' type='PctTotal' />
+      </column-instance>
+      <group caption='Action (Mental health condition,Resources)' hidden='true' name='[Action (Mental health condition,Resources)]' name-style='unqualified' user:auto-column='sheet_link'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[condition]' />
+          <groupfilter function='level-members' level='[resources]' />
+        </groupfilter>
+      </group>
+      <group caption='Action (Mental health condition,knowledge)' hidden='true' name='[Action (Mental health condition,knowledge)]' name-style='unqualified' user:auto-column='sheet_link'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[condition]' />
+          <groupfilter function='level-members' level='[knowledge]' />
+        </groupfilter>
+      </group>
+      <group caption='Action (Resources,treatment)' hidden='true' name='[Action (Resources,treatment)]' name-style='unqualified' user:auto-column='sheet_link'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[resources]' />
+          <groupfilter function='level-members' level='[treatment]' />
+        </groupfilter>
+      </group>
+      <group caption='Action (Resources,work_interfere)' hidden='true' name='[Action (Resources,work_interfere)]' name-style='unqualified' user:auto-column='sheet_link'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[resources]' />
+          <groupfilter function='level-members' level='[work_interfere]' />
+        </groupfilter>
+      </group>
+      <group caption='Action (knowledge,treatment)' hidden='true' name='[Action (knowledge,treatment)]' name-style='unqualified' user:auto-column='sheet_link'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[knowledge]' />
+          <groupfilter function='level-members' level='[treatment]' />
+        </groupfilter>
+      </group>
+      <group caption='Action (knowledge,work_interfere)' hidden='true' name='[Action (knowledge,work_interfere)]' name-style='unqualified' user:auto-column='sheet_link'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[knowledge]' />
+          <groupfilter function='level-members' level='[work_interfere]' />
+        </groupfilter>
+      </group>
+      <group hidden='true' name='[Exclusions (Resources,work_interfere)]' name-style='unqualified' user:auto-column='exclude'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[none:resources:nk]' />
+          <groupfilter function='level-members' level='[none:work_interfere:nk]' />
+        </groupfilter>
+      </group>
+      <group hidden='true' name='[Exclusions (knowledge,Mental health condition)]' name-style='unqualified' user:auto-column='exclude'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[none:knowledge:nk]' />
+          <groupfilter function='level-members' level='[none:condition:nk]' />
+        </groupfilter>
+      </group>
+      <group hidden='true' name='[Exclusions (knowledge,work_interfere)]' name-style='unqualified' user:auto-column='exclude'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[none:knowledge:nk]' />
+          <groupfilter function='level-members' level='[none:work_interfere:nk]' />
+        </groupfilter>
+      </group>
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-aliased-fields='true' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[attr:work_interfere:nk]' palette='a1' type='palette'>
+            <map to='#88c9f2'>
+              <bucket>&quot;Sometimes&quot;</bucket>
+            </map>
+            <map to='#b4d9cb'>
+              <bucket>&quot;Never&quot;</bucket>
+            </map>
+            <map to='#bde0fe'>
+              <bucket>&quot;N/A&quot;</bucket>
+            </map>
+            <map to='#fded87'>
+              <bucket>&quot;Rarely&quot;</bucket>
+            </map>
+            <map to='#ffb17a'>
+              <bucket>&quot;Often&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.1v293tr0ze49yl10ljcvp008n6ti]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.1v293tr0ze49yl10ljcvp008n6ti].[cnt:resources:qk]&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:condition:nk]&#10;[none:resources:nk]' palette='a3' type='palette'>
+            <map to='#fae3d9'>
+              <multibucket>
+                <bucket>&quot;No&quot;</bucket>
+                <bucket>&quot;Good&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#fae3d9'>
+              <multibucket>
+                <bucket>&quot;Yes&quot;</bucket>
+                <bucket>&quot;Good&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#ffb6b9'>
+              <multibucket>
+                <bucket>&quot;No&quot;</bucket>
+                <bucket>&quot;Poor&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#ffb6b9'>
+              <multibucket>
+                <bucket>&quot;Yes&quot;</bucket>
+                <bucket>&quot;Poor&quot;</bucket>
+              </multibucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:condition:nk]' palette='a3' type='palette'>
+            <map to='#8ac6d1'>
+              <bucket>&quot;No&quot;</bucket>
+            </map>
+            <map to='#ffb6b9'>
+              <bucket>&quot;Yes&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:knowledge:nk]&#10;[none:condition:nk]' palette='a3' type='palette'>
+            <map to='#6581b8'>
+              <multibucket>
+                <bucket>&quot;Not knowledgeable&quot;</bucket>
+                <bucket>&quot;No&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#6581b8'>
+              <multibucket>
+                <bucket>&quot;Not knowledgeable&quot;</bucket>
+                <bucket>&quot;Yes&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#bbded6'>
+              <multibucket>
+                <bucket>&quot;Somewhat knowledgeable&quot;</bucket>
+                <bucket>&quot;No&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#bbded6'>
+              <multibucket>
+                <bucket>&quot;Somewhat knowledgeable&quot;</bucket>
+                <bucket>&quot;Yes&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#ffb6b9'>
+              <multibucket>
+                <bucket>&quot;Knowledgeable&quot;</bucket>
+                <bucket>&quot;No&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#ffb6b9'>
+              <multibucket>
+                <bucket>&quot;Knowledgeable&quot;</bucket>
+                <bucket>&quot;Yes&quot;</bucket>
+              </multibucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:work_interfere:nk]' palette='a3' type='palette'>
+            <map to='#6581b8'>
+              <bucket>&quot;Often&quot;</bucket>
+            </map>
+            <map to='#8ac6d1'>
+              <bucket>&quot;Sometimes&quot;</bucket>
+            </map>
+            <map to='#bbded6'>
+              <bucket>&quot;Rarely&quot;</bucket>
+            </map>
+            <map to='#bde0fe'>
+              <bucket>&quot;N/A&quot;</bucket>
+            </map>
+            <map to='#ffb6b9'>
+              <bucket>&quot;Never&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:resources:nk]' palette='a3' type='palette'>
+            <map to='#8ac6d1'>
+              <bucket>&quot;Good&quot;</bucket>
+            </map>
+            <map to='#ffb6b9'>
+              <bucket>&quot;Poor&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:treatment:nk]' palette='a3' type='palette'>
+            <map to='#8ac6d1'>
+              <bucket>&quot;No&quot;</bucket>
+            </map>
+            <map to='#ffb6b9'>
+              <bucket>&quot;Yes&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:condition:nk]&#10;[none:knowledge:nk]' palette='a3' type='palette'>
+            <map to='#6581b8'>
+              <multibucket>
+                <bucket>&quot;No&quot;</bucket>
+                <bucket>&quot;Not knowledgeable&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#6581b8'>
+              <multibucket>
+                <bucket>&quot;Yes&quot;</bucket>
+                <bucket>&quot;Not knowledgeable&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#bbded6'>
+              <multibucket>
+                <bucket>&quot;No&quot;</bucket>
+                <bucket>&quot;Somewhat knowledgeable&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#bbded6'>
+              <multibucket>
+                <bucket>&quot;Yes&quot;</bucket>
+                <bucket>&quot;Somewhat knowledgeable&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#ffb6b9'>
+              <multibucket>
+                <bucket>&quot;No&quot;</bucket>
+                <bucket>&quot;Knowledgeable&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#ffb6b9'>
+              <multibucket>
+                <bucket>&quot;Yes&quot;</bucket>
+                <bucket>&quot;Knowledgeable&quot;</bucket>
+              </multibucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:knowledge:nk]&#10;[none:work_interfere:nk]' palette='a3' type='palette'>
+            <map to='#6581b8'>
+              <multibucket>
+                <bucket>&quot;Knowledgeable&quot;</bucket>
+                <bucket>&quot;Often&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#6581b8'>
+              <multibucket>
+                <bucket>&quot;Not knowledgeable&quot;</bucket>
+                <bucket>&quot;Often&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#6581b8'>
+              <multibucket>
+                <bucket>&quot;Somewhat knowledgeable&quot;</bucket>
+                <bucket>&quot;N/A&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#6581b8'>
+              <multibucket>
+                <bucket>&quot;Somewhat knowledgeable&quot;</bucket>
+                <bucket>&quot;Often&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#8ac6d1'>
+              <multibucket>
+                <bucket>&quot;Knowledgeable&quot;</bucket>
+                <bucket>&quot;Sometimes&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#8ac6d1'>
+              <multibucket>
+                <bucket>&quot;Not knowledgeable&quot;</bucket>
+                <bucket>&quot;Sometimes&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#8ac6d1'>
+              <multibucket>
+                <bucket>&quot;Somewhat knowledgeable&quot;</bucket>
+                <bucket>&quot;Sometimes&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#bbded6'>
+              <multibucket>
+                <bucket>&quot;Knowledgeable&quot;</bucket>
+                <bucket>&quot;Rarely&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#bbded6'>
+              <multibucket>
+                <bucket>&quot;Not knowledgeable&quot;</bucket>
+                <bucket>&quot;Rarely&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#bbded6'>
+              <multibucket>
+                <bucket>&quot;Somewhat knowledgeable&quot;</bucket>
+                <bucket>&quot;Rarely&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#ffb6b9'>
+              <multibucket>
+                <bucket>&quot;Knowledgeable&quot;</bucket>
+                <bucket>&quot;N/A&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#ffb6b9'>
+              <multibucket>
+                <bucket>&quot;Knowledgeable&quot;</bucket>
+                <bucket>&quot;Never&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#ffb6b9'>
+              <multibucket>
+                <bucket>&quot;Not knowledgeable&quot;</bucket>
+                <bucket>&quot;N/A&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#ffb6b9'>
+              <multibucket>
+                <bucket>&quot;Not knowledgeable&quot;</bucket>
+                <bucket>&quot;Never&quot;</bucket>
+              </multibucket>
+            </map>
+            <map to='#ffb6b9'>
+              <multibucket>
+                <bucket>&quot;Somewhat knowledgeable&quot;</bucket>
+                <bucket>&quot;Never&quot;</bucket>
+              </multibucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Canada&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='mh_processed_gc.csv' id='mh_processed_gc.csv_03D61C9597B54A67A20FEFA6C5A161D2'>
+            <properties context=''>
+              <relation connection='textscan.0ikbagi119tde01b1c6r710b6u94' name='mh_processed_gc.csv' table='[mh_processed_gc#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='F1' ordinal='0' />
+                  <column datatype='string' name='treatment' ordinal='1' />
+                  <column datatype='string' name='work_interfere' ordinal='2' />
+                  <column datatype='string' name='benefits' ordinal='3' />
+                  <column datatype='string' name='care_options' ordinal='4' />
+                  <column datatype='string' name='wellness_program' ordinal='5' />
+                  <column datatype='string' name='seek_help' ordinal='6' />
+                  <column datatype='string' name='condition' ordinal='7' />
+                  <column datatype='string' name='resources' ordinal='8' />
+                  <column datatype='string' name='knowledge' ordinal='9' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <actions>
+    <action caption='Filter 1 (generated)' name='[Action1_1F2BEF3252294263A7A12A01747EE22D]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='resources' type='sheet' worksheet='resources/trt' />
+      <command command='tsc:tsl-filter'>
+        <param name='special-fields' value='all' />
+        <param name='target' value='resources' />
+      </command>
+    </action>
+    <action caption='Filter 2 (generated)' name='[Action2_3A8358FAEFAB46A18FAD295C6AD30397]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='resources' type='sheet' worksheet='resources/cond' />
+      <command command='tsc:tsl-filter'>
+        <param name='special-fields' value='all' />
+        <param name='target' value='resources' />
+      </command>
+    </action>
+    <action caption='Filter 3 (generated)' name='[Action3_0709AE926E464BD0A95AA65790BF7950]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='resources' type='sheet' worksheet='resources/interfere' />
+      <command command='tsc:tsl-filter'>
+        <param name='special-fields' value='all' />
+        <param name='target' value='resources' />
+      </command>
+    </action>
+    <action caption='Filter 6 (generated)' name='[Action6_9C8427B3528448D58EC07CFA265D54AF]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='knowledge' type='sheet' worksheet='know/trt' />
+      <command command='tsc:tsl-filter'>
+        <param name='exclude' value='know/interfere' />
+        <param name='special-fields' value='all' />
+        <param name='target' value='knowledge' />
+      </command>
+    </action>
+  </actions>
+  <worksheets>
+    <worksheet name='MH prevalence'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>How common are mental health conditions in the tech industry?</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='mh_processed_gc' name='federated.1v293tr0ze49yl10ljcvp008n6ti' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1v293tr0ze49yl10ljcvp008n6ti'>
+            <column datatype='integer' name='[F1]' role='measure' type='quantitative' />
+            <column caption='Mental health condition' datatype='string' name='[condition]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;No&quot;' value='No mental health condition' />
+                <alias key='&quot;Yes&quot;' value='Mental health condition' />
+              </aliases>
+            </column>
+            <column-instance column='[condition]' derivation='None' name='[none:condition:nk]' pivot='key' type='nominal' />
+            <column-instance column='[F1]' derivation='Count' name='[pcto:cnt:F1:qk:4]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='Columns' type='PctTotal' />
+            </column-instance>
+          </datasource-dependencies>
+          <manual-sort column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Yes&quot;</bucket>
+              <bucket>&quot;No&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:4]' scope='cols' value='Number of responses' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='wrap' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='on' />
+            <format attr='height' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='62' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='band-color' scope='cols' value='#00000000' />
+            <format attr='width' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='244' />
+            <format attr='height-header' value='32' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='wrap' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='on' />
+          </style-rule>
+          <style-rule element='pane'>
+            <format attr='band-color' scope='cols' value='#00000000' />
+          </style-rule>
+          <style-rule element='table'>
+            <format attr='band-size' scope='cols' value='1' />
+            <format attr='background-color' value='#00000000' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+            <format attr='display-field-labels' scope='rows' value='false' />
+          </style-rule>
+          <style-rule element='legend'>
+            <format attr='background-color' value='#f9f8f7' />
+            <format attr='border-color' value='#000000' />
+            <format attr='border-width' value='0' />
+            <format attr='border-style' value='none' />
+          </style-rule>
+          <style-rule element='legend-title'>
+            <format attr='text-align' value='auto' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run>Mental health condition:&#9;</run>
+                <run><![CDATA[
+% of total responses:	<[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:4]>]]></run>
+              </formatted-text>
+            </customized-tooltip>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minheight' value='-1' />
+                <format attr='maxheight' value='-1' />
+                <format attr='minwidth' value='769' />
+                <format attr='maxwidth' value='769' />
+                <format attr='aspect' value='0' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]</rows>
+        <cols>[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:4]</cols>
+      </table>
+      <simple-id uuid='{9A3C6F95-F066-4342-A58B-9CBC208A9146}' />
+    </worksheet>
+    <worksheet name='know/cond'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='mh_processed_gc' name='federated.1v293tr0ze49yl10ljcvp008n6ti' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1v293tr0ze49yl10ljcvp008n6ti'>
+            <column datatype='integer' name='[F1]' role='measure' type='quantitative' />
+            <column caption='Mental health condition' datatype='string' name='[condition]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;No&quot;' value='No mental health condition' />
+                <alias key='&quot;Yes&quot;' value='Mental health condition' />
+              </aliases>
+            </column>
+            <column caption='Level of knowledge' datatype='string' name='[knowledge]' role='dimension' type='nominal' />
+            <column-instance column='[condition]' derivation='None' name='[none:condition:nk]' pivot='key' type='nominal' />
+            <column-instance column='[knowledge]' derivation='None' name='[none:knowledge:nk]' pivot='key' type='nominal' />
+            <column-instance column='[F1]' derivation='Count' name='[pcto:cnt:F1:qk:6]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='ColumnInPane' type='PctTotal' />
+            </column-instance>
+          </datasource-dependencies>
+          <manual-sort column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:knowledge:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Knowledgeable&quot;</bucket>
+              <bucket>&quot;Somewhat knowledgeable&quot;</bucket>
+              <bucket>&quot;Not knowledgeable&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:6]' scope='cols' value='' />
+            <format attr='stroke-size' value='0' />
+            <format attr='tick-color' value='#00000000' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='height' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:knowledge:nk]' value='45' />
+            <format attr='wrap' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='on' />
+            <format attr='border-width' value='0' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='width' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:knowledge:nk]' value='188' />
+            <format attr='band-color' scope='cols' value='#00000000' />
+            <format attr='width' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='72' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='wrap' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='on' />
+            <format attr='font-weight' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='bold' />
+            <format attr='wrap' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:knowledge:nk]' value='on' />
+          </style-rule>
+          <style-rule element='pane'>
+            <format attr='band-color' scope='cols' value='#00000000' />
+            <format attr='border-width' value='0' />
+            <format attr='border-style' data-class='total' value='none' />
+          </style-rule>
+          <style-rule element='table'>
+            <format attr='band-size' scope='cols' value='1' />
+            <format attr='background-color' value='#00000000' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='rows' value='false' />
+          </style-rule>
+          <style-rule element='dropline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='refline'>
+            <format attr='line-pattern-only' scope='rows' value='dashed' />
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='gridline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' scope='rows' value='on' />
+            <format attr='line-pattern-only' scope='rows' value='solid' />
+            <format attr='stroke-size' scope='rows' value='2' />
+            <format attr='stroke-color' scope='rows' value='#f0eae6' />
+          </style-rule>
+          <style-rule element='zeroline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='table-div'>
+            <format attr='line-pattern-only' scope='rows' value='solid' />
+            <format attr='div-level' scope='rows' value='0' />
+            <format attr='stroke-size' scope='cols' value='0' />
+            <format attr='line-visibility' scope='cols' value='off' />
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+          </style-rule>
+          <style-rule element='header-div'>
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+            <format attr='line-pattern-only' scope='cols' value='solid' />
+            <format attr='stroke-size' scope='cols' value='0' />
+            <format attr='line-visibility' scope='cols' value='off' />
+          </style-rule>
+          <style-rule element='legend'>
+            <format attr='background-color' value='#f9f8f7' />
+            <format attr='border-color' value='#000000' />
+            <format attr='border-width' value='0' />
+            <format attr='border-style' value='none' />
+          </style-rule>
+          <style-rule element='legend-title'>
+            <format attr='text-align' value='auto' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' />
+              <color column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:knowledge:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='pane'>
+                <format attr='minheight' value='-1' />
+                <format attr='maxheight' value='-1' />
+              </style-rule>
+              <style-rule element='trendline'>
+                <format attr='stroke-size' value='0' />
+                <format attr='line-visibility' value='off' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk] / [federated.1v293tr0ze49yl10ljcvp008n6ti].[none:knowledge:nk])</rows>
+        <cols>[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:6]</cols>
+      </table>
+      <simple-id uuid='{7C45ECC0-3537-4182-8D8E-7700B15951AB}' />
+    </worksheet>
+    <worksheet name='know/interfere'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='mh_processed_gc' name='federated.1v293tr0ze49yl10ljcvp008n6ti' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1v293tr0ze49yl10ljcvp008n6ti'>
+            <column datatype='integer' name='[F1]' role='measure' type='quantitative' />
+            <column caption='Mental health condition' datatype='string' name='[condition]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;No&quot;' value='No mental health condition' />
+                <alias key='&quot;Yes&quot;' value='Mental health condition' />
+              </aliases>
+            </column>
+            <column caption='Level of knowledge' datatype='string' name='[knowledge]' role='dimension' type='nominal' />
+            <column-instance column='[condition]' derivation='None' name='[none:condition:nk]' pivot='key' type='nominal' />
+            <column-instance column='[knowledge]' derivation='None' name='[none:knowledge:nk]' pivot='key' type='nominal' />
+            <column-instance column='[work_interfere]' derivation='None' name='[none:work_interfere:nk]' pivot='key' type='nominal' />
+            <column-instance column='[F1]' derivation='Count' name='[pcto:cnt:F1:qk:6]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='ColumnInPane' type='PctTotal' />
+            </column-instance>
+            <column caption='Frequency of mental health interfering with work' datatype='string' name='[work_interfere]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[Exclusions (knowledge,work_interfere)]'>
+            <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='crossjoin'>
+                <groupfilter function='level-members' level='[none:knowledge:nk]' />
+                <groupfilter function='level-members' level='[none:work_interfere:nk]' />
+              </groupfilter>
+              <groupfilter function='reorder-dimensionality'>
+                <groupfilter function='crossjoin'>
+                  <groupfilter function='member' level='[none:work_interfere:nk]' member='&quot;N/A&quot;' />
+                  <groupfilter function='union'>
+                    <groupfilter function='member' level='[none:knowledge:nk]' member='&quot;Knowledgeable&quot;' />
+                    <groupfilter function='member' level='[none:knowledge:nk]' member='&quot;Not knowledgeable&quot;' />
+                    <groupfilter function='member' level='[none:knowledge:nk]' member='&quot;Somewhat knowledgeable&quot;' />
+                  </groupfilter>
+                </groupfilter>
+                <order>
+                  <hierarchy name='[none:knowledge:nk]' />
+                  <hierarchy name='[none:work_interfere:nk]' />
+                </order>
+              </groupfilter>
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]'>
+            <groupfilter function='level-members' level='[none:condition:nk]' user:ui-enumeration='all' user:ui-exclude='true' user:ui-marker='enumerate' />
+          </filter>
+          <manual-sort column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:knowledge:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Knowledgeable&quot;</bucket>
+              <bucket>&quot;Somewhat knowledgeable&quot;</bucket>
+              <bucket>&quot;Not knowledgeable&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <manual-sort column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:work_interfere:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Never&quot;</bucket>
+              <bucket>&quot;Rarely&quot;</bucket>
+              <bucket>&quot;Sometimes&quot;</bucket>
+              <bucket>&quot;Often&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <slices>
+            <column>[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]</column>
+            <column>[federated.1v293tr0ze49yl10ljcvp008n6ti].[Exclusions (knowledge,work_interfere)]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:6]' scope='cols' value='' />
+            <format attr='stroke-size' value='0' />
+            <format attr='tick-color' value='#00000000' />
+            <format attr='height' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:6]' value='42' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='height' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:work_interfere:nk]' value='28' />
+            <format attr='wrap' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='on' />
+            <format attr='border-width' value='0' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='width' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:knowledge:nk]' value='120' />
+            <format attr='band-color' scope='cols' value='#00000000' />
+          </style-rule>
+          <style-rule element='field-labels'>
+            <format attr='font-weight' value='normal' />
+          </style-rule>
+          <style-rule element='field-labels-spanner'>
+            <format attr='font-weight' scope='rows' value='normal' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='wrap' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='on' />
+            <format attr='font-weight' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='bold' />
+            <format attr='font-weight' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:knowledge:nk]' value='bold' />
+          </style-rule>
+          <style-rule element='pane'>
+            <format attr='band-color' scope='cols' value='#00000000' />
+            <format attr='border-width' value='0' />
+            <format attr='border-style' data-class='total' value='none' />
+          </style-rule>
+          <style-rule element='table'>
+            <format attr='band-size' scope='cols' value='1' />
+            <format attr='background-color' value='#00000000' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+            <format attr='display-field-labels' scope='rows' value='false' />
+          </style-rule>
+          <style-rule element='dropline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='refline'>
+            <format attr='line-pattern-only' scope='rows' value='dashed' />
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='gridline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-pattern-only' scope='rows' value='solid' />
+            <format attr='stroke-color' scope='rows' value='#f0eae6' />
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+            <format attr='stroke-size' scope='cols' value='1' />
+            <format attr='stroke-color' scope='cols' value='#f1d5cb' />
+          </style-rule>
+          <style-rule element='zeroline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='table-div'>
+            <format attr='line-pattern-only' scope='rows' value='solid' />
+            <format attr='div-level' scope='rows' value='0' />
+            <format attr='stroke-size' scope='cols' value='0' />
+            <format attr='line-visibility' scope='cols' value='off' />
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+          </style-rule>
+          <style-rule element='header-div'>
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+            <format attr='line-pattern-only' scope='cols' value='solid' />
+            <format attr='stroke-size' scope='cols' value='0' />
+            <format attr='line-visibility' scope='cols' value='off' />
+          </style-rule>
+          <style-rule element='legend'>
+            <format attr='background-color' value='#f9f8f7' />
+            <format attr='border-color' value='#000000' />
+            <format attr='border-width' value='0' />
+            <format attr='border-style' value='none' />
+          </style-rule>
+          <style-rule element='legend-title'>
+            <format attr='text-align' value='auto' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:knowledge:nk]' />
+              <color column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:work_interfere:nk]' />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#787878'>knowledge:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:knowledge:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>How often mental health conditions interfere with work:	</run>
+                <run bold='true'><![CDATA[<[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:work_interfere:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>% of Total Count of F1 along Pane (Down):	</run>
+                <run bold='true'><![CDATA[<[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:6]>]]></run>
+              </formatted-text>
+            </customized-tooltip>
+            <style>
+              <style-rule element='pane'>
+                <format attr='minheight' value='-1' />
+                <format attr='maxheight' value='-1' />
+              </style-rule>
+              <style-rule element='trendline'>
+                <format attr='stroke-size' value='0' />
+                <format attr='line-visibility' value='off' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>([federated.1v293tr0ze49yl10ljcvp008n6ti].[none:knowledge:nk] / [federated.1v293tr0ze49yl10ljcvp008n6ti].[none:work_interfere:nk])</rows>
+        <cols>[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:6]</cols>
+      </table>
+      <simple-id uuid='{0AA71ABE-998F-45C4-B2D0-DB0B11149EC0}' />
+    </worksheet>
+    <worksheet name='know/trt'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='mh_processed_gc' name='federated.1v293tr0ze49yl10ljcvp008n6ti' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1v293tr0ze49yl10ljcvp008n6ti'>
+            <column datatype='integer' name='[F1]' role='measure' type='quantitative' />
+            <column caption='Mental health condition' datatype='string' name='[condition]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;No&quot;' value='No mental health condition' />
+                <alias key='&quot;Yes&quot;' value='Mental health condition' />
+              </aliases>
+            </column>
+            <column caption='Level of knowledge' datatype='string' name='[knowledge]' role='dimension' type='nominal' />
+            <column-instance column='[condition]' derivation='None' name='[none:condition:nk]' pivot='key' type='nominal' />
+            <column-instance column='[knowledge]' derivation='None' name='[none:knowledge:nk]' pivot='key' type='nominal' />
+            <column-instance column='[treatment]' derivation='None' name='[none:treatment:nk]' pivot='key' type='nominal' />
+            <column-instance column='[F1]' derivation='Count' name='[pcto:cnt:F1:qk:5]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='RowInPane' type='PctTotal' />
+            </column-instance>
+            <column datatype='string' name='[treatment]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;No&quot;' value='No treatment' />
+                <alias key='&quot;Yes&quot;' value='Sought treatment' />
+              </aliases>
+            </column>
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]'>
+            <groupfilter function='level-members' level='[none:condition:nk]' user:ui-enumeration='all' user:ui-exclude='true' user:ui-marker='enumerate' />
+          </filter>
+          <manual-sort column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:knowledge:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Not knowledgeable&quot;</bucket>
+              <bucket>&quot;Somewhat knowledgeable&quot;</bucket>
+              <bucket>&quot;Knowledgeable&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <manual-sort column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Yes&quot;</bucket>
+              <bucket>&quot;No&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <slices>
+            <column>[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:5]' scope='rows' value='' />
+            <format attr='stroke-size' value='0' />
+            <format attr='tick-color' value='#00000000' />
+            <format attr='height' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]' value='52' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]' value='190' />
+            <format attr='wrap' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='on' />
+            <format attr='border-width' value='0' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='band-color' scope='cols' value='#00000000' />
+            <format attr='border-width' data-class='total' scope='rows' value='0' />
+            <format attr='border-style' data-class='total' scope='rows' value='none' />
+            <format attr='height' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:knowledge:nk]' value='40' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='wrap' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='on' />
+            <format attr='font-weight' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='bold' />
+            <format attr='font-weight' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:knowledge:nk]' value='bold' />
+          </style-rule>
+          <style-rule element='pane'>
+            <format attr='band-color' scope='cols' value='#00000000' />
+            <format attr='border-width' value='0' />
+            <format attr='border-style' data-class='total' value='none' />
+          </style-rule>
+          <style-rule element='table'>
+            <format attr='band-size' scope='cols' value='1' />
+            <format attr='background-color' value='#00000000' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+          <style-rule element='dropline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='refline'>
+            <format attr='line-pattern-only' scope='rows' value='dashed' />
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='gridline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' scope='rows' value='on' />
+            <format attr='line-pattern-only' scope='rows' value='solid' />
+            <format attr='stroke-size' scope='rows' value='2' />
+            <format attr='stroke-color' scope='rows' value='#f0eae6' />
+          </style-rule>
+          <style-rule element='zeroline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='table-div'>
+            <format attr='div-level' scope='rows' value='0' />
+            <format attr='line-pattern-only' scope='rows' value='solid' />
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+            <format attr='stroke-size' scope='cols' value='1' />
+            <format attr='line-visibility' scope='cols' value='on' />
+            <format attr='line-pattern-only' scope='cols' value='solid' />
+            <format attr='stroke-color' scope='cols' value='#f1d5cb' />
+          </style-rule>
+          <style-rule element='header-div'>
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+            <format attr='line-pattern-only' scope='cols' value='solid' />
+            <format attr='stroke-size' scope='cols' value='0' />
+            <format attr='line-visibility' scope='cols' value='off' />
+          </style-rule>
+          <style-rule element='legend'>
+            <format attr='background-color' value='#f9f8f7' />
+            <format attr='border-color' value='#000000' />
+            <format attr='border-width' value='0' />
+            <format attr='border-style' value='none' />
+          </style-rule>
+          <style-rule element='legend-title'>
+            <format attr='text-align' value='auto' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+              <style-rule element='trendline'>
+                <format attr='stroke-size' value='0' />
+                <format attr='line-visibility' value='off' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:5]</rows>
+        <cols>([federated.1v293tr0ze49yl10ljcvp008n6ti].[none:knowledge:nk] / [federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk])</cols>
+      </table>
+      <simple-id uuid='{6DCCAE76-7674-4B8D-8844-F24B37E141E0}' />
+    </worksheet>
+    <worksheet name='resources/cond'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>The majority of respondents are</run>
+            <run bold='true' fontname='FOT-Seurat Pro B'> not </run>
+            <run>provided with enough options for mental health support, </run>
+            <run fontname='FOT-Seurat Pro B'>regardless</run>
+            <run> of whether they have a mental health condition</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='mh_processed_gc' name='federated.1v293tr0ze49yl10ljcvp008n6ti' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1v293tr0ze49yl10ljcvp008n6ti'>
+            <column datatype='integer' name='[F1]' role='measure' type='quantitative' />
+            <column caption='Mental health condition' datatype='string' name='[condition]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;No&quot;' value='No mental health condition' />
+                <alias key='&quot;Yes&quot;' value='Mental health condition' />
+              </aliases>
+            </column>
+            <column-instance column='[condition]' derivation='None' name='[none:condition:nk]' pivot='key' type='nominal' />
+            <column-instance column='[resources]' derivation='None' name='[none:resources:nk]' pivot='key' type='nominal' />
+            <column-instance column='[F1]' derivation='Count' name='[pcto:cnt:F1:qk:1]' pivot='key' type='quantitative'>
+              <table-calc ordering-field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:resources:nk]' ordering-type='Field' type='PctTotal' />
+            </column-instance>
+            <column caption='Resources' datatype='string' name='[resources]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;Good&quot;' value='Sufficient' />
+                <alias key='&quot;Poor&quot;' value='Insufficient' />
+              </aliases>
+            </column>
+            <column datatype='string' name='[treatment]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;No&quot;' value='No treatment' />
+                <alias key='&quot;Yes&quot;' value='Sought treatment' />
+              </aliases>
+            </column>
+            <column caption='Frequency of mental health interfering with work' datatype='string' name='[work_interfere]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[Action (Resources,treatment)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action1_1F2BEF3252294263A7A12A01747EE22D]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[resources]' />
+              <groupfilter function='level-members' level='[treatment]' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[Action (Resources,work_interfere)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action3_0709AE926E464BD0A95AA65790BF7950]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[resources]' />
+              <groupfilter function='level-members' level='[work_interfere]' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:resources:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Poor&quot;</bucket>
+              <bucket>&quot;Good&quot;</bucket>
+              <bucket>%all%</bucket>
+            </dictionary>
+          </manual-sort>
+          <slices>
+            <column>[federated.1v293tr0ze49yl10ljcvp008n6ti].[Action (Resources,treatment)]</column>
+            <column>[federated.1v293tr0ze49yl10ljcvp008n6ti].[Action (Resources,work_interfere)]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:1]' scope='rows' value='' />
+            <encoding attr='space' class='0' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:1]' field-type='quantitative' major-origin='0.0' major-spacing='0.10000000000000001' scope='rows' type='space' />
+            <format attr='stroke-size' value='0' />
+            <format attr='tick-color' value='#00000000' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:resources:nk]' value='184' />
+            <format attr='width' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='165' />
+            <format attr='wrap' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='on' />
+            <format attr='border-width' value='0' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='height' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='64' />
+            <format attr='band-color' scope='cols' value='#00000000' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='display' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:resources:nk]' value='true' />
+            <format attr='wrap' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='on' />
+            <format attr='font-weight' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='bold' />
+            <format attr='font-weight' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:resources:nk]' value='bold' />
+          </style-rule>
+          <style-rule element='pane'>
+            <format attr='band-color' scope='cols' value='#00000000' />
+            <format attr='border-width' value='0' />
+            <format attr='border-style' data-class='total' value='none' />
+          </style-rule>
+          <style-rule element='table'>
+            <format attr='band-size' scope='cols' value='1' />
+            <format attr='background-color' value='#00000000' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+          <style-rule element='dropline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='refline'>
+            <format attr='line-pattern-only' scope='rows' value='dashed' />
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='gridline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' scope='rows' value='on' />
+            <format attr='line-pattern-only' scope='rows' value='solid' />
+            <format attr='stroke-size' scope='rows' value='2' />
+            <format attr='stroke-color' scope='rows' value='#f0eae6' />
+          </style-rule>
+          <style-rule element='zeroline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='table-div'>
+            <format attr='line-pattern-only' scope='rows' value='solid' />
+            <format attr='div-level' scope='rows' value='0' />
+            <format attr='stroke-size' scope='cols' value='0' />
+            <format attr='line-visibility' scope='cols' value='off' />
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+          </style-rule>
+          <style-rule element='header-div'>
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+            <format attr='line-pattern-only' scope='cols' value='solid' />
+            <format attr='stroke-size' scope='cols' value='0' />
+            <format attr='line-visibility' scope='cols' value='off' />
+          </style-rule>
+          <style-rule element='legend'>
+            <format attr='background-color' value='#f9f8f7' />
+            <format attr='border-color' value='#000000' />
+            <format attr='border-width' value='0' />
+            <format attr='border-style' value='none' />
+          </style-rule>
+          <style-rule element='legend-title'>
+            <format attr='text-align' value='auto' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:resources:nk]' />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#787878'>Mental health condition:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>Amount of resources provided:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:resources:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>% of within-group responses:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:1]>]]></run>
+              </formatted-text>
+            </customized-tooltip>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='size' value='1.637182354927063' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+              <style-rule element='trendline'>
+                <format attr='stroke-size' value='0' />
+                <format attr='line-visibility' value='off' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:1]</rows>
+        <cols>([federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk] / [federated.1v293tr0ze49yl10ljcvp008n6ti].[none:resources:nk])</cols>
+      </table>
+      <simple-id uuid='{2781CA40-8A9C-4BDA-AEE5-B9F55FCC86D1}' />
+    </worksheet>
+    <worksheet name='resources/interfere'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>Respondents with </run>
+            <run bold='true' fontalignment='1' fontname='FOT-Seurat Pro B'>fewer</run>
+            <run fontalignment='1'> mental health resources are </run>
+            <run fontalignment='1' fontname='FOT-Seurat Pro B'>more likely</run>
+            <run fontalignment='1'> to feel that their mental health condition</run>
+            <run fontalignment='1' fontname='FOT-Seurat Pro B'>Æ </run>
+            <run fontalignment='1' fontcolor='#6581b8' fontname='FOT-Seurat Pro B'>interferes</run>
+            <run bold='true' fontalignment='1' fontcolor='#6581b8' fontname='FOT-Seurat Pro B'> more often</run>
+            <run fontalignment='1' fontname='FOT-Seurat Pro B'>Æ </run>
+            <run fontalignment='1'>with their work.</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='mh_processed_gc' name='federated.1v293tr0ze49yl10ljcvp008n6ti' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1v293tr0ze49yl10ljcvp008n6ti'>
+            <column datatype='integer' name='[F1]' role='measure' type='quantitative' />
+            <column caption='Mental health condition' datatype='string' name='[condition]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;No&quot;' value='No mental health condition' />
+                <alias key='&quot;Yes&quot;' value='Mental health condition' />
+              </aliases>
+            </column>
+            <column-instance column='[condition]' derivation='None' name='[none:condition:nk]' pivot='key' type='nominal' />
+            <column-instance column='[resources]' derivation='None' name='[none:resources:nk]' pivot='key' type='nominal' />
+            <column-instance column='[work_interfere]' derivation='None' name='[none:work_interfere:nk]' pivot='key' type='nominal' />
+            <column-instance column='[F1]' derivation='Count' name='[pcto:cnt:F1:qk:5]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='RowInPane' type='PctTotal' />
+            </column-instance>
+            <column caption='Resources' datatype='string' name='[resources]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;Good&quot;' value='Sufficient' />
+                <alias key='&quot;Poor&quot;' value='Insufficient' />
+              </aliases>
+            </column>
+            <column datatype='string' name='[treatment]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;No&quot;' value='No treatment' />
+                <alias key='&quot;Yes&quot;' value='Sought treatment' />
+              </aliases>
+            </column>
+            <column caption='Frequency of mental health interfering with work' datatype='string' name='[work_interfere]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[Action (Mental health condition,Resources)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action5_0CF15BE85F034CD18291CCF7AD749EA4]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[condition]' />
+              <groupfilter function='level-members' level='[resources]' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[Action (Resources,treatment)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action1_1F2BEF3252294263A7A12A01747EE22D]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[resources]' />
+              <groupfilter function='level-members' level='[treatment]' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[Exclusions (Resources,work_interfere)]'>
+            <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='crossjoin'>
+                <groupfilter function='level-members' level='[none:resources:nk]' />
+                <groupfilter function='level-members' level='[none:work_interfere:nk]' />
+              </groupfilter>
+              <groupfilter function='reorder-dimensionality'>
+                <groupfilter function='crossjoin'>
+                  <groupfilter function='member' level='[none:work_interfere:nk]' member='&quot;N/A&quot;' />
+                  <groupfilter function='union'>
+                    <groupfilter function='member' level='[none:resources:nk]' member='&quot;Good&quot;' />
+                    <groupfilter function='member' level='[none:resources:nk]' member='&quot;Poor&quot;' />
+                  </groupfilter>
+                </groupfilter>
+                <order>
+                  <hierarchy name='[none:resources:nk]' />
+                  <hierarchy name='[none:work_interfere:nk]' />
+                </order>
+              </groupfilter>
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]'>
+            <groupfilter function='level-members' level='[none:condition:nk]' user:ui-enumeration='all' user:ui-exclude='true' user:ui-marker='enumerate' />
+          </filter>
+          <manual-sort column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:work_interfere:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Never&quot;</bucket>
+              <bucket>&quot;Rarely&quot;</bucket>
+              <bucket>&quot;Sometimes&quot;</bucket>
+              <bucket>&quot;Often&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <slices>
+            <column>[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]</column>
+            <column>[federated.1v293tr0ze49yl10ljcvp008n6ti].[Action (Resources,treatment)]</column>
+            <column>[federated.1v293tr0ze49yl10ljcvp008n6ti].[Action (Mental health condition,Resources)]</column>
+            <column>[federated.1v293tr0ze49yl10ljcvp008n6ti].[Exclusions (Resources,work_interfere)]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:5]' scope='rows' value='' />
+            <format attr='stroke-size' value='0' />
+            <format attr='tick-color' value='#00000000' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:work_interfere:nk]' value='111' />
+            <format attr='wrap' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='on' />
+            <format attr='border-width' value='0' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='band-color' scope='cols' value='#00000000' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='wrap' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='on' />
+            <format attr='font-weight' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='bold' />
+            <format attr='font-weight' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:resources:nk]' value='bold' />
+          </style-rule>
+          <style-rule element='pane'>
+            <format attr='band-color' scope='cols' value='#00000000' />
+            <format attr='border-width' value='0' />
+            <format attr='border-style' data-class='total' value='none' />
+          </style-rule>
+          <style-rule element='table'>
+            <format attr='band-size' scope='cols' value='1' />
+            <format attr='background-color' value='#00000000' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+          <style-rule element='dropline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='refline'>
+            <format attr='line-pattern-only' scope='rows' value='dashed' />
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='gridline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' scope='rows' value='on' />
+            <format attr='line-pattern-only' scope='rows' value='solid' />
+            <format attr='stroke-size' scope='rows' value='2' />
+            <format attr='stroke-color' scope='rows' value='#f0eae6' />
+          </style-rule>
+          <style-rule element='zeroline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='table-div'>
+            <format attr='line-pattern-only' scope='rows' value='solid' />
+            <format attr='div-level' scope='rows' value='0' />
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+            <format attr='stroke-size' scope='cols' value='1' />
+            <format attr='line-visibility' scope='cols' value='on' />
+            <format attr='line-pattern-only' scope='cols' value='solid' />
+            <format attr='stroke-color' scope='cols' value='#f0eae6' />
+          </style-rule>
+          <style-rule element='header-div'>
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+            <format attr='stroke-size' scope='cols' value='1' />
+            <format attr='line-visibility' scope='cols' value='on' />
+            <format attr='line-pattern-only' scope='cols' value='solid' />
+          </style-rule>
+          <style-rule element='legend'>
+            <format attr='background-color' value='#f9f8f7' />
+            <format attr='border-color' value='#000000' />
+            <format attr='border-width' value='0' />
+            <format attr='border-style' value='none' />
+          </style-rule>
+          <style-rule element='legend-title'>
+            <format attr='text-align' value='auto' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:work_interfere:nk]' />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#787878'>Amount of resources provided:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:resources:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>How often mental health conditions interfere with work:	</run>
+                <run bold='true'><![CDATA[<[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:work_interfere:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>% of total within-group responses:	</run>
+                <run bold='true'><![CDATA[<[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:5]>]]></run>
+              </formatted-text>
+            </customized-tooltip>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+              <style-rule element='trendline'>
+                <format attr='stroke-size' value='0' />
+                <format attr='line-visibility' value='off' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:5]</rows>
+        <cols>([federated.1v293tr0ze49yl10ljcvp008n6ti].[none:resources:nk] / [federated.1v293tr0ze49yl10ljcvp008n6ti].[none:work_interfere:nk])</cols>
+      </table>
+      <simple-id uuid='{05B407AB-6F80-4298-B403-7E6A31543E55}' />
+    </worksheet>
+    <worksheet name='resources/trt'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Is providing more mental health resources associated with a higher likelihood of seeking treatment?</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='mh_processed_gc' name='federated.1v293tr0ze49yl10ljcvp008n6ti' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1v293tr0ze49yl10ljcvp008n6ti'>
+            <column datatype='integer' name='[F1]' role='measure' type='quantitative' />
+            <column caption='Mental health condition' datatype='string' name='[condition]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;No&quot;' value='No mental health condition' />
+                <alias key='&quot;Yes&quot;' value='Mental health condition' />
+              </aliases>
+            </column>
+            <column caption='Level of knowledge' datatype='string' name='[knowledge]' role='dimension' type='nominal' />
+            <column-instance column='[condition]' derivation='None' name='[none:condition:nk]' pivot='key' type='nominal' />
+            <column-instance column='[resources]' derivation='None' name='[none:resources:nk]' pivot='key' type='nominal' />
+            <column-instance column='[treatment]' derivation='None' name='[none:treatment:nk]' pivot='key' type='nominal' />
+            <column-instance column='[F1]' derivation='Count' name='[pcto:cnt:F1:qk:5]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='RowInPane' type='PctTotal' />
+            </column-instance>
+            <column caption='Resources' datatype='string' name='[resources]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;Good&quot;' value='Sufficient' />
+                <alias key='&quot;Poor&quot;' value='Insufficient' />
+              </aliases>
+            </column>
+            <column datatype='string' name='[treatment]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;No&quot;' value='No treatment' />
+                <alias key='&quot;Yes&quot;' value='Sought treatment' />
+              </aliases>
+            </column>
+            <column caption='Frequency of mental health interfering with work' datatype='string' name='[work_interfere]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[Action (Mental health condition,Resources)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action2_3A8358FAEFAB46A18FAD295C6AD30397]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[condition]' />
+              <groupfilter function='level-members' level='[resources]' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[Action (Resources,work_interfere)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action3_0709AE926E464BD0A95AA65790BF7950]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[resources]' />
+              <groupfilter function='level-members' level='[work_interfere]' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[Action (knowledge,work_interfere)]'>
+            <groupfilter function='crossjoin' user:ui-action-filter='[Action6_10A97866842D41CA9B8095002DA59842]' user:ui-enumeration='all' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[knowledge]' />
+              <groupfilter function='level-members' level='[work_interfere]' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]'>
+            <groupfilter function='level-members' level='[none:condition:nk]' user:ui-enumeration='all' user:ui-exclude='true' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]'>
+            <groupfilter function='union' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:treatment:nk]' member='&quot;No&quot;' />
+              <groupfilter function='member' level='[none:treatment:nk]' member='&quot;Yes&quot;' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Yes&quot;</bucket>
+              <bucket>&quot;No&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <slices>
+            <column>[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]</column>
+            <column>[federated.1v293tr0ze49yl10ljcvp008n6ti].[Action (Mental health condition,Resources)]</column>
+            <column>[federated.1v293tr0ze49yl10ljcvp008n6ti].[Action (Resources,work_interfere)]</column>
+            <column>[federated.1v293tr0ze49yl10ljcvp008n6ti].[Action (knowledge,work_interfere)]</column>
+            <column>[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='stroke-size' value='0' />
+            <format attr='tick-color' value='#00000000' />
+            <format attr='title' class='0' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:5]' scope='rows' value='' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]' value='143' />
+            <format attr='wrap' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='on' />
+            <format attr='border-width' value='0' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='band-color' scope='cols' value='#00000000' />
+            <format attr='wrap' data-class='total' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]' value='on' />
+            <format attr='wrap' data-class='subtotal' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]' value='on' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='wrap' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='on' />
+            <format attr='font-weight' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='bold' />
+            <format attr='font-weight' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:resources:nk]' value='bold' />
+            <format attr='wrap' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]' value='auto' />
+          </style-rule>
+          <style-rule element='pane'>
+            <format attr='band-color' scope='cols' value='#00000000' />
+            <format attr='border-width' value='0' />
+            <format attr='border-style' data-class='total' value='none' />
+          </style-rule>
+          <style-rule element='table'>
+            <format attr='band-size' scope='cols' value='1' />
+            <format attr='background-color' value='#00000000' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+          <style-rule element='dropline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='refline'>
+            <format attr='line-pattern-only' scope='rows' value='dashed' />
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='gridline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' scope='rows' value='on' />
+            <format attr='line-pattern-only' scope='rows' value='solid' />
+            <format attr='stroke-size' scope='rows' value='2' />
+            <format attr='stroke-color' scope='rows' value='#f0eae6' />
+          </style-rule>
+          <style-rule element='zeroline'>
+            <format attr='stroke-size' value='0' />
+            <format attr='line-visibility' value='off' />
+          </style-rule>
+          <style-rule element='table-div'>
+            <format attr='line-pattern-only' scope='rows' value='solid' />
+            <format attr='div-level' scope='rows' value='0' />
+            <format attr='stroke-size' scope='cols' value='0' />
+            <format attr='line-visibility' scope='cols' value='off' />
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+          </style-rule>
+          <style-rule element='header-div'>
+            <format attr='stroke-size' scope='rows' value='0' />
+            <format attr='line-visibility' scope='rows' value='off' />
+            <format attr='line-pattern-only' scope='cols' value='solid' />
+            <format attr='stroke-size' scope='cols' value='0' />
+            <format attr='line-visibility' scope='cols' value='off' />
+          </style-rule>
+          <style-rule element='legend'>
+            <format attr='background-color' value='#f9f8f7' />
+            <format attr='border-color' value='#000000' />
+            <format attr='border-width' value='0' />
+            <format attr='border-style' value='none' />
+          </style-rule>
+          <style-rule element='legend-title'>
+            <format attr='text-align' value='auto' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]' />
+            </encodings>
+            <customized-tooltip>
+              <formatted-text>
+                <run fontcolor='#787878'>Amount of resources provided:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:resources:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>Treatment status:&#9;</run>
+                <run bold='true'><![CDATA[<[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]>]]></run>
+                <run>Æ&#10;</run>
+                <run fontcolor='#787878'>% of total within-group responses:	</run>
+                <run bold='true'><![CDATA[<[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:5]>]]></run>
+              </formatted-text>
+            </customized-tooltip>
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+              <style-rule element='trendline'>
+                <format attr='stroke-size' value='0' />
+                <format attr='line-visibility' value='off' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:5]</rows>
+        <cols>([federated.1v293tr0ze49yl10ljcvp008n6ti].[none:resources:nk] / [federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk])</cols>
+      </table>
+      <simple-id uuid='{DAF62BEA-7B00-45C9-A736-15020809C409}' />
+    </worksheet>
+    <worksheet name='treatment'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>For employees with a mental health condition, how common is it to seek treatment?</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='mh_processed_gc' name='federated.1v293tr0ze49yl10ljcvp008n6ti' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1v293tr0ze49yl10ljcvp008n6ti'>
+            <column datatype='integer' name='[F1]' role='measure' type='quantitative' />
+            <column caption='Mental health condition' datatype='string' name='[condition]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;No&quot;' value='No mental health condition' />
+                <alias key='&quot;Yes&quot;' value='Mental health condition' />
+              </aliases>
+            </column>
+            <column-instance column='[condition]' derivation='None' name='[none:condition:nk]' pivot='key' type='nominal' />
+            <column-instance column='[treatment]' derivation='None' name='[none:treatment:nk]' pivot='key' type='nominal' />
+            <column-instance column='[F1]' derivation='Count' name='[pcto:cnt:F1:qk:2]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='Rows' type='PctTotal' />
+            </column-instance>
+            <column datatype='string' name='[treatment]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;No&quot;' value='No treatment' />
+                <alias key='&quot;Yes&quot;' value='Sought treatment' />
+              </aliases>
+            </column>
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]'>
+            <groupfilter function='member' level='[none:condition:nk]' member='&quot;Yes&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <manual-sort column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Yes&quot;</bucket>
+              <bucket>&quot;No&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <slices>
+            <column>[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]' value='309' />
+            <format attr='wrap' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='on' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='band-color' scope='cols' value='#00000000' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='wrap' field='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]' value='on' />
+          </style-rule>
+          <style-rule element='pane'>
+            <format attr='band-color' scope='cols' value='#00000000' />
+          </style-rule>
+          <style-rule element='table'>
+            <format attr='band-size' scope='cols' value='1' />
+            <format attr='background-color' value='#00000000' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+          <style-rule element='legend'>
+            <format attr='background-color' value='#f9f8f7' />
+            <format attr='border-color' value='#000000' />
+            <format attr='border-width' value='0' />
+            <format attr='border-style' value='none' />
+          </style-rule>
+          <style-rule element='legend-title'>
+            <format attr='text-align' value='auto' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='618' />
+                <format attr='maxwidth' value='618' />
+                <format attr='minheight' value='718' />
+                <format attr='maxheight' value='718' />
+                <format attr='aspect' value='0' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1v293tr0ze49yl10ljcvp008n6ti].[pcto:cnt:F1:qk:2]</rows>
+        <cols>[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]</cols>
+      </table>
+      <simple-id uuid='{5393339F-1B5E-43A3-8444-92624C20B39A}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard name='knowledge'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontname='Nunito Black'>EMPLOYER SUPPORT FOR EMPLOYEE MENTAL HEALTH IN THE TECH INDUSTRY</run>
+            <run fontalignment='2'>Æ&#10;</run>
+            <run fontalignment='2' fontname='FOT-RodinBokutoh Pro DB' fontsize='12'>Is there a relationship between providing more mental health resources and quality of employees&apos; mental health in the tech industry?</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <style>
+        <style-rule element='table'>
+          <format attr='background-color' value='#faf9f8' />
+        </style-rule>
+        <style-rule element='dash-title'>
+          <format attr='font-family' value='FOT-Seurat Pro B' />
+          <format attr='font-size' value='24' />
+        </style-rule>
+        <style-rule element='dash-text'>
+          <format attr='text-align' id='dash-text_5' value='auto' />
+          <format attr='wrap' id='dash-text_5' value='auto' />
+          <format attr='vertical-align' id='dash-text_1' value='auto' />
+          <format attr='text-orientation' id='dash-text_1' value='0' />
+          <format attr='wrap' id='dash-text_1' value='auto' />
+          <format attr='text-align' id='dash-text_1' value='auto' />
+          <format attr='text-align' id='dash-text_6' value='auto' />
+          <format attr='vertical-align' id='dash-text_18' value='top' />
+          <format attr='text-align' id='dash-text_18' value='left' />
+          <format attr='wrap' id='dash-text_18' value='on' />
+          <format attr='vertical-align' id='dash-text_42' value='top' />
+          <format attr='wrap' id='dash-text_42' value='auto' />
+          <format attr='vertical-align' id='dash-text_44' value='top' />
+          <format attr='wrap' id='dash-text_7' value='on' />
+          <format attr='text-align' id='dash-text_42' value='left' />
+          <format attr='vertical-align' id='dash-text_59' value='top' />
+        </style-rule>
+      </style>
+      <size sizing-mode='automatic' />
+      <zones>
+        <zone h='4809' id='35' type-v2='dashboard-object' w='14182' x='85094' y='93989'>
+          <button action='tabdoc:goto-sheet window-id=&quot;{BEED45A0-DF01-41DC-92E6-30765E8D98EA}&quot;'>
+            <button-visual-state>
+              <image-path>C:/Users/peate/Documents/SchoolProfessional/2021S2-data301/dash_images/button_go-to-st-research-question.png</image-path>
+            </button-visual-state>
+          </button>
+        </zone>
+        <zone fixed-size='112' forceUpdate='true' h='7869' id='7' is-fixed='true' type-v2='text' w='85646' x='13824' y='9290'>
+          <formatted-text>
+            <run fontalignment='1' fontname='FOT-Seurat Pro B' fontsize='13'> Is there a relationship between employees&apos; </run>
+            <run fontalignment='1' fontcolor='#6581b8' fontname='FOT-Seurat Pro EB' fontsize='15'>knowledge</run>
+            <run fontalignment='1' fontname='FOT-Seurat Pro B' fontsize='13'> of employer-provided mental health resources and </run>
+            <run fontalignment='1' fontcolor='#6581b8' fontname='FOT-Seurat Pro EB' fontsize='15'>quality</run>
+            <run fontalignment='1' fontname='FOT-Seurat Pro B' fontsize='13'> of mental health?</run>
+          </formatted-text>
+          <zone-style>
+            <format attr='border-color' value='#f1d5cb' />
+            <format attr='border-style' value='dashed' />
+            <format attr='border-width' value='3' />
+            <format attr='padding' value='12' />
+          </zone-style>
+        </zone>
+        <zone h='90055' id='5' param='vert' type-v2='layout-flow' w='11970' x='424' y='9836'>
+          <zone fixed-size='229' forceUpdate='true' h='20373' id='18' is-fixed='true' type-v2='text' w='11970' x='424' y='9836'>
+            <formatted-text>
+              <run fontsize='10'>This dataset is based on a 2014 survey conducted by the Open Sourcing Mental Illness Ltd nonprofit, which measured attitudes toward and prevalence of mental health disorders in the tech workplace.</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+              <format attr='padding' value='7' />
+              <format attr='background-color' value='#f9f3ef' />
+            </zone-style>
+          </zone>
+          <zone fixed-size='55' forceUpdate='true' h='8560' id='21' is-fixed='true' type-v2='text' w='11970' x='424' y='30209'>
+            <formatted-text>
+              <run fontalignment='1' fontcolor='#6581b8' fontname='FOT-Seurat Pro B' fontsize='18'>883 </run>
+              <run fontalignment='1' fontsize='12'>respondents</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+              <format attr='padding' value='4' />
+              <format attr='background-color' value='#fae3d9' />
+            </zone-style>
+          </zone>
+          <zone fixed-size='209' forceUpdate='true' h='20373' id='6' is-fixed='true' type-v2='text' w='11970' x='424' y='38769'>
+            <formatted-text>
+              <run fontcolor='#6581b8' fontname='FOT-Seurat Pro B' fontsize='18'>77.8% </run>
+              <run fontsize='10'>of those working for a tech company reported having a mental health condition</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+              <format attr='padding' value='4' />
+              <format attr='background-color' value='#f9f3ef' />
+            </zone-style>
+          </zone>
+          <zone fixed-size='279' forceUpdate='true' h='20373' id='9' is-fixed='true' type-v2='text' w='11970' x='424' y='59142'>
+            <formatted-text>
+              <run fontalignment='1' fontcolor='#6581b8' fontname='FOT-Seurat Pro B' fontsize='18'>63%</run>
+              <run fontalignment='1' fontcolor='#6581b8' fontname='FOT-Seurat Pro B' fontsize='10'>Æ </run>
+              <run fontalignment='1' fontsize='10'>of employees with a mental health condition have sought treatment</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+              <format attr='padding' value='4' />
+              <format attr='background-color' value='#fae3d9' />
+            </zone-style>
+          </zone>
+          <zone fixed-size='279' forceUpdate='true' h='20376' id='39' is-fixed='true' type-v2='text' w='11970' x='424' y='79515'>
+            <formatted-text>
+              <run fontcolor='#6581b8' fontname='FOT-Seurat Pro B' fontsize='18'>47.7%</run>
+              <run fontsize='10'> feel that their mental health condition sometimes interferes with their work</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+              <format attr='padding' value='4' />
+              <format attr='background-color' value='#f9f3ef' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='padding' value='0' />
+          </zone-style>
+        </zone>
+        <zone forceUpdate='true' h='8634' id='1' type-v2='text' w='100000' x='0' y='0'>
+          <formatted-text>
+            <run fontcolor='#f5f5f5' fontname='FOT-Seurat Pro EB' fontsize='24'>★ SUPPORTING EMPLOYEE MENTAL HEALTH IN THE TECH INDUSTRY ★</run>
+          </formatted-text>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='background-color' value='#6581b8' />
+          </zone-style>
+        </zone>
+        <zone h='39454' id='41' param='vert' type-v2='layout-flow' w='40996' x='13083' y='17923'>
+          <zone fixed-size='51' forceUpdate='true' h='8016' id='42' is-fixed='true' type-v2='text' w='40132' x='13515' y='18602'>
+            <formatted-text>
+              <run fontname='FOT-Seurat Pro DB'>Respondents </run>
+              <run fontname='FOT-Seurat Pro B'>with</run>
+              <run fontname='FOT-Seurat Pro DB'> a mental health condition are likely to be</run>
+              <run fontcolor='#d69a9d' fontname='FOT-Seurat Pro B'> more knowledgeable</run>
+              <run fontname='FOT-Seurat Pro DB'> about available mental health resources.</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='30080' id='63' name='know/cond' show-title='false' w='40132' x='13515' y='26618'>
+            <layout-cache type-h='fixed' type-w='fixed' />
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#f1d5cb' />
+            <format attr='border-style' value='dashed' />
+            <format attr='border-width' value='1' />
+            <format attr='padding' value='4' />
+          </zone-style>
+        </zone>
+        <zone h='74973' id='43' param='vert' type-v2='layout-flow' w='44599' x='54737' y='18033'>
+          <zone fixed-size='90' forceUpdate='true' h='13315' id='44' is-fixed='true' type-v2='text' w='44427' x='54823' y='18169'>
+            <formatted-text>
+              <run fontname='FOT-Seurat Pro DB'>Respondents with </run>
+              <run bold='true' fontname='FOT-Seurat Pro B'>more</run>
+              <run fontname='FOT-Seurat Pro DB'> knowledge about mental health resources are</run>
+              <run fontname='FOT-Seurat Pro B'> more likely to have sought treatment.</run>
+              <run fontname='FOT-Seurat Pro DB'> Perhaps having more knowledge opens up opportunities for one to seek out treatment for their mental health condition</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone fixed-size='660' h='61386' id='51' is-fixed='true' name='know/trt' show-title='false' w='44427' x='54823' y='31484'>
+            <layout-cache minheight='193' type-h='scalable' type-w='cell' />
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#f1d5cb' />
+            <format attr='border-style' value='dashed' />
+            <format attr='border-width' value='1' />
+          </zone-style>
+        </zone>
+        <zone h='41967' id='52' param='horz' type-v2='layout-flow' w='41033' x='13131' y='57377'>
+          <zone fixed-size='216' forceUpdate='true' h='41695' id='59' is-fixed='true' type-v2='text' w='19360' x='13217' y='57513'>
+            <formatted-text>
+              <run bold='true'>More knowledge</run>
+              <run> is </run>
+              <run bold='true'>positively</run>
+              <run> associated with mental health interfering &quot;Sometimes&quot; or &quot;Often,&quot; suggesting that knowledge </run>
+              <run bold='true'>does not </run>
+              <run>improve the severity of mental health conditions.
+
+However, the &quot;Knowledgeable&quot; category also has the highest proportion of &quot;rarely&quot; responses. Since the survey did not measure before-and-after effects of treatment and/or knowledge, the effects of knowledge on severity of mental health issues cannot be concluded from this data.</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='41695' id='53' name='know/interfere' show-title='false' w='21501' x='32577' y='57513'>
+            <layout-cache minwidth='224' type-h='fixed' type-w='scalable' />
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#f1d5cb' />
+            <format attr='border-style' value='dashed' />
+            <format attr='border-width' value='1' />
+          </zone-style>
+        </zone>
+        <zone h='7541' id='40' is-centered='0' is-scaled='1' param='C:/Users/peate/Documents/SchoolProfessional/2021S2-data301/dash_images/RQ2.png' type-v2='bitmap' w='7599' x='10334' y='12240' />
+      </zones>
+      <simple-id uuid='{9E936207-7540-4CFE-B96E-5F564E2AA846}' />
+    </dashboard>
+    <dashboard name='resources'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontname='Nunito Black'>EMPLOYER SUPPORT FOR EMPLOYEE MENTAL HEALTH IN THE TECH INDUSTRY</run>
+            <run fontalignment='2'>Æ&#10;</run>
+            <run fontalignment='2' fontname='FOT-RodinBokutoh Pro DB' fontsize='12'>Is there a relationship between providing more mental health resources and quality of employees&apos; mental health in the tech industry?</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <style>
+        <style-rule element='table'>
+          <format attr='background-color' value='#faf9f8' />
+        </style-rule>
+        <style-rule element='dash-title'>
+          <format attr='font-family' value='FOT-Seurat Pro B' />
+          <format attr='font-size' value='24' />
+        </style-rule>
+        <style-rule element='dash-text'>
+          <format attr='text-align' id='dash-text_5' value='auto' />
+          <format attr='wrap' id='dash-text_5' value='auto' />
+          <format attr='vertical-align' id='dash-text_1' value='auto' />
+          <format attr='text-orientation' id='dash-text_1' value='0' />
+          <format attr='wrap' id='dash-text_1' value='auto' />
+          <format attr='text-align' id='dash-text_1' value='auto' />
+          <format attr='text-align' id='dash-text_6' value='auto' />
+          <format attr='vertical-align' id='dash-text_18' value='top' />
+          <format attr='text-align' id='dash-text_18' value='left' />
+          <format attr='wrap' id='dash-text_18' value='on' />
+          <format attr='vertical-align' id='dash-text_42' value='top' />
+          <format attr='wrap' id='dash-text_42' value='auto' />
+          <format attr='vertical-align' id='dash-text_44' value='top' />
+          <format attr='text-align' id='dash-text_42' value='right' />
+        </style-rule>
+      </style>
+      <size sizing-mode='automatic' />
+      <zones>
+        <zone h='4809' id='35' type-v2='dashboard-object' w='14182' x='85094' y='93989'>
+          <button action='tabdoc:goto-sheet window-id=&quot;{091B81B0-874C-4C53-8890-36C74CC1DD1E}&quot;'>
+            <button-visual-state>
+              <image-path>C:/Users/peate/Documents/SchoolProfessional/2021S2-data301/dash_images/button_go-to-nd-research-question.png</image-path>
+            </button-visual-state>
+          </button>
+        </zone>
+        <zone fixed-size='112' forceUpdate='true' h='13115' id='7' is-fixed='true' type-v2='text' w='85653' x='13799' y='9836'>
+          <formatted-text>
+            <run fontalignment='1' fontname='FOT-Seurat Pro B' fontsize='16'>    Is there a relationship between the</run>
+            <run fontalignment='1' fontname='FOT-Seurat Pro B' fontsize='14'>Æ </run>
+            <run fontalignment='1' fontcolor='#6581b8' fontname='FOT-Seurat Pro EB' fontsize='20'>amount</run>
+            <run fontalignment='1' fontname='FOT-Seurat Pro B' fontsize='14'>Æ </run>
+            <run fontalignment='1' fontname='FOT-Seurat Pro B' fontsize='16'>of employer-provided mental health resources and</run>
+            <run fontalignment='1' fontname='FOT-Seurat Pro B' fontsize='14'>Æ </run>
+            <run fontalignment='1' fontcolor='#6581b8' fontname='FOT-Seurat Pro EB' fontsize='20'>quality</run>
+            <run fontalignment='1' fontname='FOT-Seurat Pro B' fontsize='14'>Æ </run>
+            <run fontalignment='1' fontname='FOT-Seurat Pro B' fontsize='16'>of tech employees&apos; mental health?</run>
+          </formatted-text>
+          <zone-style>
+            <format attr='border-color' value='#f1d5cb' />
+            <format attr='border-style' value='dashed' />
+            <format attr='border-width' value='3' />
+            <format attr='padding' value='12' />
+          </zone-style>
+        </zone>
+        <zone fixed-size='686' h='69399' id='22' is-fixed='true' name='resources/interfere' w='44297' x='55100' y='24044'>
+          <layout-cache minheight='186' type-h='scalable' type-w='cell' />
+          <zone-style>
+            <format attr='border-color' value='#f1d5cb' />
+            <format attr='border-style' value='dashed' />
+            <format attr='border-width' value='1' />
+          </zone-style>
+        </zone>
+        <zone h='90055' id='5' param='vert' type-v2='layout-flow' w='11970' x='424' y='9836'>
+          <zone fixed-size='229' forceUpdate='true' h='20373' id='18' is-fixed='true' type-v2='text' w='11970' x='424' y='9836'>
+            <formatted-text>
+              <run fontsize='10'>This dataset is based on a 2014 survey conducted by the Open Sourcing Mental Illness Ltd nonprofit, which measured attitudes toward and prevalence of mental health disorders in the tech workplace.</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+              <format attr='padding' value='7' />
+              <format attr='background-color' value='#f9f3ef' />
+            </zone-style>
+          </zone>
+          <zone fixed-size='55' forceUpdate='true' h='8560' id='21' is-fixed='true' type-v2='text' w='11970' x='424' y='30209'>
+            <formatted-text>
+              <run fontalignment='1' fontcolor='#6581b8' fontname='FOT-Seurat Pro B' fontsize='18'>883 </run>
+              <run fontalignment='1' fontsize='12'>respondents</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+              <format attr='padding' value='4' />
+              <format attr='background-color' value='#fae3d9' />
+            </zone-style>
+          </zone>
+          <zone fixed-size='209' forceUpdate='true' h='20373' id='6' is-fixed='true' type-v2='text' w='11970' x='424' y='38769'>
+            <formatted-text>
+              <run fontcolor='#6581b8' fontname='FOT-Seurat Pro B' fontsize='18'>77.8% </run>
+              <run fontsize='10'>of those working for a tech company reported having a mental health condition</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+              <format attr='padding' value='4' />
+              <format attr='background-color' value='#f9f3ef' />
+            </zone-style>
+          </zone>
+          <zone fixed-size='279' forceUpdate='true' h='20373' id='9' is-fixed='true' type-v2='text' w='11970' x='424' y='59142'>
+            <formatted-text>
+              <run fontalignment='1' fontcolor='#6581b8' fontname='FOT-Seurat Pro B' fontsize='18'>63%</run>
+              <run fontalignment='1' fontcolor='#6581b8' fontname='FOT-Seurat Pro B' fontsize='10'>Æ </run>
+              <run fontalignment='1' fontsize='10'>of employees with a mental health condition have sought treatment</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+              <format attr='padding' value='4' />
+              <format attr='background-color' value='#fae3d9' />
+            </zone-style>
+          </zone>
+          <zone fixed-size='279' forceUpdate='true' h='20376' id='39' is-fixed='true' type-v2='text' w='11970' x='424' y='79515'>
+            <formatted-text>
+              <run fontcolor='#6581b8' fontname='FOT-Seurat Pro B' fontsize='18'>47.7%</run>
+              <run fontsize='10'> feel that their mental health condition sometimes interferes with their work</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+              <format attr='padding' value='4' />
+              <format attr='background-color' value='#f9f3ef' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='padding' value='0' />
+          </zone-style>
+        </zone>
+        <zone forceUpdate='true' h='8634' id='1' type-v2='text' w='100000' x='0' y='0'>
+          <formatted-text>
+            <run fontcolor='#f5f5f5' fontname='FOT-Seurat Pro EB' fontsize='24'>★ SUPPORTING EMPLOYEE MENTAL HEALTH IN THE TECH INDUSTRY ★</run>
+          </formatted-text>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='background-color' value='#6581b8' />
+          </zone-style>
+        </zone>
+        <zone h='8852' id='40' is-centered='0' is-scaled='1' param='C:/Users/peate/Documents/SchoolProfessional/2021S2-data301/dash_images/RQ1.png' type-v2='bitmap' w='7599' x='10517' y='8415' />
+        <zone h='39344' id='41' param='horz' type-v2='layout-flow' w='40243' x='13860' y='24044'>
+          <zone fixed-size='170' forceUpdate='true' h='37986' id='42' is-fixed='true' type-v2='text' w='15384' x='14292' y='24723'>
+            <formatted-text>
+              <run fontname='FOT-Seurat Pro DB'>The majority of respondents are</run>
+              <run bold='true' fontname='FOT-Seurat Pro B'>Æ </run>
+              <run bold='true' fontcolor='#d69a9d' fontname='FOT-Seurat Pro B'>not</run>
+              <run bold='true' fontname='FOT-Seurat Pro B'>Æ </run>
+              <run fontname='FOT-Seurat Pro DB'>provided with enough options for mental health support, </run>
+              <run fontname='FOT-Seurat Pro B'>regardless</run>
+              <run fontname='FOT-Seurat Pro DB'> of whether they have a mental health condition.</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='37986' id='31' name='resources/cond' show-title='false' w='23992' x='29676' y='24723'>
+            <layout-cache cell-count-w='4' minheight='192' non-cell-size-w='38' type-h='scalable' type-w='cell' />
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#f1d5cb' />
+            <format attr='border-style' value='dashed' />
+            <format attr='border-width' value='1' />
+            <format attr='padding' value='4' />
+          </zone-style>
+        </zone>
+        <zone h='33333' id='43' param='horz' type-v2='layout-flow' w='40304' x='13799' y='64809'>
+          <zone fixed-size='492' h='33061' id='29' is-fixed='true' name='resources/trt' show-title='false' w='37366' x='13885' y='64945'>
+            <layout-cache minheight='145' type-h='scalable' type-w='cell' />
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone forceUpdate='true' h='33061' id='44' type-v2='text' w='2766' x='51251' y='64945'>
+            <formatted-text>
+              <run fontname='FOT-Seurat Pro DB'>Is providing </run>
+              <run fontname='FOT-Seurat Pro B'>more</run>
+              <run fontname='FOT-Seurat Pro DB'> mental health resources associated with a </run>
+              <run fontname='FOT-Seurat Pro B'>higher likelihood </run>
+              <run fontname='FOT-Seurat Pro DB'>of seeking treatment?</run>
+              <run fontalignment='2'>&#10;A </run>
+              <run bold='true' fontalignment='2'>larger </run>
+              <run fontalignment='2'>proportion of those with </run>
+              <run bold='true' fontalignment='2'>sufficient</run>
+              <run fontalignment='2'> mental health resources have sought treatment, compared to those with </run>
+              <run bold='true' fontalignment='2'>insufficient </run>
+              <run fontalignment='2'>resources. However, this difference is </run>
+              <run bold='true' fontalignment='2'>marginal.</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#f1d5cb' />
+            <format attr='border-style' value='dashed' />
+            <format attr='border-width' value='1' />
+          </zone-style>
+        </zone>
+      </zones>
+      <simple-id uuid='{E358D6B5-C69C-4BD0-A7FB-EA6E11EFBBF1}' />
+    </dashboard>
+  </dashboards>
+  <windows source-height='30'>
+    <window class='worksheet' name='MH prevalence'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{6AE624D7-56C0-44A0-B1FA-FFF6D5E99BA7}' />
+    </window>
+    <window class='worksheet' name='treatment'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{4DD71C87-8E07-4CA6-B149-3E1FCEA8230F}' />
+    </window>
+    <window class='worksheet' name='resources/cond'>
+      <cards>
+        <edge name='left'>
+          <strip size='268'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:resources:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{02560A2E-9D05-4DFD-ACA6-4AFBD61774F3}' />
+    </window>
+    <window class='worksheet' name='resources/trt'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{7AD02799-9191-4342-9330-16BF59CA4682}' />
+    </window>
+    <window class='worksheet' name='resources/interfere'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{03861470-4707-4494-B547-6523234E97D5}' />
+    </window>
+    <window class='dashboard' maximized='true' name='resources' tab-color='#dec77b'>
+      <viewpoints>
+        <viewpoint name='resources/cond'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='resources/interfere'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='resources/trt'>
+          <zoom type='entire-view' />
+        </viewpoint>
+      </viewpoints>
+      <active id='22' />
+      <simple-id uuid='{BEED45A0-DF01-41DC-92E6-30765E8D98EA}' />
+    </window>
+    <window class='worksheet' name='know/cond'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:condition:nk]&#10;[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:knowledge:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{031E2507-FE6E-4D03-8FB9-F68C1955347E}' />
+    </window>
+    <window class='worksheet' name='know/trt'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:treatment:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{13D525F3-C379-4E10-992A-C90055A534D5}' />
+    </window>
+    <window class='worksheet' name='know/interfere'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:knowledge:nk]&#10;[federated.1v293tr0ze49yl10ljcvp008n6ti].[none:work_interfere:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{F076E6E5-C0B6-4D99-9298-B0061E1EF299}' />
+    </window>
+    <window class='dashboard' name='knowledge' tab-color='#dec77b'>
+      <viewpoints>
+        <viewpoint name='know/cond' />
+        <viewpoint name='know/interfere' />
+        <viewpoint name='know/trt'>
+          <zoom type='entire-view' />
+        </viewpoint>
+      </viewpoints>
+      <active id='35' />
+      <simple-id uuid='{091B81B0-874C-4C53-8890-36C74CC1DD1E}' />
+    </window>
+  </windows>
+</workbook>
