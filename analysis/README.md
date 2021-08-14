@@ -111,16 +111,16 @@ health are, companies that do not allow there employees to work remotly, do not 
 
 ## Gale
 
-#### Research questions
+### Research questions
 
 1. Is there a relationship between providing more mental health resources and quality of employees' mental health in the tech industry?
 2. Is there a relationship between employees' knowledge of the mental health resources available and the quality of mental health?
 
-#### Hypotheses
+### Hypotheses
 1. I speculate that there may be a positive relationship between how many mental health resources are provided by employers and the quality of mental health among employees. If employees are being provided with more mental health resources, then it seems reasonable that mental health should improve.
 2. Similar to RQ1, more knowledge of mental health resources available might provide employees with more opportunities to seek help for their mental health and enable them to do so. The mere reassurance of knowing that there is help available might even be enough to improve mental health slightly. Thus, I predict that more knowledge of mental health resources might be positively associated with employees' mental health.
 
-#### Explanation of analysis approach
+### Explanation of analysis approach
 
 **How mental health was assessed**
 
