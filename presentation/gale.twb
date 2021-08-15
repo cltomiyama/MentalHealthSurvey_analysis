@@ -880,37 +880,12 @@
               </multibucket>
             </map>
           </encoding>
-          <encoding attr='color' field='[none:work_interfere (mh_processed1_gc.csv):nk]' palette='a3' type='palette'>
-            <map to='#6581b8'>
-              <bucket>&quot;Sometimes&quot;</bucket>
-            </map>
-            <map to='#8ac6d1'>
-              <bucket>&quot;Rarely&quot;</bucket>
-            </map>
-            <map to='#bbded6'>
-              <bucket>&quot;Often&quot;</bucket>
-            </map>
-            <map to='#ffb6b9'>
-              <bucket>&quot;Never&quot;</bucket>
-            </map>
-          </encoding>
           <encoding attr='color' field='[none:resources:nk]' palette='a3' type='palette'>
             <map to='#bbded6'>
               <bucket>&quot;Good&quot;</bucket>
             </map>
             <map to='#ffb6b9'>
               <bucket>&quot;Poor&quot;</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[none:treatment (mh_processed1_gc.csv):nk]' palette='a3' type='palette'>
-            <map to='#8ac6d1'>
-              <bucket>%null%</bucket>
-            </map>
-            <map to='#bbded6'>
-              <bucket>&quot;No&quot;</bucket>
-            </map>
-            <map to='#ffb6b9'>
-              <bucket>&quot;Yes&quot;</bucket>
             </map>
           </encoding>
           <encoding attr='color' field='[none:condition:nk]&#10;[none:knowledge:nk]' palette='a3' type='palette'>
@@ -949,6 +924,31 @@
                 <bucket>&quot;Yes&quot;</bucket>
                 <bucket>&quot;Knowledgeable&quot;</bucket>
               </multibucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:treatment (mh_processed1_gc.csv):nk]' palette='a3' type='palette'>
+            <map to='#8ac6d1'>
+              <bucket>%null%</bucket>
+            </map>
+            <map to='#bbded6'>
+              <bucket>&quot;No&quot;</bucket>
+            </map>
+            <map to='#ffb6b9'>
+              <bucket>&quot;Yes&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:work_interfere (mh_processed1_gc.csv):nk]' palette='a3' type='palette'>
+            <map to='#6581b8'>
+              <bucket>&quot;Sometimes&quot;</bucket>
+            </map>
+            <map to='#8ac6d1'>
+              <bucket>&quot;Rarely&quot;</bucket>
+            </map>
+            <map to='#bbded6'>
+              <bucket>&quot;Often&quot;</bucket>
+            </map>
+            <map to='#ffb6b9'>
+              <bucket>&quot;Never&quot;</bucket>
             </map>
           </encoding>
         </style-rule>
@@ -2585,7 +2585,7 @@
             </zone-style>
           </zone>
           <zone h='29289' id='63' name='know/cond' show-title='false' w='40455' x='13380' y='24917'>
-            <layout-cache cell-count-h='6' non-cell-size-h='30' type-h='cell' type-w='fixed' />
+            <layout-cache type-h='cell' type-w='fixed' />
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -2706,6 +2706,7 @@ However, &quot;Knowledgeable&quot; also has the </run>
           <format attr='wrap' id='dash-text_42' value='auto' />
           <format attr='vertical-align' id='dash-text_44' value='top' />
           <format attr='text-align' id='dash-text_42' value='right' />
+          <format attr='font-weight' value='normal' />
         </style-rule>
       </style>
       <size sizing-mode='automatic' />
@@ -2852,7 +2853,7 @@ However, &quot;Knowledgeable&quot; also has the </run>
             </zone-style>
           </zone>
           <zone h='42624' id='31' name='resources/cond' show-title='false' w='30200' x='23857' y='16939'>
-            <layout-cache cell-count-w='4' minheight='192' non-cell-size-w='54' type-h='scalable' type-w='cell' />
+            <layout-cache minheight='192' type-h='scalable' type-w='cell' />
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -3176,7 +3177,7 @@ However, &quot;Knowledgeable&quot; also has the </run>
           </highlight>
         </viewpoint>
       </viewpoints>
-      <active id='-1' />
+      <active id='42' />
       <simple-id uuid='{091B81B0-874C-4C53-8890-36C74CC1DD1E}' />
     </window>
   </windows>
