@@ -15,14 +15,14 @@ Goal: observe if employees are more open to talking about mental health with cow
 
 ## 1. Number of employees vs. Mental health consequence vs. Supervisor
 
-![graph1](https://github.com/data301-2021-summer2/project-group37-project/blob/main/images/carolina/graph1.jpg?raw=true)
+![graph1](https://github.com/data301-2021-summer2/project-group37-project/blob/main/images/graph1.jpg?raw=true)
 Figure 1. Frequency of "Yes" entries to the question "Do you think that discussing a mental health issue with your employer would have a negative consequence?" across tech organizations with different numbers of employees. 
 
 - Out of 292 "Yes" entries, 81 (27.7%) came from workers of tech companies that have more than 1000 employees.
 - 13% were from workers in companies with 1-5 employees, 18.8% from 6-25 employees, 22.6% from 26-100 employees, 13.4% from 100-500 employees, 4.5% from 500-1000 employees, and 27.7% from companies with more than 1000 employees.
 - Concrete conclusions cannot be drawn solely from this plot as the sample size differs across companies' sizes.
 
-![graph2](https://github.com/data301-2021-summer2/project-group37-project/blob/main/images/carolina/graph2.jpg?raw=true)
+![graph2](https://github.com/data301-2021-summer2/project-group37-project/blob/main/images/graph2.jpg?raw=true)
 Figure 2. The employees' expectations when discussing a mental health issue with an employer across tech companies with different numbers of employees. The trend between the two variables is observed along with the employees' willingness to discuss a mental health issue with their supervisor. The data was collected from 1259 tech employees' answers to a survey. There is a relevant correlation between the number of employees and the mental health consequence variable (χ2 contingency test, df= 10, χ2= 21.14, p-value= 0.02).
 
 If small companies have less than 100 employees and big companies have more than 100, the data demonstrates that employees from small tech companies are more confident that discussing a mental health issue with employers does not have negative consequences than employees from big tech companies. Although "Maybe" is not equivalent to "Yes", both answers point to similar conclusions, which the responder would not be open to talking about a mental health issue with the employer since they believe (certainly or not) that it could have negative consequences.
@@ -31,7 +31,7 @@ When comparing with the question: "Would you be willing to discuss a mental heal
 
 ## 2. Number of employees vs. Supervisor vs. Coworkers
 
-![graph3](https://github.com/data301-2021-summer2/project-group37-project/blob/main/images/carolina/graph3.jpg?raw=true)
+![graph3](https://github.com/data301-2021-summer2/project-group37-project/blob/main/images/graph3.jpg?raw=true)
 Figure 3. The employees' willingness to discuss a mental health issue with their supervisor across tech companies with different numbers of employees. The trend between the two variables is observed along with the employees' willingness to discuss a mental health issue with their coworkers. The data was collected from 1259 tech employees' answers to a survey. There is a relevant correlation between the number of employees and the supervisor variable (χ2 contingency test, df= 10, χ2= 20.60, p-value= 0.02). There is also a relevant correlation between the number of employees and the coworkers variable (χ2 contingency test, df= 10, χ2= 28.45, p-value= 0.001)
 
 Looking at the count of the supervisor column, the number of employees that are willing to discuss mental health issues with any direct supervisor is higher in organizations with less than 500 employees. On the other hand, the number of "No" answers outstands "Yes" and "Some of them" in companies with more than 500 employees. Even though "Yes" and "Some of them" are segregated in the plot, logically, they can both be interpreted as employees being open to discussing mental health. However, the plot shows that small companies have a significantly higher "Yes" frequency than "Some of them". This may suggest that all the relationships in small organizations are more intimate or open as employees are willing to talk about mental health with any supervisor.
