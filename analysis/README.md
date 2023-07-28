@@ -1,4 +1,4 @@
-# Is there a correlation between the number of employees in a tech company and how open employees are to discuss mental health?
+# Is there a correlation between the number of employees in a tech company and how open employees are to discussing mental health?
 
 ## Hypothesis:
 I predict that employees are less willing to discuss mental health in the workplace as the number of employees in a company increases. This is because the relations between coworkers, and workers and supervisors are more distant and superficial in big companies.
