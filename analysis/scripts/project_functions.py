@@ -1,3 +1,4 @@
+# Packages import
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -5,6 +6,7 @@ import matplotlib.pyplot as plt
 import pandas_profiling
 from pandas_profiling import ProfileReport
 
+# Loading and cleaning the dataset
 def load_and_process_ct(csv_file):
     df_raw= (
         pd.read_csv(csv_file)
@@ -26,6 +28,7 @@ def load_and_process_ct(csv_file):
     
     return df
 
+# Counting survey answers
 def count_table_ct(variable_name):
     variable = eval(variable_name)
     
@@ -51,6 +54,7 @@ def count_table_ct(variable_name):
     variable_count= variable_count2.append(pd.DataFrame(total.values, index= total.keys()).T, ignore_index= True)
     return variable_count
 
+# Bar graph
 def count_plot_ct(variable_name):
     variable= eval(variable_name)
     
@@ -124,6 +128,7 @@ def groupby_noe_ct(variable1, variable2):
                     .set_table_styles([dict(selector= 'th', props= [('text-align', 'left')])]).format('{0:,.0f}'))
     return df_noe
 
+# Statistical test
 def chi_sq(table):
     stat, p, dof, expected= chi2_contingency(table)
     print('(p-value =', p, 'df =', dof, ')')
